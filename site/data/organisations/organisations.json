@@ -470,6 +470,11 @@
     "url": "https://www.torproject.org/"
   },
   {
+    "name": "TYPO3 Association",
+    "img": "typo3.png",
+    "url": "https://typo3.org/association/"
+  },
+  {
     "name": "VideoLAN",
     "img": "videolan.png",
     "url": "https://www.videolan.org"
