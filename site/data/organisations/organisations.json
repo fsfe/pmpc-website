@@ -265,6 +265,11 @@
     "url": "http://www.gvsig.com/"
   },
   {
+    "name": "Hacking Lliure",
+    "img": "lliure.png",
+    "url": "https://hackinglliure.org/"
+  },
+  {
     "name": "HackYourPhD",
     "img": "HackYourPhD.png",
     "url": "https://hackyourphd.org/"
