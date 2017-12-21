@@ -1,4 +1,4 @@
-# == YOUR LANGUAGE ==
+# == ITALIAN ==
 
 # General strings
 [Languages.it]
@@ -66,8 +66,8 @@
   text      = "Già **$INDS SIGNATURES** – firma la lettera aperta adesso!"
 
 [Languages.it.action.form]
-  name      = "Nome (required)"
-  email     = "Email (required)"
+  name      = "Nome (obbligatorio)"
+  email     = "Email (obbligatoria)"
   country   = "La tua nazione"
   zip       = "CAP"
   comment   = "Il tuo commento (max. 140 caratteri)"
