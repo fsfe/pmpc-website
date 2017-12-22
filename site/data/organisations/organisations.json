@@ -125,6 +125,11 @@
     "url": "http://democracyos.eu/"
   },
   {
+    "name": "Drupal",
+    "img": "drupal.png",
+    "url": "https://drupal.org"
+  },
+  {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
     "url": "https://exposefacts.org/"
