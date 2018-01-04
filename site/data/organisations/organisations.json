@@ -240,6 +240,11 @@
     "url": "https://gentoo.org/"
   },
   {
+    "name": "LILA",
+    "img": "lila.png",
+    "url": "http://libreart.info/"
+  },
+  {
     "name": "GFOSS",
     "img": "GFOSS.png",
     "url": "https://gfoss.eu/"
