@@ -260,6 +260,11 @@
     "url": "https://www.gnome.org"
   },
   {
+    "name": "GNU Image Manipulation Program (GIMP)",
+    "img": "gimp.png",
+    "url": "https://www.gimp.org/"
+  },
+  {
     "name": "GNU Solidario",
     "img": "gnusolidario.png",
     "url": "http://www.gnusolidario.org/"
