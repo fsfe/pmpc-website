@@ -553,5 +553,10 @@
     "name": "Xnet",
     "img": "xnet.png",
     "url": "https://xnet-x.net/"
+  },
+  {
+    "name": "Software in the Public Interest",
+    "img": "spi-inc.png",
+    "url": "http://spi-inc.org/"
   }
 ]
