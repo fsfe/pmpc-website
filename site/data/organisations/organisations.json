@@ -558,5 +558,10 @@
     "name": "FOSSGIS e.V.",
     "img": "fossgis.png",
     "url": "https://www.fossgis.de/"
+  },
+  {
+    "name": "Software in the Public Interest",
+    "img": "spi-inc.png",
+    "url": "http://spi-inc.org/"
   }
 ]
