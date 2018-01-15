@@ -553,5 +553,10 @@
     "name": "Xnet",
     "img": "xnet.png",
     "url": "https://xnet-x.net/"
+  },
+  {
+    "name": "FOSSGIS e.V.",
+    "img": "fossgis.png",
+    "url": "https://www.fossgis.de/"
   }
 ]
