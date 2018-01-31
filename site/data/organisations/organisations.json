@@ -455,6 +455,11 @@
     "url": "http://quintessenz.at" 
   },
   {
+    "name": "Rampa",
+    "img": "rampa.png",
+    "url": "http://www.rampalab.org/"
+  },
+  {
     "name": "Samtgemeinde Elbmarsch",
     "img": "samtgemeinde.png",
     "url": "http://www.samtgemeinde-elbmarsch.de/"
