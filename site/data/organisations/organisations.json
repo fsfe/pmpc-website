@@ -240,6 +240,11 @@
     "url": "https://fsfe.org"
   },
   {
+    "name": "Freifunk.net",
+    "img": "freifunk.png",
+    "url": "https://freifunk.net/"
+  },
+  {
     "name": "Gentoo",
     "img": "gentoo.png",
     "url": "https://gentoo.org/"
