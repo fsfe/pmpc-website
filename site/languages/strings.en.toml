@@ -43,7 +43,7 @@
 [[Languages.en.arguments.list]]
   icon        = "fa-handshake-o"  # <-- do not translate this
   title       = "Collaboration"
-  description = "Efforts on major projects can share expertise and costs."  
+  description = "Major projects can share expertise and costs."  
 [[Languages.en.arguments.list]]
   icon        = "fa-users"  # <-- do not translate this
   title       = "Serving the public"
