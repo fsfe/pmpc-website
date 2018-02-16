@@ -6,6 +6,23 @@
         <hr />
         <!-- replace the URL defined in config.toml because this snipped is used in sub-pages too -->
         <p>{{ replace .Site.Params.organisations.text "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
+        <div class="radio-filter-orgs">
+            <label>
+                <input name="filter_orgs" type="radio" onclick="showAllOrgs()" checked><span class="label-text">All</span></input>
+            </label>
+            <label>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('international_ngo')"><span class="label-text">International NGO</span></input>
+            </label>
+            <label>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('local_ngo')"><span class="label-text">Local NGO</span></input>
+            </label>
+            <label>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('corporate')"><span class="label-text">Corporate</span></input>
+            </label>
+            <label>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('administration')"><span class="label-text">Administrations</span></input>
+            </label>
+        </div>
         <div class="expand" tabindex="0">
           <i class="fa fa-share" aria-hidden="true"></i>
         </div>
@@ -15,12 +32,16 @@
                  to their priorities -->
             {{ $orgs := getJSON "data/organisations/organisations.json" }}
             {{ range $int := shuffle (where $orgs "priority" "1") }}
-              <li><a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a></li>
+              <li class="org" orgtype="{{ .orgtype }}" >
+                <a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a>
+              </li>
             {{ end }}
 
             {{ range $int := shuffle (where $orgs "priority" "0") }}
-              <li><a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a></li>
-            {{ end }}
+              <li class="org" orgtype="{{ .orgtype }}" >
+                <a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a>
+              </li>
+                {{ end }}
           </ul>
         </div>
       </div>
