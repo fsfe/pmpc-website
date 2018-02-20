@@ -26,6 +26,13 @@ function selectOrgType(type) {
             li_orgs[i].style.display = "inline-block";
         }
     }
+
+    // Hide the 'expand' arrow if there is no need for it
+    if (countOrgsToDisplay(li_orgs, type) < 27) {
+        document.getElementsByClassName('expand')[0].style.visibility = 'hidden';
+    } else {
+        document.getElementsByClassName('expand')[0].style.visibility = 'visible';
+    }
 }
 
 function showAllOrgs() {
@@ -34,4 +41,10 @@ function showAllOrgs() {
     for (i = 0; i < li_orgs.length; i++) {
         li_orgs[i].style.display = "inline-block";
     }
+}
+
+function countOrgsToDisplay(orgs, type) {
+    return Array.from(orgs).filter(function(element) {
+        return element.getAttribute('orgtype') === type;
+    }).length;
 }
