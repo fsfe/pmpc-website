@@ -79,8 +79,13 @@
 
 # Organisations section
 [Languages.en.organisations]
-  headline  = "Supporting Organisations"
-  text      = "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+  administrations   = "Administrations"
+  all               = "All"
+  corporate         = "Corporate"
+  headline          = "Supporting Organisations"
+  international_ngo = "International NGOs"
+  local_ngo         = "Local NGOs"
+  text              = "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
 
 
 # Spread the word section
