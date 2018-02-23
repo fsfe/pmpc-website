@@ -8,21 +8,21 @@
         <p>{{ replace .Site.Params.organisations.text "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
         <div class="radio-filter-orgs">
             <label>
-                <input name="filter_orgs" type="radio" onclick="showAllOrgs()" checked><span class="label-text">{{ .Site.Params.organisations.all }}</span></input> </label>
+                <input name="filter_orgs" type="radio" onclick="showAllOrgs()" checked><span class="label-text">{{ i18n "organisations_all" }}</span></input> </label>
             <label>
-                <input name="filter_orgs" type="radio" onclick="selectOrgType('international_ngo')"><span class="label-text">{{ .Site.Params.organisations.international_ngo }}</span></input>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('international_ngo')"><span class="label-text">{{ i18n "organisations_international_ngo" }}</span></input>
             </label>
             <label>
-                <input name="filter_orgs" type="radio" onclick="selectOrgType('administration')"><span class="label-text">{{ .Site.Params.organisations.administrations }}</span></input>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('administration')"><span class="label-text">{{ i18n "organisations_administration" }}</span></input>
             </label>
             <label>
-                <input name="filter_orgs" type="radio" onclick="selectOrgType('national_ngo')"><span class="label-text">{{ .Site.Params.organisations.national_ngo }}</span></input>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('national_ngo')"><span class="label-text">{{ i18n "organisations_national_ngo" }}</span></input>
             </label>
             <label>
-                <input name="filter_orgs" type="radio" onclick="selectOrgType('regional_ngo')"><span class="label-text">{{ .Site.Params.organisations.regional_ngo }}</span></input>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('regional_ngo')"><span class="label-text">{{ i18n "organisations_regional_ngo" }}</span></input>
             </label>
             <!--<label>
-                <input name="filter_orgs" type="radio" onclick="selectOrgType('corporate')"><span class="label-text">{{ .Site.Params.organisations.corporate }}</span></input>
+                <input name="filter_orgs" type="radio" onclick="selectOrgType('corporate')"><span class="label-text">{{ i18n "organisations_corporate" }}</span></input>
             </label> -->
         </div>
         <div class="expand" tabindex="0">

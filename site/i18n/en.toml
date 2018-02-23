@@ -1,0 +1,12 @@
+[organisations_administration]
+other = "Administrations"
+[organisations_all]
+other = "All"
+[organisations_corporate]
+other = "Corporate"
+[organisations_international_ngo]
+other = "International NGOs"
+[organisations_national_ngo]
+other = "National NGOs"
+[organisations_regional_ngo]
+other = "Regional NGOs"
