@@ -448,3 +448,48 @@ a:hover {
     display: none;
   }
 }
+
+.radio-filter-orgs label {
+    margin-right:5%;
+    position: relative;
+    cursor: pointer;
+    color: #666;
+    font-family: "Open Sans";
+}
+
+.radio-filter-orgs input[type="radio"]  {
+    display:none;
+}
+
+.radio-filter-orgs input[type="radio"] + .label-text:before{
+    content: "\f10c";
+    font-family: "FontAwesome";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing:antialiased;
+    width: 1em;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.radio-filter-orgs input[type="radio"]:checked + .label-text:before{
+    content: "\f192";
+    color: #2093C4;
+    animation: effect 250ms ease-in;
+}
+
+.radio-filter-orgs input[type="radio"]:disabled + .label-text{
+    color: #aaa;
+}
+
+@keyframes effect{
+    0%{transform: scale(0);}
+    25%{transform: scale(1.3);}
+    75%{transform: scale(1.4);}
+    100%{transform: scale(1);}
+}
+
