@@ -41,6 +41,9 @@ function showAllOrgs() {
     for (i = 0; i < li_orgs.length; i++) {
         li_orgs[i].style.display = "inline-block";
     }
+
+    // The expand arrow must always be visible if we show all organisations
+    document.getElementsByClassName('expand')[0].style.visibility = 'visible';
 }
 
 function countOrgsToDisplay(orgs, type) {
