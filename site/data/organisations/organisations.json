@@ -601,6 +601,13 @@
     "priority": "0",
     "url": "https://opensource.org/"
   },
+   {
+     "name": "OpenUK",
+     "img": "openuk.png",
+     "orgtype": "national_ngo",
+     "priority": "1",
+     "url": "https://openuk.uk/"
+   },
   {
     "name": "Otevřená města",
     "img": "otevrenamesta.png",
