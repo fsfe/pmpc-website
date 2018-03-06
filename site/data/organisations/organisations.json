@@ -84,6 +84,13 @@
     "url": "https://ccc-ch.ch/"
   },
   {
+    "name": "CivicTech Romania",
+    "img": "civtec-romania.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://civictech.ro/"
+  },
+  {
     "name": "CMS Garden",
     "img": "CMSGarden.png",
     "orgtype": "international_ngo",
