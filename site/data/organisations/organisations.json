@@ -2,446 +2,645 @@
   {
     "name": "ADULLACT",
     "img": "adullact.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://adullact.org/"
   },
   {
     "name": "Ajuntament de Barcelona",
     "img": "bcn.png",
+    "orgtype": "administration",
+    "priority": "1",
     "url": "http://www.bcn.cat/"
   },
   {
     "name": "apertus° Association",
     "img": "apertus.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://www.apertus.org/"
   },
   {
     "name": "Aptivate",
     "img": "aptivate.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "www.aptivate.org/"
   },
-   {
+  {
     "name": "ASL.Org - Associação Software Livre ",
     "img": "asl-org.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://asl.org.br"
   },
   {
     "name": "Digitale Allmend",
     "img": "digitaleallmend.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://allmend.ch/"
   },
   {
     "name": "Aquilenet",
     "img": "aquilenet.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://www.aquilenet.fr/"
   },
   {
     "name": "Asociația pentru Tehnologie și Internet",
     "img": "apti.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.apti.ro/"
   },
   {
     "name": "Association Francophone des Utilisateurs de Logiciels Libres",
     "img": "aful.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://aful.org/"
   },
   {
     "name": "Associação Ensino Livre",
     "img": "ael.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://ensinolivre.pt"
   },
-   {
+  {
     "name": "Associação Nacional para o Software Livre",
     "img": "ansol.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://ansol.org/"
   },
   {
     "name": "CCC Switzerland",
     "img": "ccc-ch.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://ccc-ch.ch/"
+  },
+  {
+    "name": "CivicTech Romania",
+    "img": "civtec-romania.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://civictech.ro/"
   },
   {
     "name": "CMS Garden",
     "img": "CMSGarden.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "http://www.cms-garden.org/en"
   },
   {
     "name": "Colectic",
     "img": "colectic.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://colectic.coop/"
   },
   {
     "name": "Commons Institut",
     "img": "CommonsInstitut.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://commons-institut.org/"
   },
   {
     "name": "P2P Foundation",
     "img": "P2PFoundation.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://p2pfoundation.net/"
   },
   {
     "name": "Digitale Gesellschaft",
     "img": "digitalegesellschaft.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://digitalegesellschaft.de/"
   },
   {
     "name": "Do-FOSS",
     "img": "do-foss.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "http://blog.do-foss.de/"
   },
-   {
+  {
     "name": "Center for the Cultivation of Technology",
     "img": "CCT.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://techcultivation.org/"
   },
   {
     "name": "Courage Foundation",
-  	"img": "couragefound.png",
+    "img": "couragefound.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://couragefound.org/"
   },
   {
     "name": "Chaos Computer Club",
     "img": "CCC.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://www.ccc.de"
   },
   {
     "name": "Creative Commons",
     "img": "creativecommons.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://creativecommons.org/"
   },
   {
     "name": "Debian",
     "img": "debian.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://debian.org"
   },
   {
     "name": "Digitale Gesellschaft Schweiz",
     "img": "dgs.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.digitale-gesellschaft.ch/"
   },
-{
+  {
     "name": "DFRI",
     "img": "dfri.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.dfri.se/?lang=en"
   },
   {
     "name": "Democracy OS France",
     "img": "democracyosFR.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://democracyos.eu/"
   },
   {
     "name": "Drupal",
     "img": "drupal.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://drupal.org"
   },
   {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://exposefacts.org/"
   },
-    {
+  {
     "name": "ELLAK Cyprus",
     "img": "ELLAKCyprus.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://ellak.org.cy/"
   },
   {
     "name": "FAImaison",
     "img": "FAImaison.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.faimaison.net/"
   },
   {
     "name": "Linux User Group Of Slovenia",
     "img": "lugos.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://www.lugos.si"
   },
   {
     "name": "digitalcourage",
     "img": "digitalcourage.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://digitalcourage.de/"
   },
   {
     "name": "D3-Defesa dos Direitos Digitais",
     "img": "DefensaDosDireitosDigitais.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://direitosdigitais.pt/"
   },
   {
     "name": "April",
     "img": "april.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://www.april.org/en"
   },
   {
     "name": "Doteveryone",
     "img": "doteveryone.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://doteveryone.org.uk/"
   },
   {
     "name": "Dyne.org Foundation",
     "img": "dyne.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://dyne.org"
   },
   {
     "name": "European Digital Rights",
     "img": "edri.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://edri.org"
   },
   {
     "name": "ePaństwo Foundation",
     "img": "epanstwo.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://epf.org.pl"
   },
   {
     "name": "Epicenter.works",
     "img": "epicenterworks.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://epicenter.works"
   },
   {
     "name": "FACIL",
     "img": "facil.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://facil.qc.ca/"
   },
   {
     "name": "Fedora Project",
     "img": "fedora.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://fedoraproject.org/"
   },
   {
-    "name":"FIfF",
+    "name": "FIfF",
     "img": "FIfF.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.fiff.de/"
   },
   {
     "name": "FFKP (Society for Free Culture and Software)",
     "img": "ffkp.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "http://ffkp.se/"
   },
   {
     "name": "FOSSASIA",
     "img": "fossasia.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://fossasia.org/"
   },
- {
+  {
     "name": "Framasoft",
     "img": "framasoft.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://framasoft.org/"
   },
   {
     "name": "Free Knowledge Institute",
     "img": "freeknowledgeinstitute.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "http://freeknowledge.eu/"
   },
   {
     "name": "Free Libre Open Source Software Kosova",
     "img": "flossk.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "http://flossk.org/"
   },
   {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://fsfe.org"
+  },
+  {
+    "name": "Freifunk.net",
+    "img": "freifunk.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://freifunk.net/"
   },
   {
     "name": "Gentoo",
     "img": "gentoo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://gentoo.org/"
   },
   {
     "name": "LILA",
     "img": "lila.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "http://libreart.info/"
   },
   {
     "name": "GFOSS",
     "img": "GFOSS.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://gfoss.eu/"
   },
   {
     "name": "GNOME",
     "img": "GNOME.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.gnome.org"
   },
   {
     "name": "GNU Image Manipulation Program (GIMP)",
     "img": "gimp.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://www.gimp.org/"
   },
   {
     "name": "GNU Solidario",
     "img": "gnusolidario.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "http://www.gnusolidario.org/"
   },
   {
     "name": "GreekLUG",
     "img": "greeklug.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.greeklug.gr/el/"
   },
   {
     "name": "Grupo de Amigos de Linux de Pontevedra",
     "img": "galpon.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://www.galpon.org/"
   },
   {
     "name": "gvSIG Association",
     "img": "gvsig.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "http://www.gvsig.com/"
   },
   {
     "name": "Hacking Lliure",
     "img": "lliure.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://hackinglliure.org/"
   },
   {
     "name": "HackYourPhD",
     "img": "HackYourPhD.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://hackyourphd.org/"
   },
   {
     "name": "Hermes Center for Transparency and Digital Human Rights",
     "img": "hermes.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.hermescenter.org/"
   },
   {
     "name": "Associazione Industria Italiana del Software Libero",
     "img": "iisl.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://www.industriasoftwarelibero.it/"
   },
   {
     "name": "Italian Linux Society",
     "img": "ils.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.ils.org/"
   },
   {
     "name": "Joomla",
     "img": "joomla.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://www.joomla.org/"
   },
   {
     "name": "Kersnikova",
     "img": "kersnikova.png",
-    "url": "http://www.kapelica.org/"
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "http://kersnikova.org/"
   },
   {
     "name": "KDE e.V.",
     "img": "kde.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://ev.kde.org"
   },
   {
     "name": "La Quadrature du Net",
     "img": "laquadrature.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.laquadrature.net"
   },
   {
     "name": "LibreITALIA",
     "img": "libreitalia.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "http://www.libreitalia.it/"
   },
   {
     "name": "linuxmuster.net e.V",
     "img": "linuxmuster.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.linuxmuster.net/"
   },
   {
     "name": "Linuxwochen",
     "img": "linuxwoche.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.linuxwochen.at/"
   },
   {
     "name": "Mageia",
     "img": "mageia.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://www.mageia.org/en/"
   },
   {
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://nowoczesnapolska.org.pl"
   },
   {
     "name": "Offene Kommunen.NRW",
     "img": "oknrw.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "http://oknrw.de"
   },
   {
     "name": "Openbit",
     "img": "openbit.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://openbit.eu/"
   },
   {
     "name": "Open Fabrication Network",
     "img": "ofn.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://openfabnet.com/"
   },
   {
     "name": "Open Knowledge Belgium",
     "img": "okbe.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.openknowledge.be/"
   },
   {
     "name": "Open Knowledge Foundation Deutschland",
     "img": "okf.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://okfn.de"
   },
   {
     "name": "Open Knowledge International",
     "img": "okint.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://okfn.org/"
   },
   {
     "name": "Open Labs",
     "img": "OpenLabs.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://openlabs.cc/en/"
   },
   {
     "name": "OpenMedia",
     "img": "openmedia.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://openmedia.org/"
   },
-   {
+  {
     "name": "Open Rights Group",
     "img": "openrightsgroup.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.openrightsgroup.org/"
   },
   {
     "name": "OpenStreetMap France",
-    "img": "openstreetmap-france.png", 
+    "img": "openstreetmap-france.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.openstreetmap.fr/"
   },
   {
     "name": "Open Source Business Alliance",
     "img": "osba.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "http://osb-alliance.de"
   },
   {
     "name": "Open State Foundation",
     "img": "openstatefoundation.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://openstate.eu"
   },
   {
     "name": "openSUSE",
     "img": "OpenSUSE.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.opensuse.org/"
   },
   {
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://opensource.org/"
   },
+   {
+     "name": "OpenUK",
+     "img": "openuk.png",
+     "orgtype": "national_ngo",
+     "priority": "1",
+     "url": "https://openuk.uk/"
+   },
   {
     "name": "Otevřená města",
     "img": "otevrenamesta.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://www.otevrenamesta.cz/"
   },
   {
     "name": "OW2 Consortium",
     "img": "ow2.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.ow2.org/"
   },
   {
     "name": "p≡p foundation",
     "img": "pep.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://pep.foundation"
   },
   {
     "name": "Plone Foundation",
     "img": "plone.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://plone.org/"
   },
   {
@@ -452,131 +651,184 @@
   {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://publicsoftware.eu/"
   },
   {
     "name": "quintessenz - Verein zur Wiederherstellung der Bürgerrechte im Informationszeitalter",
     "img": "quintessenz.png",
-    "url": "http://quintessenz.at" 
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "http://quintessenz.at"
   },
   {
     "name": "Rampa",
     "img": "rampa.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "http://www.rampalab.org/"
   },
   {
     "name": "Samtgemeinde Elbmarsch",
     "img": "samtgemeinde.png",
+    "orgtype": "administration",
+    "priority": "1",
     "url": "http://www.samtgemeinde-elbmarsch.de/"
   },
   {
     "name": "Saregune",
     "img": "saregune.png",
-    "url": "http://www.saregune.net/es/" 
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "http://www.saregune.net/es/"
   },
   {
     "name": "Sentilo",
     "img": "sentilo.png",
-    "url": "http://www.sentilo.io/" 
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "http://www.sentilo.io/"
   },
   {
     "name": "Slovensko.Digital",
     "img": "slovenskodigital.png",
-    "url": "https://slovensko.digital/" 
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://slovensko.digital/"
   },
-   {
+  {
     "name": "Softcatalà",
     "img": "softcatala.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://www.softcatala.org/"
   },
-   {
+  {
     "name": "Software Heritage",
     "img": "softwareheritage.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.softwareheritage.org/"
   },
-   {
+  {
     "name": "Software Liberty Association Taiwan",
     "img": "slat.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://slat.org/"
   },
-   {
+  {
     "name": "Spoločnosť pre otvorené informačné technológie",
     "img": "soit.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "http://www.soit.sk/"
   },
   {
     "name": "SwissLinux",
     "img": "swisslinux.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://swisslinux.org/"
   },
-   {
+  {
     "name": "Technologiestiftung Berlin",
     "img": "tsb.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://www.technologiestiftung-berlin.de"
   },
   {
     "name": "The Document Foundation",
     "img": "tdf.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.documentfoundation.org"
   },
-   {
+  {
     "name": "The Tor Project",
     "img": "torproject.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.torproject.org/"
   },
   {
     "name": "TYPO3 Association",
     "img": "typo3.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://typo3.org/association/"
   },
   {
     "name": "VideoLAN",
     "img": "videolan.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
     "url": "https://www.videolan.org"
   },
   {
     "name": "Waag Society",
     "img": "waag.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://waag.org"
   },
   {
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://wikimedia.de"
   },
-{
+  {
     "name": "Wikimedia France",
     "img": "wikimediafrance.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://wikimedia.fr"
   },
   {
     "name": "Wikimedia Italia",
     "img": "wmit.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
     "url": "https://wiki.wikimedia.it/wiki/Main_page"
   },
   {
     "name": "Wilhelm Tux - Kampagne für Freie Software",
     "img": "wilhelmtux.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://wilhelmtux.ch/"
   },
   {
     "name": "World Privacy and Identity Association",
     "img": "wpia.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "https://wpia.club/"
   },
   {
     "name": "Xnet",
     "img": "xnet.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
     "url": "https://xnet-x.net/"
   },
   {
     "name": "FOSSGIS e.V.",
     "img": "fossgis.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://www.fossgis.de/"
   },
   {
     "name": "Software in the Public Interest",
     "img": "spi-inc.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
     "url": "http://spi-inc.org/"
   }
 ]
+
