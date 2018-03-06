@@ -646,6 +646,8 @@
   {
     "name": "PROSA - Danish Association of IT Professionals",
     "img": "prosa.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
     "url": "https://prosa.dk/"
   },
   {
