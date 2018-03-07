@@ -777,6 +777,13 @@
     "url": "https://waag.org"
   },
   {
+    "name": "Wikimedia Česká Republika",
+    "img": "wikimedia-czech.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
+    "url": "https://www.wikimedia.cz"
+  },
+  {
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "orgtype": "national_ngo",
