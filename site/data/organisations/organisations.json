@@ -756,6 +756,13 @@
     "url": "https://www.torproject.org/"
   },
   {
+    "name": "ThisHosting.Rocks",
+    "img": "thishostingrocks.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://thishosting.rocks/"
+  },
+  {
     "name": "TYPO3 Association",
     "img": "typo3.png",
     "orgtype": "international_ngo",
