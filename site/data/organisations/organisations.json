@@ -693,6 +693,13 @@
     "url": "http://www.saregune.net/es/"
   },
   {
+    "name": "SETEM Catalunya",
+    "img": "setem.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "http://www.setem.cat/"
+  },
+  {
     "name": "Sentilo",
     "img": "sentilo.png",
     "orgtype": "international_ngo",
