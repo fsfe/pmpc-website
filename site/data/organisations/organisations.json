@@ -616,6 +616,13 @@
      "url": "https://openuk.uk/"
    },
   {
+    "name": "Open Source Weekends",
+    "img": "opensourceweekends.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "http://osweekends.com/"
+  },
+  {
     "name": "Otevřená města",
     "img": "otevrenamesta.png",
     "orgtype": "national_ngo",
