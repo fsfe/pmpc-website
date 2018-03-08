@@ -77,6 +77,13 @@
     "url": "https://ansol.org/"
   },
   {
+    "name": "Barcelona Free Software Friends",
+    "img": "barcelonafsfriends.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://bcnfs.org/"
+  },
+  {
     "name": "Bergamo Linux Users Group",
     "img": "bglug.png",
     "orgtype": "regional_ngo",
