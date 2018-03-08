@@ -147,6 +147,13 @@
     "url": "https://techcultivation.org/"
   },
   {
+    "name": "Communecter",
+    "img": "communecter.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.communecter.org"
+  },
+  {
     "name": "Courage Foundation",
     "img": "couragefound.png",
     "orgtype": "international_ngo",
