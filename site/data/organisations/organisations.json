@@ -770,6 +770,13 @@
     "url": "http://www.soit.sk/"
   },
   {
+    "name": "Stratum 0 - Hackerspace Braunschweig",
+    "img": "stratum0.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://stratum0.org"
+  },
+  {
     "name": "SwissLinux",
     "img": "swisslinux.png",
     "orgtype": "national_ngo",
