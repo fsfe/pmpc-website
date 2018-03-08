@@ -427,6 +427,13 @@
     "url": "http://www.gvsig.com/"
   },
   {
+    "name": "Hackerspace.gr",
+    "img": "hackerspacegr.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.hackerspace.gr/"
+  },
+  {
     "name": "Hacking Lliure",
     "img": "lliure.png",
     "orgtype": "regional_ngo",
