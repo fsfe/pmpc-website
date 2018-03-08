@@ -672,6 +672,13 @@
     "url": "https://pep.foundation"
   },
   {
+    "name": "Pica Pica HackLab",
+    "img": "picahacklab.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "http://www.picahack.org/"
+  },
+  {
     "name": "Plone Foundation",
     "img": "plone.png",
     "orgtype": "international_ngo",
