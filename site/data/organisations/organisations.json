@@ -497,6 +497,13 @@
     "url": "https://ev.kde.org"
   },
   {
+    "name": "La Paillasse",
+    "img": "lapaillasse.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.lapaillasse.org/"
+  },
+  {
     "name": "La Quadrature du Net",
     "img": "laquadrature.png",
     "orgtype": "international_ngo",
