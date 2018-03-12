@@ -427,6 +427,13 @@
     "url": "https://www.galpon.org/"
   },
   {
+    "name": "Grupo de Programadores y Usuarios de Linux",
+    "img": "gpul.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://gpul.org/"
+  },
+  {
     "name": "gvSIG Association",
     "img": "gvsig.png",
     "orgtype": "international_ngo",
