@@ -539,6 +539,13 @@
     "url": "https://www.linuxwochen.at/"
   },
   {
+    "name": "Elektra Initiative",
+    "img": "elektra.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.libelektra.org"
+  },
+  {
     "name": "Mageia",
     "img": "mageia.png",
     "orgtype": "international_ngo",
