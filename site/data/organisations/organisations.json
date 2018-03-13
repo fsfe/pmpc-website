@@ -217,6 +217,13 @@
     "url": "https://drupal.org"
   },
   {
+    "name": "Eigenbaukombinat Halle e.V.",
+    "img": "eigenbaukombinat.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://eigenbaukombinat.de/"
+  },
+  {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
     "orgtype": "international_ngo",
