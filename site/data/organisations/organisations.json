@@ -252,6 +252,13 @@
     "url": "https://ellak.org.cy/"
   },
   {
+    "name": "Electronic Reuse",
+    "img": "ereuse.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.ereuse.org/"
+  },
+  {
     "name": "FAImaison",
     "img": "FAImaison.png",
     "orgtype": "national_ngo",
