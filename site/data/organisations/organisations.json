@@ -721,6 +721,13 @@
     "url": "https://plone.org/"
   },
   {
+    "name": "Pordenone Linux User Group",
+    "img": "pnlug.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.pnlug.it/"
+  },
+  {
     "name": "PROSA - Danish Association of IT Professionals",
     "img": "prosa.png",
     "orgtype": "national_ngo",
