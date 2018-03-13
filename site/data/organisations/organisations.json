@@ -455,6 +455,13 @@
     "url": "https://hackyourphd.org/"
   },
   {
+    "name": "HardenedLinux",
+    "img": "hardenedlinux.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://hardenedlinux.github.io/"
+  },
+  {
     "name": "Hermes Center for Transparency and Digital Human Rights",
     "img": "hermes.png",
     "orgtype": "international_ngo",
