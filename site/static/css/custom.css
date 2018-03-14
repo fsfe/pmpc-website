@@ -12,6 +12,14 @@ blockquote p {
 .btn {
   white-space: normal; /* wrap button words */
 }
+noscript {
+  background-color: #fcf8e3;
+  border-bottom: 1px solid #faebcc;
+  color: #8a6d3b;
+  display: block;
+  padding: 6px 12px;
+  text-align: center;
+}
 
 /* SUBPAGES */
 .subpage {
