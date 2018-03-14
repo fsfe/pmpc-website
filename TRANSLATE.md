@@ -102,6 +102,14 @@ made good experiences with translating such campaign names. All our graphics,
 logos, and other communication is using this brand. So if you can, just stick
 to the English term.
 
+### i18n/
+
+Here you can find one file for each language – e.g. `en.toml` for English,
+`de.toml` for German. For each language we use [ISO 3166-1 alpha2
+codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
+
+For information about these translation strings, please go to [the official Hugo
+documentation](https://gohugo.io/content-management/multilingual/#translation-of-strings).
 
 ## Where to upload the translations?
 
