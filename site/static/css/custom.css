@@ -439,7 +439,7 @@ a:hover {
 /* FLOATING SIGNATURE BOX */
 #action-box {
   position: fixed;
-  top: 60px;
+  top: 96px;
   left: 0px;
   background: rgba(64,166,46,0.8);
   color: #fff;
