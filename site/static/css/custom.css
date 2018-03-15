@@ -12,7 +12,7 @@ blockquote p {
 .btn {
   white-space: normal; /* wrap button words */
 }
-noscript {
+.noscript {
   background-color: #fcf8e3;
   border-bottom: 1px solid #faebcc;
   color: #8a6d3b;
