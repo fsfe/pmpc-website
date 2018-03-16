@@ -357,6 +357,13 @@
     "url": "http://ffkp.se/"
   },
   {
+    "name": "FOSS-AG Dortmund",
+    "img": "foss-ag.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://foss-ag.de/"
+  },
+  {
     "name": "FOSSASIA",
     "img": "fossasia.png",
     "orgtype": "international_ngo",
