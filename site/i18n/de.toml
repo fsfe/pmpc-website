@@ -10,3 +10,5 @@ other = "Internationale NGOs"
 other = "Nationale NGOs"
 [organisations_regional_ngo]
 other = "Regionale NGOs"
+[javascript_warning]
+other = "<b>Achtung:</b> Einige interaktive Funktionen funktionieren nicht mit deaktiviertem Javascript."
