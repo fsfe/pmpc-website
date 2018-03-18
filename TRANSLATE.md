@@ -102,6 +102,11 @@ made good experiences with translating such campaign names. All our graphics,
 logos, and other communication is using this brand. So if you can, just stick
 to the English term.
 
+Note for website developers: new strings are to be created in `i18n/`
+(see below). We will take care of migrating the already translated
+strings to the new format so as a translator you don't have to take
+care of this circumstance.
+
 ### i18n/
 
 Here you can find one file for each language – e.g. `en.toml` for English,
