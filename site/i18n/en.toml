@@ -11,4 +11,4 @@ other = "National NGOs"
 [organisations_regional_ngo]
 other = "Regional NGOs"
 [javascript_warning]
-other = "<b>Warning:</b> Interactive features will not work with JavaScript disabled."
+other = "<b>Warning:</b> Some interactive features will not work with JavaScript disabled."
