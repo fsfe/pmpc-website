@@ -95,7 +95,7 @@
 # Legal Section
 [Languages.it.legal]
   by            = "Questa è una campagna promossa da Free Software Foundation Europe"
-  imprint       = "Imprint"
+  imprint       = "Note legali"
   privacy       = "Privacy"
   transparency  = "Trasparenza"
   contribute1   = "Il codice di questo sito web è Software Libero." 
