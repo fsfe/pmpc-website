@@ -154,6 +154,11 @@ website is automatically deployed when there's a push to the master
 branch of the repository, as well as once an hour (to update
 signatures).
 
+To trigger a build, use something like this:
+
+```
+git commit --allow-empty -m 'Trigger build'
+```
 
 ## Maintainers
 
