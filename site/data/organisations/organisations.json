@@ -532,6 +532,13 @@
     "url": "https://www.ils.org/"
   },
   {
+    "name": "Integreat",
+    "img": "integreat.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://integreat-app.de/en/"
+  },
+  {
     "name": "Joomla",
     "img": "joomla.png",
     "orgtype": "international_ngo",
