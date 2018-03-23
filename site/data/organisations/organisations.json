@@ -427,6 +427,13 @@
     "url": "http://libreart.info/"
   },
   {
+    "name": "Léa-Linux",
+    "img": "lea-linux.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "http://lea-linux.org/"
+  },
+  {
     "name": "GFOSS",
     "img": "GFOSS.png",
     "orgtype": "national_ngo",
