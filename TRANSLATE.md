@@ -48,7 +48,9 @@ do not need write access, but the documentation on that is not yet complete.
 ## Translatable files
 
 There are a few locations where you find translatable files. All of them are
-inside the `site/` directory
+inside the `site/` directory. Please note that we can only accept complete
+translations of the website for technical reasons, except for the video
+subtitles.
 
 ### Content/
 
@@ -115,6 +117,15 @@ codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code
 
 For information about these translation strings, please go to [the official Hugo
 documentation](https://gohugo.io/content-management/multilingual/#translation-of-strings).
+
+### static/video-subs/
+
+In this folder you can find the time-coded subtitles for the PMPC
+video. They exist in SRT and WebVTT format which slightly differ in
+their syntax. Unfortunately, we need both to support every web browser.
+Unlike the other files, you don't necessarily need to provide a
+translation of the subtitles in order to allow us to localise the
+website.
 
 ## Where to upload the translations?
 
