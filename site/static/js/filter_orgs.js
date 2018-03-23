@@ -28,7 +28,7 @@ function selectOrgType(type) {
     }
 
     // Hide the 'expand' arrow if there is no need for it
-    if (countOrgsToDisplay(li_orgs, type) < 27) {
+    if (countOrgsToDisplay(li_orgs, type) < 28) {
         document.getElementsByClassName('expand')[0].style.visibility = 'hidden';
     } else {
         document.getElementsByClassName('expand')[0].style.visibility = 'visible';
