@@ -3,7 +3,7 @@
 # Put all available languages here, except "en". Separated by spaces
 TRANSLATIONS="ca da de el eo es fr hu it nb nl pt sv tr zh_tw"
 
-basedir="${0%/*}/.."
+basedir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
 cd "$basedir"
 mode=$1
 
