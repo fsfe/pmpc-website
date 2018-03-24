@@ -37,7 +37,7 @@ else
 
   done
 
-  ## After successfully building the website, we set the AWS credentials and uplodad
+  ## After successfully building the website, we set the AWS credentials and upload
   ## everything to our AWS s3 bucket.
   ##
   #if [ -f /srv/cred/aws.sh ]; then
