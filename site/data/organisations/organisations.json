@@ -630,6 +630,13 @@
     "url": "https://nowoczesnapolska.org.pl"
   },
   {
+    "name": "Neutrinet",
+    "img": "neutrinet.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://neutrinet.be/"
+  },
+  {
     "name": "Offene Kommunen.NRW",
     "img": "oknrw.png",
     "orgtype": "regional_ngo",
