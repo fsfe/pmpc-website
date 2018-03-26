@@ -140,6 +140,13 @@
     "url": "https://civictech.ro/"
   },
   {
+    "name": "Cliss XXI",
+    "img": "clissxxi.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "http://www.cliss21.com/"
+  },
+  {
     "name": "CMS Garden",
     "img": "CMSGarden.png",
     "orgtype": "international_ngo",
