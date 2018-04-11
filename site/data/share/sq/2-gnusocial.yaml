@@ -1,0 +1,9 @@
+titleBefore: Shpërndaje në
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes thirrjen e @fsfe@quitter.no për më tepër #parapublikekodpublik:"
+
+# Do not translate below here
+id: gnusocial
+name: GNU Social
+userinput: true
