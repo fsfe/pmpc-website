@@ -17,8 +17,8 @@ në të njëjtën mënyrë siç trajton infrastrukturën digjitale:
 5
 00:00:09,480 --> 00:00:12,560
 Anëtarët e parlamentit do të punonin në një hapësirë me qira
-6
 
+6
 00:00:12,560 --> 00:00:16,360
 ku ata nuk do të lejoheshin të votonin në favor të ligjeve më të forta ambientale
 
@@ -132,7 +132,7 @@ administratat tona prokurojnë softuerë të mbyllur.
 
 34
 00:01:29,820 --> 00:01:33,420
-Kjo do të thotë se shumica e arave shkon per licensa
+Kjo do të thotë se shumica e parave shkon per licensa
 
 35
 00:01:33,420 --> 00:01:35,960
@@ -172,7 +172,7 @@ Por administratat tona publike mund të bëjnë shumë më tepër!
 
 44
 00:01:59,580 --> 00:02:04,540
-Nëse softueri i financuar me para publike do ishte i lirë dhe me kod burimi të hapur,
+Nëse softueri i financuar me para publike do ishte i lirë dhe me kod burim të hapur,
 
 45
 00:02:04,540 --> 00:02:07,440
@@ -180,7 +180,7 @@ ne mund të përdorim dhe ndajmë infrastrukturën tonë
 
 46
 00:02:07,440 --> 00:02:10,140
-për cdo gjë, dhe për sa kohë të duam.
+për çdo gjë, dhe për sa kohë të duam.
 
 47
 00:02:10,140 --> 00:02:12,140
@@ -200,7 +200,7 @@ në një mënyrë të tillë që përmbush nevojat tona.
 
 51
 00:02:18,360 --> 00:02:21,800
-Dhe meqë kod burimi i hapur ne softuerin e lirë do të thotë se
+Dhe meqë kod burim i hapur ne softuerin e lirë do të thotë se
 
 52
 00:02:21,800 --> 00:02:25,080
@@ -208,7 +208,7 @@ projekti është i lexueshëm haptazi për të gjithë,
 
 53
 00:02:25,080 --> 00:02:29,860
-kjo e bën shumë më të thjeshtë t'i gjesh gjesh dhe t'i mbyllësh boshllëqet e sigurisë.
+kjo e bën shumë më të thjeshtë t'i gjesh dhe t'i mbyllësh boshllëqet e sigurisë.
 
 54
 00:02:29,860 --> 00:02:34,660
@@ -220,7 +220,7 @@ ju jo vetëm mund të ripërdorni projektin përgjatë gjithë shtetit tuaj,
 
 56
 00:02:39,100 --> 00:02:42,960
-por ai mund të zhvillohet edhe vet, kudo,
+por ai mund të zhvillohet edhe vetë, kudo,
 
 57
 00:02:42,960 --> 00:02:44,960
@@ -232,7 +232,7 @@ Një shembull  shumë i mirë është FixMyStreet:
 
 59
 00:02:48,580 --> 00:02:50,460
-I zhvilluar fillimisht në Britaninë e Madhe,
+I zhvilluar fillimisht në Britaninë e Madhe
 
 60
 00:02:50,460 --> 00:02:52,420

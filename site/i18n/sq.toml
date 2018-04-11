@@ -1,0 +1,14 @@
+[organisations_administration]
+other = "Administratat"
+[organisations_all]
+other = "Të gjitha"
+[organisations_corporate]
+other = "Korporatat"
+[organisations_international_ngo]
+other = "Organizatat ndërkombëtare jo-qeveritare"
+[organisations_national_ngo]
+other = "Organizatat kombëtare jo-qeveritare"
+[organisations_regional_ngo]
+other = "Organizatat rajonale jo-qeveritare"
+[javascript_warning]
+other = "<b>Lajmërim:</b> Disa karakteristika interaktive nuk do të punojnë kur JavaScript është i ç'aktivizuar."
