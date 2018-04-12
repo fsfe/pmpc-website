@@ -623,6 +623,13 @@
     "url": "http://lea-linux.org/"
   },
   {
+    "name": "LUKi e.V.",
+    "img": "luki.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://luki.org/"
+  },
+  {
     "name": "Mageia",
     "img": "mageia.png",
     "orgtype": "international_ngo",
