@@ -12,6 +12,7 @@
         image: pmpc
         state: started
         restart: yes
+        restart_policy: always
         env:
           HUGO_BASE_URL: https://publiccode.eu/
           VIRTUAL_HOST: publiccode.eu,www.publiccode.eu
