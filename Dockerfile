@@ -23,4 +23,6 @@ COPY site/ /usr/share/blog
 
 COPY 000-default.conf /etc/apache2/sites-enabled/
 
-CMD /usr/share/blog/build/build.sh && apache2-foreground
+CMD /usr/share/blog/build/build.sh
+
+RUN apache2-foreground
