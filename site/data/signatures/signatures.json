@@ -8,6 +8,27 @@
 	},
 	"reply-to": null,
 	"include_vars": {
+		"name": "Test Docker",
+		"confirm": "jonas@example.com",
+		"country": "Testland",
+		"zip": "64632",
+		"comment": "This is a 12th signature.",
+		"permissionPriv": "yes",
+		"permissionNews": "yes",
+		"permissionPub": "yes",
+		"url": "",
+		"action": "sign"
+	}
+}, {
+	"from": "admin@example.com",
+	"to": ["tech@example.org"],
+	"subject": "New signature to PMPC",
+	"content": {
+		"html": null,
+		"plain": "Dear FSFE,\n\nI agree to sign the open letter, calling for implementing legislation\nrequiring that, as a default setting, publicly financed software must\nbe made publicly available under a Free Software licence.\n\nHey Max! Lets see if this works.\n\nThank you,\n\nTest Testson\nSweden"
+	},
+	"reply-to": null,
+	"include_vars": {
 		"name": "Test Testson",
 		"confirm": "jonas@example.com",
 		"country": "Sweden",
