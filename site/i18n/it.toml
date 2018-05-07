@@ -1,0 +1,14 @@
+[organisations_administration]
+other = "Pubbliche amministrazioni"
+[organisations_all]
+other = "Tutte"
+[organisations_corporate]
+other = "Aziende"
+[organisations_international_ngo]
+other = "ONG internazionali"
+[organisations_national_ngo]
+other = "ONG nazionali"
+[organisations_regional_ngo]
+other = "ONG locali"
+[javascript_warning]
+other = "<b>Avviso:</b> alcune funzioni interattive non saranno disponibili con JavaScript disattivato."
