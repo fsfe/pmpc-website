@@ -413,6 +413,13 @@
     "url": "https://fsfe.org"
   },
   {
+    "name": "Freie Software und Freies Wissen Dresden",
+    "img": "fsfwd.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://fsfw-dresden.de/"
+  },
+  {
     "name": "Freifunk.net",
     "img": "freifunk.png",
     "orgtype": "national_ngo",
