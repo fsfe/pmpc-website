@@ -861,6 +861,13 @@
     "url": "http://www.saregune.net/es/"
   },
   {
+    "name": "Security Without Borders",
+    "img": "swb-org.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://securitywithoutborders.org/"
+  },
+  {
     "name": "Sentilo",
     "img": "sentilo.png",
     "orgtype": "international_ngo",
