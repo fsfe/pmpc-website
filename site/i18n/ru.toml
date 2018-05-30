@@ -1,0 +1,14 @@
+[organisations_administration]
+other = "Администрации"
+[organisations_all]
+other = "Все организации"
+[organisations_corporate]
+other = "Корпоративные организации"
+[organisations_international_ngo]
+other = "Международные общественные организации"
+[organisations_national_ngo]
+other = "Национальные общественные организации"
+[organisations_regional_ngo]
+other = "Региональные общественные организации"
+[javascript_warning]
+other = "<b>Предупреждение:</b> Некоторые интерактивные функции будут недоступны, если JavaScript отключен."

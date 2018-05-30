@@ -1,0 +1,10 @@
+titleBefore: Поделиться
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe@quitter.no поддержать #publiccode:"
+
+# Do not translate below here
+id: gnusocial
+name: GNU Social
+userinput: true
+
