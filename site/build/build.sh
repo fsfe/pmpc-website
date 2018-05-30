@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Put all available languages here, except "en". Separated by spaces
-TRANSLATIONS="ca da de el eo es fr hu it nb nl pt sq sv tr zh_tw"
+TRANSLATIONS="ca da de el eo es fr hu it nb nl pt ru sq sv tr zh_tw"
 
 basedir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
 cd "$basedir"
