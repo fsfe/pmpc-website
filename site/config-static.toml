@@ -17,16 +17,16 @@ DefaultContentLanguage = "en"
   fbPageID      = "336939393138306"
   twitterUser   = "@fsfe"
 
-[[Languages.en.arguments.list]]
+[[params.arguments.list]]
   no          = "1"
   icon        = "fa-eur"
-[[Languages.en.arguments.list]]
+[[params.arguments.list]]
   no          = "2"
   icon        = "fa-handshake-o"
-[[Languages.en.arguments.list]]
+[[params.arguments.list]]
   no          = "3"
   icon        = "fa-users"
-[[Languages.en.arguments.list]]
+[[params.arguments.list]]
   no          = "1"
   icon        = "fa-lightbulb-o"
 
