@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # strings to ignore
-ignore=("languageCode" "languageName")
+ignore=("languageCode" "languageName" "arguments_list" "arguments_list_icon")
 
 while read line; do
 
@@ -30,4 +30,4 @@ while read line; do
     newline=y
   fi
 
-done < strings.en.toml
+done < "$1"
