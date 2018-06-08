@@ -8,20 +8,14 @@
                     <span class="logo-blue">{{ .Site.Params.static.slogan_1 }}</span>
                     <span class="logo-green">{{ .Site.Params.static.slogan_2 }}</span>
                 </h1>
-                {{ with .Site.Params.start.fsfe }}<h2 id="start">{{ . }}</h2>{{ end }}
             </div>
 
-            {{ if and .Site.Params.static.slogan_1 .Site.Params.start.subtitle1 }}
-                <hr />
-            {{ end }}
-            <p>{{ with .Site.Params.start.subtitle1 }}{{ . | markdownify }}{{ end }}
+            <hr />
+            <p>{{ i18n "start_subtitle1" | markdownify }}
             <br /><br />
-            {{ with .Site.Params.start.subtitle2 }}{{ . | markdownify }}{{ end }}
+            {{ i18n "start_subtitle2" | markdownify }}
             <br /><br />
-            {{ with .Site.Params.start.subtitle3 }}{{ . | markdownify }}{{ end }}</p>
-            {{ with .Site.Params.start.buttonText }}
-                <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">{{ . }}</a>-->
-            {{ end }}
+            {{ i18n "start_subtitle3" | markdownify }}</p>
             <div class="arrow-bounce">
               <a class="fa fa-chevron-down fa-3x hiddenlink page-scroll" href="#about"></a>
             </div>

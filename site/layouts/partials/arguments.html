@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">{{ .Site.Params.arguments.headline }}</h2>
+                <h2 class="section-heading">{{ i18n "arguments_headline" }}</h2>
                 <hr class="primary">
             </div>
         </div>
@@ -22,10 +22,10 @@
             </div>
             {{ end }}
         </div>
-        <div class="definition blue"><p>{{ .Site.Params.fsdefinition }}</p></div>
+        <div class="definition blue"><p>{{ i18n "fsdefinition" }}</p></div>
         <div class="col-lg-8 col-lg-offset-2 text-center" id="arguments-followup">
-          <p>{{ .Site.Params.arguments.followup | markdownify }}</p>
-          <a href="#action" class="btn btn-primary btn-xl page-scroll">{{ .Site.Params.arguments.buttonText }}</a>
+          <p>{{ i18n "arguments_followup" | markdownify }}</p>
+          <a href="#action" class="btn btn-primary btn-xl page-scroll">{{ i18n "arguments_buttonText" }}</a>
         </div>
     </div>
 </section>

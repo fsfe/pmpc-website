@@ -2,10 +2,10 @@
 <section id="organisations">
     <div class="container">
       <div class="text-center">
-        <h2 class="section-heading">{{ .Site.Params.organisations.headline }}</h2>
+        <h2 class="section-heading">{{ i18n "organisations_headline" }}</h2>
         <hr />
         <!-- replace the URL defined in config.toml because this snipped is used in sub-pages too -->
-        <p>{{ replace .Site.Params.organisations.text "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
+        <p>{{ replace (i18n "organisations_text") "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
         <div class="radio-filter-orgs">
             <label>
                 <input name="filter_orgs" type="radio" onclick="showAllOrgs()" checked><span class="label-text">{{ i18n "organisations_all" }}</span></input> </label>

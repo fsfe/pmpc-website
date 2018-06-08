@@ -25,19 +25,19 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="{{ "/" | relLangURL }}">{{ .Site.Params.navigation.links.start }}</a>
+                        <a href="{{ "/" | relLangURL }}">{{ i18n "navigation_links_start" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#about" | relLangURL }}">{{ .Site.Params.navigation.links.about }}</a>
+                        <a href="{{ "/#about" | relLangURL }}">{{ i18n "navigation_links_about" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#arguments" | relLangURL }}">{{ .Site.Params.navigation.links.arguments }}</a>
+                        <a href="{{ "/#arguments" | relLangURL }}">{{ i18n "navigation_links_arguments" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#action" | relLangURL }}">{{ .Site.Params.navigation.links.action }}</a>
+                        <a href="{{ "/#action" | relLangURL }}">{{ i18n "navigation_links_action" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#spread" | relLangURL }}">{{ .Site.Params.navigation.links.spread }}</a>
+                        <a href="{{ "/#spread" | relLangURL }}">{{ i18n "navigation_links_spread" }}</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#language" title="Change Language"><i class="fa fa-globe" aria-hidden="true" style="font-size:1.5em;vertical-align:top;"></i> {{ .Site.Params.static.language }}</a>

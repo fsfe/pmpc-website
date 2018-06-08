@@ -3,23 +3,16 @@
     <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 text-center">
-              {{ with .Site.Params.spread.headline }}
-                  <h2 class="section-heading">{{ . }}</h2>
-              {{ end }}
-              {{ with .Site.Params.spread.promoText }}
-                  <p class="text-faded">{{ . | markdownify }}</p>
-              {{ end }}
-                  <a href="{{ .Site.Params.static.promoLink }}" class="btn btn-default btn-xl page-scroll wow tada">{{ .Site.Params.spread.promoButtonText }}</a>
+              <h2 class="section-heading">{{ i18n "spread_headline" }}</h2>
+              <p class="text-faded">{{ i18n "spread_promoText" | markdownify }}</p>
+              <a href="{{ .Site.Params.static.promoLink }}" class="btn btn-default btn-xl page-scroll wow tada">{{ i18n "spread_promoButtonText" }}</a>
               <hr class="light">
-              {{ with .Site.Params.spread.shareText }}
-                  <p class="text-faded">{{ . | markdownify }}</p>
-              {{ end }}
+              <p class="text-faded">{{ i18n "spread_shareText" | markdownify }}</p>
               
               <div class="share-buttons">
-              {{ .Site.Params.spread.shareTitle }}
 
               {{ $data := index .Site.Data.share .Site.Language.Lang }}
-              {{ partial "functions/share_buttons.html" (dict "type" "spread" "defaultSocialText" .Site.Params.spread.defaultSocialText "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
+              {{ partial "functions/share_buttons.html" (dict "type" "spread" "defaultSocialText" (i18n "spread_defaultSocialText") "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
               </div>
             </div>
         </div>

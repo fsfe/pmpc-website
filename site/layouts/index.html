@@ -5,44 +5,23 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
-        {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.reasons .Site.Params.navigation.links.resources .Site.Params.navigation.links.contact }}
-            {{ partial "nav.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.start }}
-            {{ partial "start.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.about }}
-            {{ partial "about.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.arguments.list }}
-            {{ partial "arguments.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.action }}
-            {{ partial "action.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.organisations }}
-            {{ partial "organisations.html" . }}
-        {{ end }}
-
-        <!-- Can be used later
-        {{ if .Site.Params.resources }}
-            {{ partial "resources.html" . }}
-        {{ end }}
-        -->
-
-        {{ if .Site.Params.spread }}
-            {{ partial "spread.html" . }}
-        {{ end }}
         
-        {{ if .Site.Params.language }}
-            {{ partial "language.html" . }}
-        {{ end }}
+        {{ partial "nav.html" . }}
         
+        {{ partial "start.html" . }}
+
+        {{ partial "about.html" . }}
+
+        {{ partial "arguments.html" . }}
+
+        {{ partial "action.html" . }}
+
+        {{ partial "organisations.html" . }}
+
+        {{ partial "spread.html" . }}
+
+        {{ partial "language.html" . }}
+
         {{ partial "legal.html" . }}
         
         {{ partial "sharecolumn.html" . }}

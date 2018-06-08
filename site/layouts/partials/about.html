@@ -3,23 +3,16 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                {{ with .Site.Params.about.headline }}
-                    <h2 class="section-heading">{{ . }}</h2>
-                {{ end }}
-                {{ if and .Site.Params.about.headline .Site.Params.about.description }}
-                    <hr class="light">
-                {{ end }}
+                
+                <h2 class="section-heading">{{ i18n "about_headline" }}</h2>
+                
+                <hr class="light">
                 
                 <!-- VIDEO -->
                 {{ partial "functions/video_fsfe.html" . }}
                 <!-- /VIDEO -->
                 
-                {{ with .Site.Params.about.description }}
-                    <p class="text-faded">{{ . | markdownify }}</p>
-                {{ end }}
-                {{ with .Site.Params.about.buttonText }}
-                    <a href="#arguments" class="btn btn-default btn-xl page-scroll">{{ . }}</a>
-                {{ end }}
+                <a href="#arguments" class="btn btn-default btn-xl page-scroll">{{ i18n "about_buttonText" }}</a>
             </div>
         </div>
     </div>
