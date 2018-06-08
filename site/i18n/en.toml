@@ -39,6 +39,23 @@ other= "Reasons for Public Code"
 other= "Do you believe that Free Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
 [arguments_buttonText]
 other= "Sign the Open Letter"
+[arguments_list_title_1]
+other= "Tax savings"
+[arguments_list_description_1]
+other= "Similar applications don't have to be programmed from scratch every time."
+[arguments_list_title_2]
+other= "Collaboration"
+[arguments_list_description_2]
+other= "Major projects can share expertise and costs."
+[arguments_list_title_3]
+other= "Serving the public"
+[arguments_list_description_3]
+other= "Applications paid by the public should be available for everyone."
+[arguments_list_title_4]
+other= "Fostering innovation"
+[arguments_list_description_4]
+other= "With transparent processes, others don't have to reinvent the wheel."
+
 
 # Action section
 [action_headline]
