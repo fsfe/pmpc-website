@@ -114,7 +114,10 @@ website.
 
 ### config.toml
 
-To activate your new language, please add it to [config.toml](https://git.fsfe.org/pmpc/website/src/branch/master/site/config.toml). Please do not change any existing content here. Your entry could look like this:
+To activate your new language, please add it to 
+[config.toml](https://git.fsfe.org/pmpc/website/src/branch/master/site/config.toml). 
+Please do not change any existing content here. Your entry could look 
+like this:
 
 ```
 [Languages.sv]
@@ -145,3 +148,15 @@ build README section:
 If you are unsure, you can also send the translations to [FSFE's translators
 list](https://lists.fsfe.org/mailman/listinfo/translators) to let them
 proofread by other speakers of your language.
+
+## How to show missing translations?
+
+If a string in your language isn't translated, the default English 
+version will be used. To find out which parts are missing, you need 
+`hugo` installed on your computer.
+
+Please navigate to the `site/` subdirectory and execute `hugo 
+--i18n-warnings | grep i18n`. This shows a list of all missing 
+translations of all languages. Please look out for your language code 
+in the third column. The fourth column shows the name of the string 
+which is missing in your i18n file.
