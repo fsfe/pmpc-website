@@ -81,10 +81,7 @@ execute Bash scripts in your command line.
 2. In the terminal, execute `cd site/` to navigate in the right
    directory for hugo's website build. You are now in
    `~/FSFE/PMPC/website/site/`
-3. Only if you added a new languages which doesn't exist on the website yet:
-   Add you 2-letter language code in line 4 of the [build.sh
-   file](https://git.fsfe.org/pmpc/website/src/master/site/build/build.sh#L4).
-4. In your terminal, execute `./build/build.sh server`. This command
+3. In your terminal, execute `hugo server`. This command
    will build the website and enable you to browse the result on your
    computer only. Open [localhost:1313](http://localhost:1313/) in your web
    browser to see it.
@@ -101,12 +98,12 @@ by preference and complexity:
    Guide](https://wiki.fsfe.org/TechDocs/Git/Guide:Workflow) for.
 2. Advanced and interested beginners can directly commit to the
    repository ("push to master") which saves them some steps, but they
-   have to ask @max.mehl or @jonas in advance to give them the necessary
+   have to ask @max.mehl in advance to give them the necessary
    permissions. You'll find guides in the [Wiki's Git
    section](https://wiki.fsfe.org/TechDocs/Git#Guides_on_specific_actions).
 3. Beginners can work directly in the [web
    interface](https://git.fsfe.org/pmpc/website) of git.fsfe.org. As
-   soon as you have given write permissions by @max.mehl or @jonas, you
+   soon as you have given write permissions by @max.mehl, you
    can edit opened text files and upload/create new files. This is the
    least preferred option because it may cause conflicts, but it is easy
    and may give you some first experience with the system.
@@ -118,9 +115,9 @@ by preference and complexity:
 
 The website structure is very easy. The most important files and directories are:
 
-- `site/config-static.toml`: Static texts and URLs which are the same
+- `site/config.toml`: Static texts, URLs and variables which are the same
   for any language
-- `site/languages/strings.{en,fr...}.toml`: Headlines, site title, many
+- `site/i18n/{en,fr...}.toml`: Headlines, site title, many
   texts for the various languages.
 - `site/content`: Markdown-files for sub-pages like /openletter, can be
   translated
@@ -143,18 +140,18 @@ The website structure is very easy. The most important files and directories are
 
 Adding a new supporting organisation requires two steps:
 
-1. Add a new entry in [site/data/organisations/organisations.json](https://git.fsfe.org/max.mehl/pmpc-website/src/improve-readme/site/data/organisations/organisations.json) in valid JSON format, the file should be self-explaining: *name* is the full name of the organisation, *img* is the name of the logo file (case-sensitive!), and *url* the web address of the organisation. To make sure that the file has a valid JSON syntax you can use [jsonlint.com](https://jsonlint.com/) or another tool before committing your changes.
-2. Add the organisation's logo to the [site/static/img/organisations](https://git.fsfe.org/max.mehl/pmpc-website/src/improve-readme/site/static/img/organisations) directory. Please only upload PNG files with maximum 150px width or 100px height – ideally using transparency instead of white as background so we can also use it on other backgrounds some day. Consider using `pngcrush` or a similar tool to reduce the file's size and remove metadata.
+1. Add a new entry in [site/data/organisations/organisations.json](https://git.fsfe.org/pmpc/website/src/branch/master/site/data/organisations/organisations.json) in valid JSON format, the file should be self-explaining: *name* is the full name of the organisation, *img* is the name of the logo file (case-sensitive!), and *url* the web address of the organisation. To make sure that the file has a valid JSON syntax you can use [jsonlint.com](https://jsonlint.com/) or another tool before committing your changes.
+2. Add the organisation's logo to the [site/static/img/organisations](https://git.fsfe.org/pmpc/website/src/branch/master/site/static/img/organisations) directory. Please only upload PNG files with maximum 150px width or 100px height – ideally using transparency instead of white as background so we can also use it on other backgrounds some day. Consider using `pngcrush` or a similar tool to reduce the file's size and remove metadata.
 
 
 ### Technical information about the online build
 
 The FSFE uses Drone to automatically deploy the PMPC website. The
 website is automatically deployed when there's a push to the master
-branch of the repository, as well as once an hour (to update
+branch of the repository, a PR merged, as well as once an hour (to update
 signatures).
 
-To trigger a build, use something like this:
+To trigger a build manually, use something like this:
 
 ```
 git commit --allow-empty -m 'Trigger build'
@@ -167,4 +164,4 @@ git commit --allow-empty -m 'Trigger build'
 
 ## Licence
 
-This software is copyright 2017 by the Free Software Foundation Europe e.V. and licensed under the GPLv3 license. For details see the "LICENSE" file in the top level directory of https://git.fsfe.org/pmpc/website/
+This software is copyright 2018 by the Free Software Foundation Europe e.V. and licensed under the GPLv3 license. For details see the "LICENSE" file in the top level directory of https://git.fsfe.org/pmpc/website/
