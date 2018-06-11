@@ -1,0 +1,145 @@
+# General strings
+[description]
+other= "Public Geld, Publieke Code - Een campagne om publiek gefinancieerde software uit te brengen als Vrije Software"
+[fsdefinition]
+other= "Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy."
+
+# Navigation
+[navigation_links_start]
+other= "Begin"
+[navigation_links_about]
+other= "Over"
+[navigation_links_arguments]
+other= "Stellingen"
+[navigation_links_action]
+other= "Onderneem Actie"
+[navigation_links_spread]
+other= "Deel"
+
+# Start banner
+[start_subtitle1]
+other= "Waarom is software die geschreven is met belastinggeld niet beschikbaar als Vrije Software?"
+[start_subtitle2]
+other= "Wij willen wetgeving die het nodig maakt dat publiek gefinancieerde software geschreven voor de publieke sector beschikbaar gemaakt wordt onder een [Vrije en Open Bronlicentie](https://fsfe.org/freesoftware/basics/summary.html 'Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.').  Als het publiek geld is, dan moet het ook publieke code zijn."
+[start_subtitle3]
+other= "**Code die betaald is door iedereen moet beschikbaar zijn voor iedereen!**"
+
+# About section
+[about_headline]
+other= "Klinkt ingewikkeld? Nee, het is heel simpel!"
+[about_buttonText]
+other= "Meer voordelen"
+
+# Arguments section
+[arguments_headline]
+other= "Redenen voor Publieke Code"
+[arguments_followup]
+other= "Gelooft u dat Vrije Software de standaardoptie zou moeten zijn voor publiek gefinancieerde software?  **Laten we onze politieke vertegenwoordigers overtuigen!**"
+[arguments_buttonText]
+other= "Onderteken de Open Brief"
+[arguments_list_title_1]
+other= "Besparen op belastingen"
+[arguments_list_description_1]
+other= "Soortgelijke toepassingen hoeven niet opnieuw van de grond af ontwikkeld te worden."
+[arguments_list_title_2]
+other= "Samenwerking"
+[arguments_list_description_2]
+other= "Grote projecten kunnen samenwerken om expertise en kosten te delen."
+[arguments_list_title_3]
+other= "Algemeen belang"
+[arguments_list_description_3]
+other= "Programma's betaald door het publiek zouden voor iedereen beschikbaar moeten zijn."
+[arguments_list_title_4]
+other= "Innovatie bevorderen"
+[arguments_list_description_4]
+other= "Met transparante processen hoeft het wiel niet opnieuw uitgevonden te worden."
+
+# Action section
+[action_headline]
+other= "Vertel uw vertegenwoordigers!"
+[action_intro]
+other= "In onze [**open brief**](openletter/) eisen we:"
+[action_demand]
+other= "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een Vrije en Open Bron Softwarelicentie.”"
+[action_description]
+other= "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openletter/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in overheden."
+[action_box_text]
+other= "Al **$INDS HANDTEKENINGEN** – Onderteken de Open Brief nu!"
+[action_form_name]
+other= "Naam (verplicht)"
+[action_form_email]
+other= "E-mail (verplicht)"
+[action_form_country]
+other= "Uw land"
+[action_form_zip]
+other= "Postcode"
+[action_form_comment]
+other= "Uw commentaar (max. 140 karakters)"
+[action_form_permPriv]
+other= "Ik heb het [privacybeleid](privacy/) gelezen en geaccepteerd"
+[action_form_permNews]
+other= "Ik wil graag op de hoogte blijven van deze campagne"
+[action_form_permPub]
+other= "Ik wil graag dat mijn handtekening op de [lijst van handtekeningen](openletter/all-signatures) verschijnt"
+[action_form_submit]
+other= "Onderteken nu!"
+
+# Organisations section
+[organisations_headline]
+other= "Ondersteunende organisaties"
+[organisations_text]
+other= "De volgende organisaties steunen onze [Open Brief](openletter/). Als uw organisatie ook geïnteresseerd is om mee te doen aan de eis voor Publieke Code, neem dan [contact](mailto:contact@fsfe.org) met ons op."
+
+# Spread the word section
+[spread_headline]
+other= "Vertel het verder!"
+[spread_promoText]
+other= "Bestel de nieuwste stickers en flyers van de FSFE"
+[spread_promoButtonText]
+other= "Bestel promotiemateriaal"
+[spread_shareText]
+other= "Vertel uw vrienden en volgers over Publieke Code:"
+[spread_defaultSocialText]
+other= "Als het publiek geld is, dan moet het ook publieke code zijn! Ik steun de eis voor meer publieke code onder een Vrije Softwarelicentie:"
+
+# Legal Section
+[legal_by]
+other= "Dit is een compagne door Free Software Foundation Europe"
+[legal_imprint]
+other= "Imprint"  # TODO
+[legal_privacy]
+other= "Privacy"
+[legal_transparency]
+other= "Openheid"
+[legal_contribute1]
+other= "De code van deze website is Vrije Software."
+[legal_contribute2]
+other= "U bent van harte welkom om bij te dragen!"
+[legal_license]
+other= "Dit werk valt onder een [Creative Commons BY-SA 4.0 Licentie](http://creativecommons.org/licenses/by-sa/4.0/deed.nl)."
+
+# Language selection
+[language_description]
+other= "Lees deze pagina in een andere taal"
+
+# 404 Error Page
+[error_headline]
+other= "Error 404 - Pagina niet gevonden"
+[error_description]
+other= "De pagina die u zoekt bestaat niet."
+[error_button]
+other= "Terug naar de startpagina"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Individuele handtekeningen voor de Open Brief"
+[subpage_signatures_description]
+other= "Beneden vindt u de handtekening van de mensen die toestemming gegeven hebben om hun namen publiekelijk te tonen.  Word de volgende!"
+[subpage_signatures_allSignatures]
+other= "Bekijk [alle openbare handtekeningen](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Naam"
+[subpage_signatures_tableCountry]
+other= "Land"
+[subpage_signatures_tableComment]
+other= "Commentaar"

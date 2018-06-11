@@ -1,0 +1,147 @@
+# General strings
+[description]
+other= "Δημόσιο χρήμα, Δημόσιος κώδικας - Μια καμπάνια για την διανομή δημόσια χρηματοδοτούμενο λογισμικού ως Ελεύθερο Λογισμικό"
+[fsdefinition]
+other= "Το Ελεύθερο Λογισμικό δίνει σε όλους το δικαίωμα να χρησιμοποιούν, να μελετούν, να μοιράζονται και να βελτιώνουν το λογισμικό. Αυτό το δικαίωμα βοηθά στην υποστήριξη άλλων θεμελιωδών ελευθεριών όπως η ελευθερία του λόγου, του τύπου και της ιδιωτικότητας."
+
+# Navigation
+[navigation_links_start]
+other= "Αρχική"
+[navigation_links_about]
+other= "Σχετικά"
+[navigation_links_arguments]
+other= "Λόγοι"
+[navigation_links_action]
+other= "Ανέλαβε Δράση"
+[navigation_links_spread]
+other= "Διάδωσε το"
+
+# Start banner
+[start_subtitle1]
+other= "Γιατί το λογισμικό που δημιουργείται με χρήματα φορολογουμένων πολιτών δεν διανέμεται ως Ελεύθερο Λογισμικό;"
+[start_subtitle2]
+other= "Θέλουμε νομοθεσία που να απαιτεί ότι το δημόσια χρηματοδοτούμενο λογισμικό που αναπτύσσεται για το δημόσιο τομέα πρέπει να διατίθεται δημοσίως με άδεια χρήσης [ελεύθερου και ανοιχτού λογισμικού](https://fsfe.org/freesoftware/basics/summary.html 'Το Ελεύθερο Λογισμικό δίνει σε όλους το δικαίωμα να χρησιμοποιούν, να μελετούν, να μοιράζονται και να βελτιώνουν το λογισμικό. Αυτό το δικαίωμα βοηθά στην υποστήριξη άλλων θεμελιωδών ελευθεριών όπως η ελευθερία του λόγου, του τύπου και της ιδιωτικότητας.'). Αν είναι δημόσιο χρήμα, θα έπρεπε να είναι και δημόσιος κώδικας."
+[start_subtitle3]
+other= "**Κώδικας που πληρώνεται από τους πολίτες πρέπει να είναι διαθέσιμος και στους πολίτες!**"
+
+# About section
+[about_headline]
+other= "Ακούγεται περίπλοκο; Δεν είναι. Είναι πολύ απλό!"
+[about_buttonText]
+other= "Περισσότερα πλεονεκτήματα"
+
+# Arguments section
+[arguments_headline]
+other= "Λόγοι για Δημόσιο Κώδικα"
+[arguments_followup]
+other= "Πιστεύεις πως το Ελεύθερο Λογισμικό θα έπρεπε να είναι η πρωταρχική επιλογή για δημόσια χρηματοδοτούμενο λογισμικό; **Ας πείσουμε τους πολιτικούς μας αντιπροσώπους!**"
+[arguments_buttonText]
+other= "Υπόγραψε την Ανοιχτή Επιστολή"
+[arguments_list_title_1]
+other= "Εξοικονόμηση φόρων"
+[arguments_list_description_1]
+other= "Παρόμοιες εφαρμογές δεν χρειάζεται να προγραμματιστούν απ' το μηδέν κάθε φορά."
+[arguments_list_title_2]
+other= "Συνεργασία"
+[arguments_list_descriptio_2]
+other= "Πρωτοβουλίες σε μεγάλα έργα μπορούν μοιραστούν τεχνογνωσία και κόστος."
+[arguments_list_title_3]
+other= "Υπηρετώντας τους πολίτες"
+[arguments_list_description_3]
+other= "Οι εφαρμογές που πληρώθηκαν απ' τους πολίτες θα έπρεπε να είναι διαθέσιμες σε όλους."
+[arguments_list_title_4]
+other= "Καινοτομία"
+[arguments_list_description_4]
+other= "Με διαφανείς διαδικασίες, δεν χρειάζεται να ανακαλύπτουμε συνεχώς τον τροχό."
+
+# Action section
+[action_headline]
+other= "Πες το στους αντιπροσώπούς σου!"
+[action_intro]
+other= "Στην [**ανοιχτή επιστολή**](openletter/) μας απαιτούμε:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Υλοποίηση νομοθεσίας που να απαιτεί ότι το δημόσια χρηματοδοτούμενο λογισμικό που αναπτύσσεται για το δημόσιο τομέα πρέπει να διατίθεται δημοσίως με άδεια χρήσης [ελεύθερου και ανοιχτού λογισμικού](https://fsfe.org/freesoftware/basics/summary.html 'Το Ελεύθερο Λογισμικό δίνει σε όλους το δικαίωμα να χρησιμοποιούν, να μελετούν, να μοιράζονται και να βελτιώνουν το λογισμικό. Αυτό το δικαίωμα βοηθά στην υποστήριξη άλλων θεμελιωδών ελευθεριών όπως η ελευθερία του λόγου, του τύπου και της ιδιωτικότητας.').”"
+[action_description]
+other= "**$ORGS** οργανισμοί και **$INDS** άνθρωποι έχουν ήδη υποστηρίξει αυτό το κάλεσμα για δράση υπογράφοντας [ανοιχτή επιστολή](openletter/) μας. Μπορείς να μας βοηθήσεις υπογράφοντας τη και ενισχύοντας το μήνυμα μας! Θα παραδώσουμε όλες τις υπογραφές σε αντιπροσώπους σε όλη την Ευρώπη που αμφισβητούν το ελεύθερο λογισμικό στη δημόσια διοίκηση."
+[action_box_text]
+other= "Ήδη **$INDS ΥΠΟΓΡΑΦΕΣ** – υπόγραψε την ανοιχτή επιστολή τώρα!"
+[action_form_name]
+other= "Όνομα (απαραίτητο)"
+[action_form_email]
+other= "Email (απαραίτητο)"
+[action_form_country]
+other= "Χώρα"
+[action_form_zip]
+other= "ΤΚ"
+[action_form_comment]
+other= "Το σχόλιο σου (μεγ. 140 χαρακτήρες)"
+[action_form_permPriv]
+other= "Έχω διαβάσει και αποδεχτεί την [πολιτική ιδιωτικότητας](privacy/)"
+[action_form_permNews]
+other= "Επιθυμώ να ενημερώνομαι για το μέλλον αυτής της καμπάνιας"
+[action_form_permPub]
+other= "Επιθυμώ η υπογραφή μου να εμφανιστεί στη [λίστα υπογραφών](openletter/all-signatures)"
+[action_form_submit]
+other= "Υπόγραψε Τώρα!"
+
+# Organisations section
+[organisations_headline]
+other= "Οργανισμοί που υποστηρίζουν"
+[organisations_text]
+other= "Οι παρακάτω οργανισμοί υποστηρίζουν την [ανοιχτή επιστολή](openletter/) μας. Αν ο οργανισμός σου ενδιαφέρεται επίσης να συμμετάσχει στο κάλεσμα για Δημόσιο Κώδικα, παρακαλώ [επικοινωνήστε μαζί μας](mailto:contact@fsfe.org)."
+
+# Spread the word section
+[spread_headline]
+other= "Διάδωσε το!"
+[spread_promoText]
+other= "Παράγγειλε τα πρόσφατα αυτοκόλλητα και φυλλάδια από το FSFE"
+[spread_promoButtonText]
+other= "Ζήτησε προωθητικό υλικό"
+[spread_shareText]
+other= "Μίλησε στους φίλους/ες και στις επαφές σου για τον Δημόσιο Κώδικα:"
+[spread_defaultSocialText]
+other= "Αν είναι δημόσιο χρήμα, θα έπρεπε να είναι δημόσιος κι ο κώδικας. Υποστηρίζω αυτό το κάλεσμα για περισσότερο δημόσιο κώδικα με μια άδεια Ελεύθερου Λογισμικού:"
+
+# Legal Section
+[legal_by]
+other= "Αυτή είναι μια καμπάνια απ' το Free Software Foundation Europe"
+[legal_imprint]
+other= "Νομικά Στοιχεία"
+[legal_privacy]
+other= "Πολιτική Ιδιωτικότητας"
+[legal_transparency]
+other= "Δέσμευση Διαφάνειας"
+[legal_contribute1]
+other= "Ο κώδικας αυτού site είναι Ελεύθερο Λογισμικό."
+[legal_contribute2]
+other= "Είσαι ευπρόσδεκτος/η να συνεισφέρεις!"
+[legal_license]
+other= "Αυτό το έργο διανέμεται με άδεια [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Διάβασε αυτή τη σελίδα σε άλλη γλώσσα"
+
+# 404 Error Page
+[error_headline]
+other= "Λάθος 404 - Αυτή η σελίδα δεν βρέθηκε"
+[error_description]
+other= "Η σελίδα που ψάχνεις δεν υπάρχει."
+[error_button]
+other= "Πίσω στην αρχική σελίδα"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Υπογραφές στην Ανοιχτή Επιστολή"
+[subpage_signatures_description]
+other= "Παρακάτω είναι οι υπογραφές όσων συμφώνησαν να είναι δημόσια τα ονόματα τους. Γίνε ο επόμενος/η!"
+[subpage_signatures_allSignatures]
+other= "Δες [όλες τις δημόσιες υπογραφές](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Όνομα"
+[subpage_signatures_tableCountry]
+other= "Χώρα"
+[subpage_signatures_tableComment]
+other= "Σχόλιο"

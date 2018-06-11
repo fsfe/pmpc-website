@@ -1,0 +1,147 @@
+# General strings
+[description]
+other= "Public Money, Public Code - En kampagne for frigivelse af offentligt finansieret software som fri software"
+[fsdefinition]
+other= "Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv."
+
+# Navigation
+[navigation_links_start]
+other= "Start"
+[navigation_links_about]
+other= "Om"
+[navigation_links_arguments]
+other= "Argumenter"
+[navigation_links_action]
+other= "Skriv under"
+[navigation_links_spread]
+other= "Spred ordet"
+
+# Start banner
+[start_subtitle1]
+other= "Hvorfor frigives skatteyderbetalt software ikke som fri software?"
+[start_subtitle2]
+other= "Vi ønsker lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor offentliggøres som [fri og open source software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.'). Hvis det er offentlige penge, bør det også være offentlig kode."
+[start_subtitle3]
+other= "**Kode betalt af folket bør også være tilgængelig for folket!**"
+
+# About section
+[about_headline]
+other= "Lyder det kompliceret? Overhovedet ikke. Det er super nemt!"
+[about_buttonText]
+other= "Flere fordele"
+
+# Arguments section
+[arguments_headline]
+other= "Argumenter for offentlig kode"
+[arguments_followup]
+other= "Mener du at fri software bør være standardvalget for offentligt finansieret software? **Lad os overbevise vores politiske repræsentanter!**"
+[arguments_buttonText]
+other= "Underskriv det åbne brev"
+[arguments_list_title_1]
+other= "Skatte-besparelser"
+[arguments_list_description_1]
+other= "Applikationer der ligner hinanden skal ikke udvikles forfra hver gang."
+[arguments_list_title_2]
+other= "Samarbejde"
+[arguments_list_description_2]
+other= "Indsatsen på tværs af større projekter kan dele ekspertise og omkostninger."
+[arguments_list_title_3]
+other= "Tjene offentligheden"
+[arguments_list_description_3]
+other= "Applikationer betalt af offentligheden bør være tilgængelig for alle."
+[arguments_list_title_4]
+other= "Skabe innovation"
+[arguments_list_description_4]
+other= "Med gennemsigtige processer, skal andre ikke genopfinde den dybe tallerken."
+
+# Action section
+[action_headline]
+other= "Send budskabet til politikerne!"
+[action_intro]
+other= "I vores [**åbne brev**](openletter/) forlanger vi at der:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Implementeres lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor, skal gøres tilgængelig under en [fri og open source software](https://fsfe.org/freesoftware/basics/summary.html 'Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv.') licens.”"
+[action_description]
+other= "**$ORGS** organisationer og **$INDS** personer har allerede støttet dette opråb til handling ved at underskrive vores [åbne brev](openletter/). Du kan hjælpe os med at øge effekten ved også at underskrive! Vi vil overlevere underskrifterne til politikere fra hele Europa som involverer sig i debatten om softwarefrihed i det offentlige."
+[action_box_text]
+other= "Allerede **$INDS UNDERSKRIFTER** – underskriv det åbne brev nu!"
+[action_form_name]
+other= "Navn (påkrævet)"
+[action_form_email]
+other= "Email (påkrævet)"
+[action_form_country]
+other= "Dit land"
+[action_form_zip]
+other= "Postnummer"
+[action_form_comment]
+other= "Din kommentar (maks. 140 tegn)"
+[action_form_permPriv]
+other= "Jeg har læst og accepterer [privatlivspolitikken](privacy/)"
+[action_form_permNews]
+other= "Jeg ønsker at blive informeret om kampagnen fremadrettet"
+[action_form_permPub]
+other= "Jeg ønsker at min underskrift fremgår af [listen af medunderskrivere](openletter/all-signatures)"
+[action_form_submit]
+other= "Underskriv!"
+
+# Organisations section
+[organisations_headline]
+other= "Støttende organisationer"
+[organisations_text]
+other= "De følgende organisationer støtter vores [åbne brev](openletter/). Hvis din organisation også er interesseret i at slutte sig til opråbet for offentlig kode, så [kontakt os](mailto:contact@fsfe.org) endelig."
+
+# Spread the word section
+[spread_headline]
+other= "Spred ordet!"
+[spread_promoText]
+other= "Bestil de nyeste klistermærker og løbesedler fra FSFE"
+[spread_promoButtonText]
+other= "Få materialer"
+[spread_shareText]
+other= "Fortæl dine venner og følgere om kampagnen:"
+[spread_defaultSocialText]
+other= "Hvis det er offentlige penge, bør det også være offentlig kode. Jeg støtter dette opråb for mere offentlig kode under fri software-licenser:"
+
+# Legal Section
+[legal_by]
+other= "Dette er en kampagne fra Free Software Foundation Europe"
+[legal_imprint]
+other= "Kolofon"
+[legal_privacy]
+other= "Privatlivspolitik"
+[legal_transparency]
+other= "Gennemsigtighed"
+[legal_contribute1]
+other= "Denne hjemmesides kode er fri software."
+[legal_contribute2]
+other= "Du er velkommen til at bidrage!"
+[legal_license]
+other= "Dette værk er licenseret under en [Creative Commons BY-SA 4.0 licens](http://creativecommons.org/licenses/by-sa/4.0/deed.da)."
+
+# Language selection
+[language_description]
+other= "Se siden på et andet sprog"
+
+# 404 Error Page
+[error_headline]
+other= "Fejl 404 - Side ikke fundet"
+[error_description]
+other= "Siden du prøver at tilgå eksisterer ikke."
+[error_button]
+other= "Tilbage til start-siden"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Personlige underskrifter"
+[subpage_signatures_description]
+other= "Nedenfor vises medunderskrivere af det åbne brev der indviligede i at få deres navn offentliggjort. Vær den næste!"
+[subpage_signatures_allSignatures]
+other= "Se [alle medunderskrivere](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Navn"
+[subpage_signatures_tableCountry]
+other= "Land"
+[subpage_signatures_tableComment]
+other= "kommentar"

@@ -1,0 +1,145 @@
+# General strings
+[description]
+other= "Public Money, Public Code - Egy kampány a közpénzen finanszírozott szoftverek felszabadításáért"
+[fsdefinition]
+other= "A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok."
+
+# Navigation
+[navigation_links_start]
+other= "Start"
+[navigation_links_about]
+other= "Kampányvideó"
+[navigation_links_arguments]
+other= "Érvek"
+[navigation_links_action]
+other= "Írd alá"
+[navigation_links_spread]
+other= "Terjeszd az igét"
+
+# Start banner
+[start_subtitle1]
+other= "Az adófizetők pénzéből létrehozott programok miért nem Szabad Szoftverek?"
+[start_subtitle2]
+other= "Azt szeretnénk elérni a törvényhozóknál, hogy a köz számára közpénzből fejlesztett szoftverek legyenek nyilvánosan elérhetőek a köz számára valamilyen [Szabad Szoftver](https://fsfe.org/about/mission.html 'A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.') licencel. Ha közpénzből van, akkor a forráskódja is közkincs kellene, hogy legyen."
+[start_subtitle3]
+other= "**A lakosság által finanszírozott programoknak elérhetőnek kellene lenniük a lakosság számára!**"
+
+# About section
+[about_headline]
+other= "Bonyolultnak hangzik? Nem az. Nagyon egyszerű!"
+[about_buttonText]
+other= "További előnyök"
+
+# Arguments section
+[arguments_headline]
+other= "Érvek a Szabad Szoftverek mellett"
+[arguments_followup]
+other= "Te is úgy gondolod, hogy alapértelmezés szerint Szabad Szoftverek kellene legyenek a közpénzen finanszírozott programok? **Győzzük megy együtt a képviselőinket!**"
+[arguments_buttonText]
+other= "Nyílt levél aláírása"
+[arguments_list_title_1]
+other= "Adómegtakarítás"
+[arguments_list_description_1]
+other= "Hasonló programokat nem kell a nulláról újraprogramozni."
+[arguments_list_title_2]
+other= "Együttműködés"
+[arguments_list_description_2]
+other= "Nagyobb projektek megoszthatják a tudásbázist és a költségeket."
+[arguments_list_title_3]
+other= "Közszolgálat"
+[arguments_list_description_3]
+other= "Közpénzen fejlesztett programok elérhetőek lesznek mindenki számára."
+[arguments_list_title_4]
+other= "Innováció elősegítése"
+[arguments_list_description_4]
+other= "Az átláthatóság miatt nem kell mindig újra feltalálni a már létező jól működő megoldásokat."
+
+# Action section
+[action_headline]
+other= "Mondjuk el a képviselőinknek!"
+[action_intro]
+other= "A [**nyílt levelünkben**](openletter/) kérjük:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Olyan jogszabályok létrehozását, amelyek biztosítják, hogy a közszolgáltatási szervek számára közpénzből fejlesztett szoftverek forráskódjai legyenek valamilyen [Szabad Szoftver](https://fsfe.org/freesoftware/basics/summary.html 'A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.') licencel ellátva nyilvánosan elérhetőek.”"
+[action_description]
+other= "Már **$ORGS** szervezet és  **$INDS** személy támogatta kezdeményezésünket [nyílt levelünk](openletter/) aláírásával. Te is segíthetsz aláírásoddal, hogy minél nagyobb hatást érhessünk el! Európa szerte eljuttatjuk az aláírásokat a képviselőknek, hogy megvitathassák a közigazgatási szervek által használt szoftverek felszabadításának kérdését."
+[action_box_text]
+other= "Ők már aláírták: **$INDS** – Írd alá Te is!"
+[action_form_name]
+other= "Név (kötelező)"
+[action_form_email]
+other= "Email (kötelező)"
+[action_form_country]
+other= "Ország"
+[action_form_zip]
+other= "Irányítószám"
+[action_form_comment]
+other= "Hozzászólás (max. 140 karakter)"
+[action_form_permPriv]
+other= "Elolvastam és elfogadom az [adatvédelmi nyilatkozatot](privacy/)"
+[action_form_permNews]
+other= "Szeretnék értesítéseket kapni a kampánnyal kapcsolatos fejleményekről"
+[action_form_permPub]
+other= "Szeretném, ha az aláírásom megjelenne az [aláírók listáján](openletter/all-signatures)"
+[action_form_submit]
+other= "Írd alá most!"
+
+# Organisations section
+[organisations_headline]
+other= "Támogató szervezetek"
+[organisations_text]
+other= "Az alábbi szervezetek már támogatják a [nyílt levelünket](openletter/). Ha a te szervezeted is szeretne csatlakozni a támogatók közé, kérjük [vedd fel velünk a kapcsolatot](mailto:contact@fsfe.org)."
+
+# Spread the word section
+[spread_headline]
+other= "Terjeszd az igét!"
+[spread_promoText]
+other= "Rendeld meg a legújabb matricákat és röplapokat az FSFE-től"
+[spread_promoButtonText]
+other= "Szerezd be ingyenes reklámanyagainkat"
+[spread_shareText]
+other= "Szólj barátaidnak és ismerőseidnek:"
+[spread_defaultSocialText]
+other= "Ha közpénzből van, a forráskódja is közkincs kellene legyen. Támogatom ezt a felhívást, hogy több Szabad Szoftver licenccel rendelkező program legyen:"
+
+# Legal Section
+[legal_by]
+other= "Ez a kampány a Free Software Foundation Europe alapítvány kampánya"
+[legal_imprint]
+other= "Impresszum"
+[legal_privacy]
+other= "Adatvédelem"
+[legal_transparency]
+other= "Átláthatóság"
+[legal_contribute1]
+other= "Ennek a weboldalnak a forráskódja Szabad Szoftver."
+[legal_contribute2]
+other= "Örömmel vesszük a hozzájárulásokat!"
+[legal_license]
+other= "A weboldal licence [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Válassz más nyelvet"
+
+# 404 Error Page
+[error_headline]
+other= "Hiba 404 - Az oldal nem található"
+[error_description]
+other= "Az oldal, amit keresel nem létezik."
+[error_button]
+other= "Vissza a főoldalra"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "A nyílt levél egyéni aláírói"
+[subpage_signatures_description]
+other= "Alább találhatók azon aláírók listája, akik hozzájárultak, hogy a nevüket közzétegyük. Légy Te a következő!"
+[subpage_signatures_allSignatures]
+other= "Nézd meg az [összes nyilvános aláírást](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Név"
+[subpage_signatures_tableCountry]
+other= "Ország"

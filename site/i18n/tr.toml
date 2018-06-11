@@ -1,0 +1,147 @@
+# General strings
+[description]
+other= "Kamusal Para, Kamusal Kod - Kamu tarafından finanse edilmiş yazılımların Özgür Yazılım olarak yayınlanması için bir kampanya"
+[fsdefinition]
+other= "Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur."
+
+# Navigation
+[navigation_links_start]
+other= "Başlangıç"
+[navigation_links_about]
+other= "Hakkında"
+[navigation_links_arguments]
+other= "Gerekçeler"
+[navigation_links_action]
+other= "Harekete Geçin"
+[navigation_links_spread]
+other= "Haberi Duyurun"
+
+# Start banner
+[start_subtitle1]
+other= "Vergi verenlerin parasıyla üretilen yazılımlar neden Özgür Yazılım olarak yayınlanmıyor?"
+[start_subtitle2]
+other= "Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fsfe.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuat istiyoruz. Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır!"
+[start_subtitle3]
+other= "**Halkın parasıyla üretilen kod, halka açık olmalıdır!**"
+
+# About section
+[about_headline]
+other= "Karmaşık mı geldi? Hiç de değil. Oldukça kolay!"
+[about_buttonText]
+other= "Diğer Avantajlar"
+
+# Arguments section
+[arguments_headline]
+other= "Kamusal Kod için Gerekçeler"
+[arguments_followup]
+other= "Kamu tarafından finanse edilen yazılımın standart lisans seçeneğinin Özgür Yazılım olması gerektiğine mi inanıyorsunuz? **O zaman politik temsilcinizi ikna edelim!**"
+[arguments_buttonText]
+other= "Açık Mektubu İmzalayın"
+[arguments_list_title_1]
+other= "Vergi tasarrufu"
+[arguments_list_description_1]
+other= "Benzer uygulamalar her seferinde sıfırdan üretilmek zorunda olmayacaktır."
+[arguments_list_title_2]
+other= "İşbirliği"
+[arguments_list_description_2]
+other= "Büyük proje çabaları uzmanlığı ve maliyeti paylaşabilir."
+[arguments_list_title_3]
+other= "Halka hizmet"
+[arguments_list_description_3]
+other= "Kamunun finanse ettiği uygulamalar, herkesin erişimine açık olmalıdır."
+[arguments_list_title_4]
+other= "Yenilikçiliği teşvik"
+[arguments_list_description_4]
+other= "Şeffaf süreçler sayesinde başkalarının tekerleği yeniden icat etmesi gerekmez."
+
+# Action section
+[action_headline]
+other= "Milletvekilinize Söyleyin!"
+[action_intro]
+other= "[**Açık mektubumuzda**](openletter/) şunu talep ediyoruz:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Kamu tarafından finanse edilerek kamu sektörü için geliştirilen yazılımların [Özgür ve Açık Kaynak Kodlu Yazılım](https://fsfe.org/freesoftware/basics/summary.html 'Özgür Yazılım herkese yazılımı kullanma, inceleme, paylaşma ve geliştirme hakkını sağlar. Bu hak ifade, basın ve mahremiyet özgürlüğü gibi diğer temel hakları desteklemeye yardımcı olur.') lisansıyla kamuya açık hale getirilmesini sağlayacak mevzuatı yürürlüğe koyun.”"
+[action_description]
+other= "Şu ana kadar **$ORGS** örgüt ve **$INDS** kişi [açık mektubumuzu](openletter/) imzalayarak bu eylem çağrısına desteğini sundu. Siz de imzalayarak daha büyük bir etki yaratmamıza yardımcı olabilirsiniz. Bütün bu imzaları Avrupa çapındaki kamu kurumlarında yazılım özgürlüğünü tartışan milletvekilerine sunacağız."
+[action_box_text]
+other= "Şimdiye kadar **$INDS İMZA** – açık mektubu hemen imzalayın!"
+[action_form_name]
+other= "Ad-Soyad (gerekli)"
+[action_form_email]
+other= "E-posta (gerekli)"
+[action_form_country]
+other= "Ülke"
+[action_form_zip]
+other= "Posta Kodu"
+[action_form_comment]
+other= "Görüşler (en fazla 140 karakter)"
+[action_form_permPriv]
+other= "[Gizlilik beyanını](privacy/) okudum ve onaylıyorum"
+[action_form_permNews]
+other= "Kampanya hakkında haberdar olmak istiyorum"
+[action_form_permPub]
+other= "Adımın [imzacılar listesinde](openletter/all-signatures) gözükmesini istiyorum"
+[action_form_submit]
+other= "İmzala!"
+
+# Organisations section
+[organisations_headline]
+other= "Destekleyen Örgütler"
+[organisations_text]
+other= "Aşağıdaki örgütler [açık mektubumuzu](openletter/) destekliyorlar. Eğer sizin de örgütünüz Kamusal Kod çağrısına katılmakla ilgileniyorsa, lütfen [bizimle bağlantıya geçin](mailto:contact@fsfe.org)."
+
+# Spread the word section
+[spread_headline]
+other= "Haberi Duyurun!"
+[spread_promoText]
+other= "FSFE'den en güncel çıkartma ve broşürleri sipariş edin"
+[spread_promoButtonText]
+other= "Tanıtım malzemesi isteyin"
+[spread_shareText]
+other= "Arkadaş ve takipçilerinize Kamusal Kod çağrısını duyurun:"
+[spread_defaultSocialText]
+other= "Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır. Daha fazla kamusal kodun Özgür Yazılım lisansı kapsamına alınması çağrısını destekliyorum:"
+
+# Legal Section
+[legal_by]
+other= "Bu Avrupa Özgür Yazılım Vakfı'nın bir kampanyasıdır"
+[legal_imprint]
+other= "Yayıncı"
+[legal_privacy]
+other= "Gizlilik"
+[legal_transparency]
+other= "Şeffaflık"
+[legal_contribute1]
+other= "Bu web sitesinin kodu Özgür Yazılımdır."
+[legal_contribute2]
+other= "Katkı verebilirsiniz!"
+[legal_license]
+other= "Bu çalışma [Creative Commons BY-SA 4.0 Lisansı](http://creativecommons.org/licenses/by-sa/4.0/) kapsamındadır."
+
+# Language selection
+[language_description]
+other= "Bu sayfayı başka bir dilde okuyun"
+
+# 404 Error Page
+[error_headline]
+other= "Error 404 - Sayfa bulunamadı"
+[error_description]
+other= "Aradığınız sayfa mevcut değil."
+[error_button]
+other= "Başlangıç sayfasına dönün"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Bireysel Açık Mektup İmzaları"
+[subpage_signatures_description]
+other= "Aşağıdaki imzalar, isimlerini herkese açık yapmayı kabul edenlerdir. Bir sonraki siz olun!"
+[subpage_signatures_allSignatures]
+other= "[Herkese açık imzaları](all-signatures/) görüntüleyin."
+[subpage_signatures_tableName]
+other= "İsim"
+[subpage_signatures_tableCountry]
+other= "Ülke"
+[subpage_signatures_tableComment]
+other= "Görüş"

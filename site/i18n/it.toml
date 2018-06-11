@@ -1,3 +1,98 @@
+# General strings
+[description]
+other= "Public Money, Public Code - Una campagna per rilasciare come Software Libero il software finanziato pubblicamente"
+[fsdefinition]
+other= "Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy."
+[javascript_warning]
+other = "<b>Avviso:</b> alcune funzioni interattive non saranno disponibili con JavaScript disattivato."
+
+# Navigation
+[navigation_links_start]
+other= "Inizio"
+[navigation_links_about]
+other= "Informazioni"
+[navigation_links_arguments]
+other= "Motivazioni"
+[navigation_links_action]
+other= "Agisci"
+[navigation_links_spread]
+other= "Spargi la voce"
+
+# Start banner
+[start_subtitle1]
+other= "Perché il software creato usando i soldi delle tasse riscosse dai cittadini non è rilasciato come Software Libero?"
+[start_subtitle2]
+other= "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/basics/summary.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.'). Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code)."
+[start_subtitle3]
+other= "**Il codice pagato dalle persone dovrebbe essere disponibile alle persone!**"
+
+# About section
+[about_headline]
+other= "Sembra complicato? Non lo è. È super semplice!"
+[about_buttonText]
+other= "Più vantaggi"
+
+# Arguments section
+[arguments_headline]
+other= "Motivazioni per Public Code"
+[arguments_followup]
+other= "Credi che il Software Libero dovrebbe essere l'opzione predefinita per il software finanziato pubblicamente? **Convinci i tuoi rappresentanti politici!**"
+[arguments_buttonText]
+other= "Firma la Lettera Aperta"
+[arguments_list_title_1]
+other= "Risparmi fiscali"
+[arguments_list_description_1]
+other= "Applicazioni simili non dovrebbero essere programmate da zero ogni volta."
+[arguments_list_title_2]
+other= "Collaborazione"
+[arguments_list_description_2]
+other= "Gli sforzi sui principali progetti possono far condividere competenze e costi."
+[arguments_list_title_3]
+other= "Servire il pubblico"
+[arguments_list_description_3]
+other= "Le applicazioni pagate dal pubblico dovrebbero essere disponibili a chiunque."
+[arguments_list_title_4]
+other= "Promozione dell'innovazione"
+[arguments_list_description_4]
+other= "Con processi trasparenti, gli altri non devono reinventare la ruota."
+
+# Action section
+[action_headline]
+other= "Informa i tuoi rappresentanti!"
+[action_intro]
+other= "Nella nostra [**lettera aperta**](openletter/) chiediamo:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Implementare leggi che richiedano che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/basics/summary.it.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.').”"
+[action_description]
+other= "**$ORGS** organizzazioni e **$INDS** persone supportano già questa chiamata ad agire attraverso la firma della nostra [lettera aperta](openletter/). Puoi aiutarci ad avere un maggiore impatto firmandola anche tu! Consegneremo tutte le firme ai rappresentanti di tutta Europa che stanno dibattendo sulla libertà del software nelle amministrazioni pubbliche."
+[action_box_text]
+other= "Già **$INDS SIGNATURES** – firma la lettera aperta adesso!"
+[action_form_name]
+other= "Nome (obbligatorio)"
+[action_form_email]
+other= "Email (obbligatoria)"
+[action_form_country]
+other= "La tua nazione"
+[action_form_zip]
+other= "CAP"
+[action_form_comment]
+other= "Il tuo commento (max. 140 caratteri)"
+[action_form_permPriv]
+other= "Ho letto e accettato la [dichiarazione sulla privacy](privacy/)"
+[action_form_permNews]
+other= "Voglio rimanere informato sull'andamento di questa campagna"
+[action_form_permPub]
+other= "Voglio che la mia firma compaia nella [lista dei firmatari](openletter/all-signatures)"
+[action_form_submit]
+other= "Firma ora!"
+
+# Organisations section
+[organisations_headline]
+other= "Organizzazioni aderenti"
+[organisations_text]
+other= "Le seguenti organizzazioni supportano la nostra [lettera aperta](openletter/). Se anche la tua organizzazione è interessata ad unirsi alla chiamata per Public Code, per favore [contattaci](mailto:contact@fsfe.org)."
 [organisations_administration]
 other = "Pubbliche amministrazioni"
 [organisations_all]
@@ -10,5 +105,57 @@ other = "ONG internazionali"
 other = "ONG nazionali"
 [organisations_regional_ngo]
 other = "ONG locali"
-[javascript_warning]
-other = "<b>Avviso:</b> alcune funzioni interattive non saranno disponibili con JavaScript disattivato."
+
+# Spread the word section
+[spread_headline]
+other= "Spargi la voce!"
+[spread_promoText]
+other= "Ordina gli ultimi adesivi e volantini da FSFE"
+[spread_promoButtonText]
+other= "Ottieni materiale promozionale"
+[spread_shareText]
+other= "Racconta ai tuoi amici e follower di Public Code:"
+[spread_defaultSocialText]
+other= "Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code). Supporto questa chiamata per più codice pubblico sotto una licenza di Software Libero: "
+
+# Legal Section
+[legal_by]
+other= "Questa è una campagna promossa da Free Software Foundation Europe"
+[legal_imprint]
+other= "Note legali"
+[legal_privacy]
+other= "Privacy"
+[legal_transparency]
+other= "Trasparenza"
+[legal_contribute1]
+other= "Il codice di questo sito web è Software Libero."
+[legal_contribute2]
+other= "Se vuoi contribuire sei il benvenuto!"
+[legal_license]
+other= "Questo lavoro è licenziato sotto la [licenza Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.it)."
+
+# Language selection
+[language_description]
+other= "Leggi questa pagina in un'altra lingua"
+
+# 404 Error Page
+[error_headline]
+other= "Errore 404 - Pagina non trovata"
+[error_description]
+other= "La pagina che stavi cercando non esiste."
+[error_button]
+other= "Torna alla pagina iniziale"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Firmatari individuali della Lettera Aperta"
+[subpage_signatures_description]
+other= "Sotto ci sono le firme dei firmatari che hanno acconsentito alla pubblicazione del loro nome. Sii il prossimo!"
+[subpage_signatures_allSignatures]
+other= "Guarda [tutte le firme pubbliche](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Nome"
+[subpage_signatures_tableCountry]
+other= "Nazione"
+[subpage_signatures_tableComment]
+other= "Commento"
