@@ -143,3 +143,5 @@ other= "Nézd meg az [összes nyilvános aláírást](all-signatures/)."
 other= "Név"
 [subpage_signatures_tableCountry]
 other= "Ország"
+[subpage_signatures_tableComment]
+other=  "Megjegyzés"
