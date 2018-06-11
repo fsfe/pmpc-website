@@ -35,15 +35,10 @@ What you should have:
 
 - An account on git.fsfe.org (see [README.md#contribute](https://git.fsfe.org/pmpc/website/src/master/README.md#contribute))
 - Know how to clone, pull, commit, and push with Git (read the [general
-  Git guides](https://wiki.fsfe.org/TechDocs/Git) and/or the [typical
-  Git
-  workflow](https://wiki.fsfe.org/TechDocs/Mainpage/Editing#Edit_and_push_files_to_the_website))
+  Git guides](https://wiki.fsfe.org/TechDocs/Git) and the [typical
+  Git workflow](https://wiki.fsfe.org/TechDocs/Git/Workflow))
 - Optional: Hugo installed on your computer
 - Optional: The ability to run Bash scripts from command line
-
-To be able to push your files to the git repository (i.e., `git push`), please
-ask @max.mehl for write access.  This workflow will soon be changed so that you
-do not need write access, but the documentation on that is not yet complete.
 
 ## Translatable files
 
@@ -83,12 +78,13 @@ translate it. In English, this may be *Share on XYZ*, in German it is *Auf XYZ
 teilen*. There's also `customText` sometimes where you can find instructions
 how to translate it.
 
-### languages/
+### i18n/
 
-Here you find one larger file for each language – e.g. `strings.en.toml` for
-English, `strings.de.toml` for German.
+Here you can find one file for each language – e.g. `en.toml` for English,
+`de.toml` for German. For each language we use [ISO 3166-1 alpha2
+codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
 
-If your language isn't present, copy the file `strings.XY.toml.sample` and
+If your language isn't present, copy the file `en.toml` and
 rename it according to your two-letter language code. Then open it and
 translate all strings you find (there are only a few marked which you cannot
 translate).
@@ -104,17 +100,6 @@ made good experiences with translating such campaign names. All our graphics,
 logos, and other communication is using this brand. So if you can, just stick
 to the English term.
 
-Note for website developers: new strings are to be created in `i18n/`
-(see below). We will take care of migrating the already translated
-strings to the new format so as a translator you don't have to take
-care of this circumstance.
-
-### i18n/
-
-Here you can find one file for each language – e.g. `en.toml` for English,
-`de.toml` for German. For each language we use [ISO 3166-1 alpha2
-codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).
-
 For information about these translation strings, please go to [the official Hugo
 documentation](https://gohugo.io/content-management/multilingual/#translation-of-strings).
 
@@ -126,6 +111,19 @@ their syntax. Unfortunately, we need both to support every web browser.
 Unlike the other files, you don't necessarily need to provide a
 translation of the subtitles in order to allow us to localise the
 website.
+
+### config.toml
+
+To activate your new language, please add it to 
+[config.toml](https://git.fsfe.org/pmpc/website/src/branch/master/site/config.toml). 
+Please do not change any existing content here. Your entry could look 
+like this:
+
+```
+[Languages.sv]
+  languageCode  = "sv"        # <-- two letter code
+  languageName  = "Svenska"   # <-- name of your language in your language
+```
 
 ## Where to upload the translations?
 
@@ -150,3 +148,15 @@ build README section:
 If you are unsure, you can also send the translations to [FSFE's translators
 list](https://lists.fsfe.org/mailman/listinfo/translators) to let them
 proofread by other speakers of your language.
+
+## How to show missing translations?
+
+If a string in your language isn't translated, the default English 
+version will be used. To find out which parts are missing, you need 
+`hugo` installed on your computer.
+
+Please navigate to the `site/` subdirectory and execute `hugo 
+--i18n-warnings | grep i18n`. This shows a list of all missing 
+translations of all languages. Please look out for your language code 
+in the third column. The fourth column shows the name of the string 
+which is missing in your i18n file.

@@ -1,7 +1,7 @@
 {{ if eq (.Get "type") "box" }}
-<div class="definition"><p>{{ .Site.Params.fsdefinition }}</p></div>
+<div class="definition"><p>{{ i18n "fsdefinition" }}</p></div>
 {{ else if eq (.Get "type") "paragraph" }}
-<p>{{ .Site.Params.fsdefinition }}</p>
+<p>{{ i18n "fsdefinition" }}</p>
 {{ else }}
-{{ .Site.Params.fsdefinition }}
+{{ i18n "fsdefinition" }}
 {{ end }}

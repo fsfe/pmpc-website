@@ -1,0 +1,147 @@
+# General strings
+[description]
+other= "Publika mono, publika kodo – Kampanjo por liberigi publike financitan programaron"
+[fsdefinition]
+other= "Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco."
+
+# Navigation
+[navigation_links_start]
+other= "Komenco"
+[navigation_links_about]
+other= "Pri"
+[navigation_links_arguments]
+other= "Kialoj"
+[navigation_links_action]
+other= "Agu"
+[navigation_links_spread]
+other= "Diskonigu"
+
+# Start banner
+[start_subtitle1]
+other= "Kial oni ne eldonas programaron kreitan per mono de impostpagantoj kiel liberan?"
+[start_subtitle2]
+other= "Ni volas leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro publike eldoniĝu sub [libera kaj malfermitkoda programa](https://fsfe.org/about/mission.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Tiu ĉi rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo. Teme pri publika mono, ankaŭ temu pri publika kodo!"
+[start_subtitle3]
+other= "**Kodo pagita de la popolo estu disponebla al la popolo!**"
+
+# About section
+[about_headline]
+other= "Ĉu sonas komplike? Tute ne. Estas tre facile!"
+[about_buttonText]
+other= "Pli da avantaĝoj"
+
+# Arguments section
+[arguments_headline]
+other= "Kialoj por publika kodo"
+[arguments_followup]
+other= "Ĉu vi opinias, ke libera programaro estu la norma agordo por publike financita programaro?  **Ni konvinku viajn politikajn deputitojn!**"
+[arguments_buttonText]
+other= "Subskribu la publikan leteron"
+[arguments_list_title_1]
+other= "Imposta ŝparado"
+[arguments_list_description_1]
+other= "Similaj aplikaĵoj ne devas esti programitaj de nulo ĉiufoje."
+[arguments_list_title_2]
+other= "Kunlaborado"
+[arguments_list_description_2]
+other= "Penoj de grandaj projektoj povas kunhavi kompetentecojn kaj kostojn."
+[arguments_list_title_3]
+other= "Servado al la publiko"
+[arguments_list_description_3]
+other= "Aplikaĵoj pagitaj de la publiko estu disponeblaj al ĉiuj."
+[arguments_list_title_4]
+other= "Nutrado de novigado"
+[arguments_list_description_4]
+other= "Kun procedoj travideblaj, aliuloj ne devas reinventi la radon."
+
+# Action section
+[action_headline]
+other= "Diru al viaj deputitoj!"
+[action_intro]
+other= "En nia [**publika letero**](openletter/) ni postulas:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "«Efektivigu leĝaron postulantan, ke publike financita programaro evoluigita por publika sektoro devu publike eldoniĝi sub [libera kaj malfermitkoda programa](https://fsfe.org/freesoftware/basics/summary.html 'Libera programaro rajtigas ĉiujn uzi, studi, kunhavigi kaj plibonigi programaron. Ĉi tiu rajto helpas subteni aliajn fundamentajn liberecojn kiel liberecojn de parolo, preso kaj privateco.') permesilo.»"
+[action_description]
+other= "**$ORGS** organizaĵoj kaj **$INDS** individuoj jam subtenas ĉi tiun alvokon al ago per subskribado de nia [publika letero](openletter/). Ankaŭ vi povas helpi al ni fari pli grandan efekton! Ni donos ĉiujn subskribojn al la deputitoj ĉie en Eŭropo, kiuj pridiskutas programan liberecon en publika administrado."
+[action_box_text]
+other= "Jam **$INDS SUBSKRIBOJ** – subskribu la publikan leteron nun!"
+[action_form_name]
+other= "Nomo (necesa)"
+[action_form_email]
+other= "Retpoŝt-adreso (necesa)"
+[action_form_country]
+other= "Via lando"
+[action_form_zip]
+other= "Poŝta kodo"
+[action_form_comment]
+other= "Via komento (pleje 140 signoj)"
+[action_form_permPriv]
+other= "Mi legis kaj konsentis la [privateco-politikon](privacy/)"
+[action_form_permNews]
+other= "Mi volas esti informata pri ĉi tiu kampanjo estonte"
+[action_form_permPub]
+other= "Mi volas aperigi mian subskrisbon en la [listo de subskriboj](openletter/all-signatures)"
+[action_form_submit]
+other= "Subskribi nun!"
+
+# Organisations section
+[organisations_headline]
+other= "Subtenantaj organizaĵoj"
+[organisations_text]
+other= "La jenaj organizaĵoj subtenas nian [publikan leteron](openletter/). Se ankaŭ via organizaĵo interesiĝas pri aliĝo al la voko por publika kodo, bonvolu [nin kontakti](mailto:contact@fsfe.org)."
+
+# Spread the word section
+[spread_headline]
+other= "Diskonigu la kampanjon!"
+[spread_promoText]
+other= "Mendu la plej novajn gluetikedojn kaj broŝurojn de FSFE"
+[spread_promoButtonText]
+other= "Akiru varbilojn"
+[spread_shareText]
+other= "Sciigu viajn amikojn kaj abonantojn pri publika kodo:"
+[spread_defaultSocialText]
+other= "Teme pri publika mono, temu pri publika kodo. Mi subtenas ĉi tiun vokon por pli da publika kodo sub liberaj permesiloj:"
+
+# Legal Section
+[legal_by]
+other= "Ĉi tio estas kampanjo de Free Software Foundation Europe"
+[legal_imprint]
+other= "Organizaĵo"
+[legal_privacy]
+other= "Privateco-politiko"
+[legal_transparency]
+other= "Travidebleco"
+[legal_contribute1]
+other= "Kodo de tiu ĉi retejo estas libera programaro."
+[legal_contribute2]
+other= "Ni bonvenigas kontribuojn!"
+[legal_license]
+other= "Tiu ĉi verko subas la permesilon [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.eo)."
+
+# Language selection
+[language_description]
+other= "Legu ĉi tiun paĝon en alia lingvo"
+
+# 404 Error Page
+[error_headline]
+other= "Error 404 - Paĝo ne trovita"
+[error_description]
+other= "La paĝo, kiun vi serĉas, ne ekzistas."
+[error_button]
+other= "Reen al la ĉefpaĝo"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Individuaj subskriboj de la publika letero"
+[subpage_signatures_description]
+other= "Sube estas subskriboj de la subskribintoj, kiuj konsentis publikigon de siaj nomoj. Fariĝu unu el tiuj!"
+[subpage_signatures_allSignatures]
+other= "Rigardu [ĉiujn publikajn subskribojn](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Nomo"
+[subpage_signatures_tableCountry]
+other= "Lando"
+[subpage_signatures_tableComment]
+other= "Komento"

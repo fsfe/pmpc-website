@@ -1,3 +1,94 @@
+# General strings
+[description]
+other= "Argent public ? Code public ! - Une campagne pour la publication sous Licence Libre des logiciels financés par le contribuable"
+[fsdefinition]
+other= "Les Logiciels Libres donnent à tous le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée."
+
+# Navigation
+[navigation_links_start]
+other= "Accueil"
+[navigation_links_about]
+other= "À propos"
+[navigation_links_arguments]
+other= "Raisons"
+[navigation_links_action]
+other= "Agir"
+[navigation_links_spread]
+other= "Faire savoir"
+
+# Start banner
+[start_subtitle1]
+other= "Pourquoi les logiciels financés par l’impôt ne sont pas publiés sous Licence Libre ?"
+[start_subtitle2]
+other= "Nous voulons une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source](https://fsfe.org/freesoftware/basics/summary.fr.html 'Les Logiciels Libres donnent à tous, le droit d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). S’il s’agit d’argent public, le code devrait être également public."
+[start_subtitle3]
+other= "**Le code payé par le peuple devrait être disponible pour le peuple!**"
+
+# About section
+[about_headline]
+other= "Ça a l’air compliqué ? Non, c’est très simple !"
+[about_buttonText]
+other= "Plus d’avantages"
+
+# Arguments section
+[arguments_headline]
+other= "Raisons pour le Code public"
+[arguments_followup]
+other= "Vous pensez que le Logiciel Libre devrait être la norme pour le logiciel financé par le public ? Allons convaincre vos responsables politiques !"
+[arguments_buttonText]
+other= "Signer la lettre ouverte"
+[arguments_list_title_1]
+other= "Économies fiscales"
+[arguments_list_description_1]
+other= "Des applications similaires n’ont pas besoin d’être programmées à partir de zéro à chaque fois."
+[arguments_list_title_2]
+other= "Coopération"
+[arguments_list_description_2]
+other= "Les efforts sur les projets d’envergure permettent de partager l'expertise et les coûts."
+[arguments_list_title_3]
+other= "Service public"
+[arguments_list_description_3]
+other= "Les applications payées par la collectivité devraient être accessibles à tous."
+[arguments_list_title_4]
+other= "Favoriser l’innovation"
+[arguments_list_description_4]
+other= "Avec des processus transparents, les autres n’ont pas besoin de réinventer la roue."
+
+# Action section
+[action_headline]
+other= "Dites-le à vos représentants !"
+[action_intro]
+other= "Dans notre [**lettre ouverte**](openletter/) nous exigeons:"
+[action_demand]
+other= "« Une législation qui requiert que le logiciel financé par le contribuable pour le secteur public soit disponible publiquement sous une licence de [Logiciel Libre et Open Source](https://fsfe.org/freesoftware/basics/summary.fr.html 'Les Logiciels Libres donnent à tous le droits d'utiliser, comprendre, modifier et partager les logiciels. Ces droits permettent de soutenir d'autres droits fondamentaux tels que la liberté d'expression, la liberté de la presse et la vie privée.'). »"
+[action_description]
+other= "**$ORGS organisations** et **$INDS personnes** soutiennent cet appel à agir en signant notre [lettre ouverte](openletter/). Vous pouvez nous aider à avoir un impact bien plus large en la signant aussi ! Nous remettrons l’ensemble des signatures aux représentants qui débattent la question de la liberté de logiciel dans l’administration publique."
+[action_box_text]
+other= "Déjà **$INDS SIGNATURES** – signer la lettre ouverte maintenant !"
+[action_form_name]
+other= "Nom (requis)"
+[action_form_email]
+other= "Email (requis)"
+[action_form_country]
+other= "Votre pays"
+[action_form_zip]
+other= "Code postal"
+[action_form_comment]
+other= "Votre commentaire (max. 140 caractères)"
+[action_form_permPriv]
+other= "J’ai lu et accepté la [politique de confidentialité](privacy/)"
+[action_form_permNews]
+other= "Je veux rester informé sur la suite de cette campagne"
+[action_form_permPub]
+other= "Je souhaite que ma signature apparaisse sur la [liste de signatures](openletter/all-signatures)"
+[action_form_submit]
+other= "Signer maintenant !"
+
+# Organisations section
+[organisations_headline]
+other= "Organisations signataires"
+[organisations_text]
+other= "Les organisations suivantes soutiennent notre [lettre ouverte](openletter/). Si votre organisation est également intéressée pour rejoindre l’appel en faveur du code public, veuillez [nous contacter](mailto:contact@fsfe.org)."
 [organisations_administration]
 other = "Administrations"
 [organisations_all]
@@ -10,3 +101,57 @@ other = "ONGs internationales"
 other = "ONGs nationales"
 [organisations_regional_ngo]
 other = "ONGs régionales"
+
+# Spread the word section
+[spread_headline]
+other= "Faire savoir !"
+[spread_promoText]
+other= "Commander les derniers stickers et flyers de la FSFE"
+[spread_promoButtonText]
+other= "Obtenir du matériel de promotion"
+[spread_shareText]
+other= "Faire savoir à vos amis et followers à propos du code public:"
+[spread_defaultSocialText]
+other= "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre:"
+
+# Legal Section
+[legal_by]
+other= "Ceci est une campagne menée par la Free Software Foundation Europe"
+[legal_imprint]
+other= "Imprint"
+[legal_privacy]
+other= "Privacy"
+[legal_transparency]
+other= "Transparence"
+[legal_contribute1]
+other= "Le code de ce site web est sous Logiciel Libre."
+[legal_contribute2]
+other= "Votre contribution est la bienvenue !"
+[legal_license]
+other= "Ce travail est publié sous la licence de [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Lire cette page dans une autre langue"
+
+# 404 Error Page
+[error_headline]
+other= "Erreur 404 - Page non trouvée"
+[error_description]
+other= "La page que vous cherchez n’existe pas."
+[error_button]
+other= "Retour à la page d’accueil"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Signatures individuelles de la lettre ouverte"
+[subpage_signatures_description]
+other= "En-dessous se trouvent les signataires qui ont accepté que leur nom soit publié. Soyez le prochain !"
+[subpage_signatures_allSignatures]
+other= "Voir [toutes les signatures publiques](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Nom"
+[subpage_signatures_tableCountry]
+other= "Pays"
+[subpage_signatures_tableComment]
+other= "Commentaire"

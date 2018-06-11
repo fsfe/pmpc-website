@@ -1,0 +1,147 @@
+# General strings
+[description]
+other= "Dinheiro Público, Código Público - Uma campanha para que software financiado pelo estado seja Software Livre"
+[fsdefinition]
+other= "Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melhorar o software. Estes direitos apoiam outras liberdades fundamentais como a liberdade de expressão, liberdade de imprensa e privacidade."
+
+# Navigation
+[navigation_links_start]
+other= "Início"
+[navigation_links_about]
+other= "Sobre"
+[navigation_links_arguments]
+other= "Razões"
+[navigation_links_action]
+other= "Agir"
+[navigation_links_spread]
+other= "Partilhar"
+
+# Start banner
+[start_subtitle1]
+other= "Porque é que software criado com dinheiro dos contribuintes não é Software Livre?"
+[start_subtitle2]
+other= "Queremos legislação que obrigue software financiado com dinheiro dos contribuintes, desenvolvido para o setor público, seja publicado com uma [licença de Software Livre](https://fsfe.org/about/mission.pt.html 'Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melhorar o software.  Estes direitos apoiam outras liberdades fundamentais como a liberdade de expressão, liberdade de imprensa e privacidade.'). Se se trata de dinheiro público, o código também deve ser público."
+[start_subtitle3]
+other= "**Código financiado pelo público deve permanecer disponível para o público**"
+
+# About section
+[about_headline]
+other= "Parece complicado? Não é. É muito simples!"
+[about_buttonText]
+other= "Mais vantagens"
+
+# Arguments section
+[arguments_headline]
+other= "Razões para o Código ser Público"
+[arguments_followup]
+other= "Acredita que Software Livre deve ser a norma para software financiado com dinheiro público? **Vamos então convencer os nossos representantes políticos!**"
+[arguments_buttonText]
+other= "Assine a Carta Aberta"
+[arguments_list_title_1]
+other= "Redução de Custos"
+[arguments_list_description_1]
+other= "Aplicações semelhantes não têm de ser criadas de raiz cada vez que são necessárias."
+[arguments_list_title_2]
+other= "Colaboração"
+[arguments_list_description_2]
+other= "Custos financeiros e de consultoria em grandes projetos podem ser partilhados."
+[arguments_list_title_3]
+other= "Servir o público"
+[arguments_list_description_3]
+other= "Aplicações financiadas pelos contribuintes devem estar disponíveis para todos."
+[arguments_list_title_4]
+other= "Estimular inovação"
+[arguments_list_description_4]
+other= "Com processos transparentes para que outros não tenham de reinventar a roda."
+
+# Action section
+[action_headline]
+other= "Contacte os Seus Representantes!"
+[action_intro]
+other= "Na nossa [**Carta Aberta**](openletter/) exigimos:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Implementação de legislação que requeira que software financiado publicamente para o setor público seja feito sob uma licença de [Software Livre](https://fsfe.org/about/mission.pt.html 'Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melhorar o software. Estes direitos apoiam outras liberdades fundamentais como a liberdade de expressão, liberdade de imprensa e privacidade.').”"
+[action_description]
+other= "**$ORGS** Organizações e **$INDS** indivíduos já apoiam esta campanha ao assinarem a [Carta Aberta](openletter/). Ajude-nos a fazer a diferênça ao assiná-la também! Entregaremos as assinaturas a representantes em toda a Europa que estão a debater o assunto de Software Livre na adminstração pública."
+[action_box_text]
+other= "Já temos **$INDS ASSINATURAS** – Assine agora a nossa Carta Aberta!"
+[action_form_name]
+other= "Nome (obrigatório)"
+[action_form_email]
+other= "E-mail (obrigatório)"
+[action_form_country]
+other= "País"
+[action_form_zip]
+other= "Código Postal"
+[action_form_comment]
+other= "O seu comentário (max. 140 caracteres)"
+[action_form_permPriv]
+other= "Li e aceito a [política de privacidade](privacy/)"
+[action_form_permNews]
+other= "Quero ser atualizado sobre o desenvolvimento da campanha"
+[action_form_permPub]
+other= "Quero que a minha assinatura apareça na [lista de signatários](openletter/all-signatures)"
+[action_form_submit]
+other= "Assine agora!"
+
+# Organisations section
+[organisations_headline]
+other= "Organizações Apoiantes"
+[organisations_text]
+other= "As seguintes organizações apoiam a nossa [Carta Aberta](openletter/). Se a sua organização também estiver interessada em juntar-se à campanha Dinheiro Público, por favor, [contacte-nos](mailto:contact@fsfe.org)."
+
+# Spread the word section
+[spread_headline]
+other= "Partilhe!"
+[spread_promoText]
+other= "Encomende os últimos autocolantes e panfletos da FSFE"
+[spread_promoButtonText]
+other= "Obter o material promocional"
+[spread_shareText]
+other= "Fale aos seus amigos e seguidores da campanha Código Público:"
+[spread_defaultSocialText]
+other= "Se se trata de dinheiro público, o código também deve ser público. Eu apoio mais código público sob licenças de Software Livre:"
+
+# Legal Section
+[legal_by]
+other= "Esta é uma campanha da Free Software Foundation Europe"
+[legal_imprint]
+other= "Aviso legal"
+[legal_privacy]
+other= "Privacidade"
+[legal_transparency]
+other= "Transparência"
+[legal_contribute1]
+other= "O código deste site é Software Livre."
+[legal_contribute2]
+other= "A sua contribuição é bem-vinda!"
+[legal_license]
+other= "Este trabalho está sob uma [licença Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.pt)."
+
+# Language selection
+[language_description]
+other= "Ler esta página noutra linguagem"
+
+# 404 Error Page
+[error_headline]
+other= "Error 404 - Página não encontrada"
+[error_description]
+other= "A página que procura não existe"
+[error_button]
+other= "Regressar à página inicial"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Assinaturas Individuais da Carta Aberta"
+[subpage_signatures_description]
+other= "Em baixo encontram-se as assinaturas dos signatários que concordaram que os seus nomes fossem publicados. Seja o próximo!"
+[subpage_signatures_allSignatures]
+other= "Ver [todas as assinatura públicas](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Nome"
+[subpage_signatures_tableCountry]
+other= "País"
+[subpage_signatures_tableComment]
+other= "Comentário"

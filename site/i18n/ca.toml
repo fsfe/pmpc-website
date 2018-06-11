@@ -1,0 +1,147 @@
+# General strings
+[description]
+other= "Public Money, Public Code - Una campanya per alliberar programari finançat amb fons públics com a programari lliure"
+[fsdefinition]
+other= "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat."
+
+# Navigation
+[navigation_links_start]
+other= "Inici"
+[navigation_links_about]
+other= "Quant a"
+[navigation_links_arguments]
+other= "Raons"
+[navigation_links_action]
+other= "Actua"
+[navigation_links_spread]
+other= "Escampeu la veu"
+
+# Start banner
+[start_subtitle1]
+other= "Per què el programari creat amb els diners dels contribuents no s'allibera com a programari lliure?"
+[start_subtitle2]
+other= "Volem legislació que reguli que el programari finançat públicament pel sector públic es faci públic com a [programari lliure o codi obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.'). Si són diners públics, el codi ha de ser públic."
+[start_subtitle3]
+other= "**El codi pagat per la gent ha d'estar disponible per a altres persones!**"
+
+# About section
+[about_headline]
+other= "Sembla complicat? No ho és. És de fet molt senzill!"
+[about_buttonText]
+other= "Més avantatges"
+
+# Arguments section
+[arguments_headline]
+other= "Les raons perquè el codi sigui públic"
+[arguments_followup]
+other= "Penseu que el programari lliure ha de ser l'opció per defecte pel programari finançat? **Convencem els vostres representants polítics!**"
+[arguments_buttonText]
+other= "Signeu la carta oberta"
+[arguments_list_title_1]
+other= "Estalvi d'impostos"
+[arguments_list_description_1]
+other= "No cal desenvolupar de nou cada cop aplicacions similars."
+[arguments_list_title_2]
+other= "Col·laboració"
+[arguments_list_description_2]
+other= "Els esforços en projectes grans permeten compartir coneixement i despeses."
+[arguments_list_title_3]
+other= "Al servei públic"
+[arguments_list_description_3]
+other= "Les aplicacions pagades amb fons públics han d'estar disponibles per a tothom."
+[arguments_list_title_4]
+other= "Fomentant la innovació"
+[arguments_list_description_4]
+other= "Amb processos transparents, altres no han de reinventar la roda."
+
+# Action section
+[action_headline]
+other= "Digueu-ho als vostres representants!"
+[action_intro]
+other= " En la nostra [**carta oberta**](openletter/) demanem:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Implementar legislació que requereixi que el programari que està financiat públicament pel sector públic estigui disponible sota una llicència [de programari lliure o obert](https://fsfe.org/freesoftware/basics/summary.html 'El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a donar suport a altres llibertats fonamentals com la llibertat d'expressió, premsa o privacitat.').”"
+[action_description]
+other= "**$ORGS** organitzacions i **$INDS** persones a títol individual ja donen suport a la petició per a signar la [carta oberta](openletter/). Podeu ajudar-nos a tenir un impacte més gran signant-la també. Donarem totes les signatures als representants de tota Europa que estan debatent sobre la llibertat del programari a l'administració pública."
+[action_box_text]
+other= "Ja tenim **$INDS signatures** – signeu ara la carta oberta!"
+[action_form_name]
+other= "Nom (requerit)"
+[action_form_email]
+other= "Adreça electrònica (requerit)"
+[action_form_country]
+other= "País"
+[action_form_zip]
+other= "Codi postal"
+[action_form_comment]
+other= "Comentari (màx. 140 caràcters)"
+[action_form_permPriv]
+other= "He llegit i acceptat la [declaració de privacitat](privacy/)"
+[action_form_permNews]
+other= "Vull estar informat del futur d'aquesta campanya!"
+[action_form_permPub]
+other= "Vull que el meu nom aparegui a la [llista de signants](openletter/all-signatures)"
+[action_form_submit]
+other= "Signeu ara!"
+
+# Organisations section
+[organisations_headline]
+other= "Organitzacions que donen suport"
+[organisations_text]
+other= "Les organitzacions següents donen suport a la nostra [carta oberta](openletter/). Si la vostra organització té també interès a afegir-se a la crida pel codi públic, si us plau [contacteu amb nosaltres](mailto:contact@fsfe.org)."
+
+# Spread the word section
+[spread_headline]
+other= "Escampeu la veu!"
+[spread_promoText]
+other= "Demaneu els últims adhesius i fulls de mà a la FSFE"
+[spread_promoButtonText]
+other= "Obtingueu material promocional"
+[spread_shareText]
+other= "Expliqueu als vostres amics i seguidors el codi públic:"
+[spread_defaultSocialText]
+other= "Si són diners públics, el codi ha de ser públic. Dono suport a aquesta crida a disposar de més codi públic alliberat sota llicències de programari lliure:"
+
+# Legal Section
+[legal_by]
+other= "Aquesta és una campanya de la Free Software Foundation Europe"
+[legal_imprint]
+other= "Crèdits editorials"
+[legal_privacy]
+other= "Privacitat"
+[legal_transparency]
+other= "Transparència"
+[legal_contribute1]
+other= "El codi d'aquest lloc web és codi lliure."
+[legal_contribute2]
+other= "Us convidem a contribuir-hi!"
+[legal_license]
+other= "Aquest treball està llicenciat sota llicència [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Llegiu aquesta pàgina en una altra llengua"
+
+# 404 Error Page
+[error_headline]
+other= "Error 404 - Pàgina no trobada"
+[error_description]
+other= "La pàgina que cerqueu no existeix."
+[error_button]
+other= "Torna a la pàgina d'inici"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Signants a títol personal a la carta oberta"
+[subpage_signatures_description]
+other= "A sota els noms dels signants que ens permeten fer els seus noms públics. Sigueu els següents!"
+[subpage_signatures_allSignatures]
+other= "Vegeu [tots els signants ](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Nom"
+[subpage_signatures_tableCountry]
+other= "País"
+[subpage_signatures_tableComment]
+other= "Comentari"

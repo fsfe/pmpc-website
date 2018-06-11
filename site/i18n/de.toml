@@ -1,3 +1,98 @@
+# General strings
+[description]
+other= "Public Money, Public Code - Eine Kampagne, damit öffentlich finanzierte Software als Freie Software veröffentlicht wird"
+[fsdefinition]
+other= "Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre."
+[javascript_warning]
+other = "<b>Achtung:</b> Einige interaktive Funktionen funktionieren nicht mit deaktiviertem Javascript."
+
+# Navigation
+[navigation_links_start]
+other= "Start"
+[navigation_links_about]
+other= "Über"
+[navigation_links_arguments]
+other= "Argumente"
+[navigation_links_action]
+other= "Werde aktiv"
+[navigation_links_spread]
+other= "Weitersagen"
+
+# Start banner
+[start_subtitle1]
+other= "Warum wird durch Steuergelder finanzierte Software nicht als Freie Software veröffentlicht?"
+[start_subtitle2]
+other= "Wir wollen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird. Wenn es sich um öffentliche Gelder handelt, sollte auch der Code öffentlich sein!"
+[start_subtitle3]
+other= "**Von allen bezahlter Code sollte für alle verfügbar sein!**"
+
+# About section
+[about_headline]
+other= "Klingt kompliziert? Nein, es ist super einfach!"
+[about_buttonText]
+other= "Weitere Vorteile"
+
+# Arguments section
+[arguments_headline]
+other= "Gründe für Public Code"
+[arguments_followup]
+other= "Glaubst du, dass Freie Software die Standardoption für öffentlich finanzierte Software sein sollte? **Dann lass uns deine Abgeordneten überzeugen!**"
+[arguments_buttonText]
+other= "Den Offenen Brief unterzeichnen"
+[arguments_list_title_1]
+other= "Steuereinsparungen"
+[arguments_list_description_1]
+other= "Ähnliche Programme müssen nicht komplett neu programmiert werden."
+[arguments_list_title_2]
+other= "Zusammenarbeit"
+[arguments_list_description_2]
+other= "Bei großen Projekten können Expertise und Kosten geteilt werden."
+[arguments_list_title_3]
+other= "Allgemeinwohl"
+[arguments_list_description_3]
+other= "Von der Allgemeinheit bezahlte Anwendungen sollten allen zur Verfügung stehen."
+[arguments_list_title_4]
+other= "Innovationen fördern"
+[arguments_list_description_4]
+other= "Dank transparenter Prozesse müssen andere nicht das Rad neu erfinden."
+
+# Action section
+[action_headline]
+other= "Sag es deinen Abgeordneten!"
+[action_intro]
+other= "In unserem [**Offenen Brief**](openletter/) fordern wir:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "„Wir brauchen rechtliche Grundlagen, die es erfordern, dass mit öffentlichen Geldern für öffentliche Verwaltungen entwickelte Software unter einer [Freie-Software- und Open-Source Lizenz](https://fsfe.org/freesoftware/basics/summary.html 'Freie Software gibt allen das Recht, Programme für jeden Zweck zu verwenden, zu verstehen, zu verbreiten und zu verbessern. Diese Freiheiten stärken andere Grundrechte wie die Redefreiheit, die Pressefreiheit und das Recht auf Privatsphäre.') veröffentlicht wird.“"
+[action_description]
+other= "**$ORGS** Organisationen und **$INDS** Personen unterstützen bereits diesen Aufruf, indem sie unseren [Offenen Brief](openletter/) unterzeichnet haben. Du kannst uns helfen, einen viel größeren Einfluss auszuüben, indem auch du ihn unterzeichnest! Wir werden alle Unterschriften an Abgeordnete in ganz Europa, die Softwarefreiheit in öffentlichen Verwaltungen erörtern, überreichen."
+[action_box_text]
+other= "Schon **$INDS UNTERSCHRIFTEN** – jetzt den offenen Brief unterzeichnen!"
+[action_form_name]
+other= "Name (Pflichtfeld)"
+[action_form_email]
+other= "E-Mail (Pflichtfeld)"
+[action_form_country]
+other= "Dein Land"
+[action_form_zip]
+other= "PLZ"
+[action_form_comment]
+other= "Dein Kommentar (max. 140 Zeichen)"
+[action_form_permPriv]
+other= "Ich habe die [Datenschutzerklärung](privacy/) gelesen und akzeptiere sie"
+[action_form_permNews]
+other= "Ich möchte über den Verlauf der Kampagne informiert werden"
+[action_form_permPub]
+other= "Meine Unterschrift in der [Unterschriftenliste](openletter/all-signatures) anzeigen"
+[action_form_submit]
+other= "Jetzt unterzeichnen!"
+
+# Organisations section
+[organisations_headline]
+other= "Unterstützende Organisationen"
+[organisations_text]
+other= "Die folgenden Organisationen unterstützen unseren [Offenen Brief](openletter/). Wenn deine Organisation sich ebenfalls dem Aufruf für Public Code anschließen will, [kontaktiere uns bitte](mailto:contact@fsfe.org)."
 [organisations_administration]
 other = "Verwaltungen"
 [organisations_all]
@@ -10,5 +105,57 @@ other = "Internationale NGOs"
 other = "Nationale NGOs"
 [organisations_regional_ngo]
 other = "Regionale NGOs"
-[javascript_warning]
-other = "<b>Achtung:</b> Einige interaktive Funktionen funktionieren nicht mit deaktiviertem Javascript."
+
+# Spread the word section
+[spread_headline]
+other= "Weitersagen!"
+[spread_promoText]
+other= "Die neuesten Sticker und Flyer der FSFE bestellen"
+[spread_promoButtonText]
+other= "Infomaterial erhalten"
+[spread_shareText]
+other= "Erzähle deinen Freunden und Followern von Public Code:"
+[spread_defaultSocialText]
+other= "Öffentliches Geld? Öffentlicher Code! Ich unterstütze den Aufruf zu mehr öffentlichem Code unter einer Freie-Software-Lizenz:"
+
+# Legal Section
+[legal_by]
+other= "Eine Kampagne der Free Software Foundation Europe"
+[legal_imprint]
+other= "Impressum"
+[legal_privacy]
+other= "Datenschutz"
+[legal_transparency]
+other= "Transparenz"
+[legal_contribute1]
+other= "Der Code dieser Website ist Freie Software."
+[legal_contribute2]
+other= "Du kannst dazu beitragen, sie zu verbessern."
+[legal_license]
+other= "Diese Seite ist lizensiert unter einer [Creative Commons BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/)-Lizenz."
+
+# Language selection
+[language_description]
+other= "Diese Seite in einer anderen Sprache lesen"
+
+# 404 Error Page
+[error_headline]
+other= "Fehler 404 - Seite nicht gefunden"
+[error_description]
+other= "Diese Seite existiert nicht."
+[error_button]
+other= "Zurück zur Startseite"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Übersicht der Unterschriften"
+[subpage_signatures_description]
+other= "Hier sind die Unterschriften von allen Unterzeichnern, die damit einverstanden waren, ihren Namen zu veröffentlichen. Sei der Nächste!"
+[subpage_signatures_allSignatures]
+other= "[Alle öffentlichen Unterschriften ansehen](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Name"
+[subpage_signatures_tableCountry]
+other= "Land"
+[subpage_signatures_tableComment]
+other= "Kommentar"

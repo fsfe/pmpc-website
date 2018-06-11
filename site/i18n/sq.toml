@@ -1,3 +1,98 @@
+# General strings
+[description]
+other= "Paratë Publike, Kodi Publik - Një fushatë "
+[fsdefinition]
+other= "Softwari i lirë i jep gjithësecilit të drejtën ta përdori, studiojë, ta shpërndajë dhe ta përmirësoj. Kjo e drejtë ndihmon mbështetjen e lirive të tjera bazike si: liria e shprehjes, shtypit dhe privatësisë."
+[javascript_warning]
+other = "<b>Lajmërim:</b> Disa karakteristika interaktive nuk do të punojnë kur JavaScript është i ç'aktivizuar."
+
+# Navigation
+[navigation_links_start]
+other= "Nisje"
+[navigation_links_about]
+other= "Rreth"
+[navigation_links_arguments]
+other= "Arsye"
+[navigation_links_action]
+other= "Vepro"
+[navigation_links_spread]
+other= "Përhap lajmin"
+
+# Start banner
+[start_subtitle1]
+other= "Përse softuerët e financuar nga taksat e qytetarëve nuk janë sjellë si Softuerë të Lirë?"
+[start_subtitle2]
+other= "Ne duam që legjislacioni që kërkon që softueri i financuar publikisht i zhvilluar për sektorin publik të vihet në dispozicion të publikut në kuadrin e një programi [Softuer i Lirë dhe i Hapur] (https://fsfe.org/freesoftware/basics/summary.html 'Software i Lirë i jep të gjithëve të drejtën për përdorim, studim, ndarje dhe përmirësim të softuerit. Kjo e drejtë ndihmon në mbështetje të lirive të tjera themelore si liria e fjalës, shtypit dhe privatësisë. '). Nëse është para publike, duhet të jetë edhe kod publik."
+[start_subtitle3]
+other= "**Kodi i paguar nga njerëzit duhet të jetë i disponueshëm për njerëzit!**"
+
+# About section
+[about_headline]
+other= "Duket e vështirë? Nuk është. Është shumë e thjeshtë!"
+[about_buttonText]
+other= "Më shumë përparësi"
+
+# Arguments section
+[arguments_headline]
+other= "Arsyet për Kod Publik"
+[arguments_followup]
+other= "A besoni se Software-i i Lirë duhet të jetë opsioni i parazgjedhur për softuerin e financuar publikisht? **Le t'i bindim përfaqësuesit tuaj politikë!**"
+[arguments_buttonText]
+other= "Nënshkruaj Letrën e Hapur"
+[arguments_list_title_1]
+other= "Kursimet e taksave"
+[arguments_list_description_1]
+other= "Aplikacione të ngjashme nuk duhet të programohen nga zeroja çdo herë."
+[arguments_list_title_2]
+other= "Bashkëpunimi"
+[arguments_list_description_2]
+other= "Projektet e mëdha mund të ndajnë ekspertizën dhe kostot."
+[arguments_list_title_3]
+other= "Në shërbim të publikut"
+[arguments_list_description_3]
+other= "Aplikacionet e paguara nga publiku duhet të jenë të disponueshme për të gjithë."
+[arguments_list_title_4]
+other= "Nxitja e inovacionit"
+[arguments_list_description_4]
+other= "Me procese transparente, të tjerët nuk duhet të rishpikin rrotën."
+
+# Action section
+[action_headline]
+other= "Thuaji përfaqësuesve tuaj!"
+[action_intro]
+other= "Në  [**letrën e hapur**](openletter/) ne kërkojmë:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Zbatimi i legjislacionit që kërkon që softueri i financuar publikisht i zhvilluar për sektorin publik të vihet në dispozicion të publikut në kuadrin e një programi [Free and Open Source Software] (https://fsfe.org/freesoftware/basics/summary.html 'Software-i i Lirë i jep të gjithëve të drejtën për të përdorur ,studiuar, shpërndarjen dhe përmirësimi i softuerit. Kjo e drejtë ndihmon në mbështetjen e lirive të tjera themelore si liria e fjalës, shtypit dhe privatësisë. ')”"
+[action_description]
+other= "**$ORGS** organizata dhe **$INDS** Njerëzit tashmë e mbështesin këtë thirrje për veprim duke nënshkruar letrën tonë të hapur (openletter/). Ju gjithashtu mund të na ndihmoni të kemi një ndikim shumë më të madh duke e nënshkruar atë! Ne do t'i dorëzojmë të gjitha nënshkrimet përfaqësuesve në mbarë Evropën që debatojnë për lirinë e softuerit në administratën publike."
+[action_box_text]
+other= "Tashmë **$INDS SIGNATURES** – firmosni letrën e hapur tani!"
+[action_form_name]
+other= "Emri (e nevojshme)"
+[action_form_email]
+other= "Email (i nevojshëm)"
+[action_form_country]
+other= "Shteti juaj"
+[action_form_zip]
+other= "Kodi Postar"
+[action_form_comment]
+other= "Komenti juaj (maks. 140 karaktere)"
+[action_form_permPriv]
+other= "Kam lexuar dhe pranoj [deklaratën e privatësisë](privacy/)"
+[action_form_permNews]
+other= "Dua të mbetem i informuar për të ardhmen e kësaj fushate"
+[action_form_permPub]
+other= "Dua që firma ime të shfaqet në [listën e firmave](openletter/all-signatures)"
+[action_form_submit]
+other= "Firmos tani!"
+
+# Organisations section
+[organisations_headline]
+other= "Organizatat Mbështetëse"
+[organisations_text]
+other= "Organizatat e mëposhtme mbështesin [letrën tonë të hapur] (openletter/). Nëse organizata juaj është gjithashtu e interesuar të bashkohet me thirrjen për Kodin Publik, ju lutemi [na kontaktoni] (mailto: contact@fsfe.org)."
 [organisations_administration]
 other = "Administratat"
 [organisations_all]
@@ -10,5 +105,57 @@ other = "Organizatat ndërkombëtare jo-qeveritare"
 other = "Organizatat kombëtare jo-qeveritare"
 [organisations_regional_ngo]
 other = "Organizatat rajonale jo-qeveritare"
-[javascript_warning]
-other = "<b>Lajmërim:</b> Disa karakteristika interaktive nuk do të punojnë kur JavaScript është i ç'aktivizuar."
+
+# Spread the word section
+[spread_headline]
+other= "Përhap fjalën!"
+[spread_promoText]
+other= "Porosisni afishet dhe fletushkat më të fundit nga FSFE"
+[spread_promoButtonText]
+other= "Merrni material promovues"
+[spread_shareText]
+other= "Tregoju miqve dhe ndjekësve tuaj rreth Kodit Publik:"
+[spread_defaultSocialText]
+other= "Nëse është para publike, duhet të jetë edhe kod publik. Unë e mbështes këtë thirrje për më shumë kod publik nën një licencë të Softuerit të Lirë:"
+
+# Legal Section
+[legal_by]
+other= "Kjo është një fushatë nga  Free Software Foundation Europe"
+[legal_imprint]
+other= "Stampa"
+[legal_privacy]
+other= "Privatësia"
+[legal_transparency]
+other= "Trasparenca"
+[legal_contribute1]
+other= "Kodi i këtij website është në Free Software"
+[legal_contribute2]
+other= "Jeni të mirëpritur të kontribuoni!"
+[legal_license]
+other= "Kjo punë është nën licensën e [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Lexoni këtë faqe në një gjuhë tjetër"
+
+# 404 Error Page
+[error_headline]
+other= "Gabim 404 - Faqja nuk u gjend"
+[error_description]
+other= "Faqja që kërkoni nuk ekziston."
+[error_button]
+other= "Kthehu te faqja e fillimit"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Firmat Individuale të Letrës së Hapur"
+[subpage_signatures_description]
+other= "Më poshtë janë nënshkrimet e nënshkruesve të cilët ranë dakord që emrat e tyre të bëhen publike. Bëhu i ardhshmi!"
+[subpage_signatures_allSignatures]
+other= "Shihni [të gjitha nënshkrimet publike](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Emri"
+[subpage_signatures_tableCountry]
+other= "Shteti"
+[subpage_signatures_tableComment]
+other= "Koment"
