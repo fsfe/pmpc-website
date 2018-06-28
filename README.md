@@ -138,10 +138,11 @@ The website structure is very easy. The most important files and directories are
 
 ### Add a new supporting organisation
 
-Adding a new supporting organisation requires two steps:
+Adding a new supporting organisation requires a few simple steps:
 
 1. Add a new entry in [site/data/organisations/organisations.json](https://git.fsfe.org/pmpc/website/src/branch/master/site/data/organisations/organisations.json) in valid JSON format, the file should be self-explaining: *name* is the full name of the organisation, *img* is the name of the logo file (case-sensitive!), and *url* the web address of the organisation. To make sure that the file has a valid JSON syntax you can use [jsonlint.com](https://jsonlint.com/) or another tool before committing your changes.
 2. Add the organisation's logo to the [site/static/img/organisations](https://git.fsfe.org/pmpc/website/src/branch/master/site/static/img/organisations) directory. Please only upload PNG files with maximum 150px width or 100px height – ideally using transparency instead of white as background so we can also use it on other backgrounds some day. Consider using `pngcrush` or a similar tool to reduce the file's size and remove metadata.
+3. Add further contact and background information about the organisation to [our database](https://git.fsfe.org/pmpc/documents/src/branch/master/Contacts/Organisations.csv) (only accessible to PMPC core team members).
 
 
 ### Technical information about the online build
