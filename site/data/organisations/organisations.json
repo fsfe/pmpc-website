@@ -280,6 +280,13 @@
     "url": "https://eigenbaukombinat.de/"
   },
   {
+    "name": "Electronic Frontier Foundation",
+    "img": "EFF.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
+    "url": "https://www.eff.org/"
+  },
+  {
     "name": "Electronic Reuse",
     "img": "ereuse.png",
     "orgtype": "international_ngo",
