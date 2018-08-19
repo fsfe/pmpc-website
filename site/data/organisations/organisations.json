@@ -560,6 +560,13 @@
     "url": "https://www.joomla.org/"
   },
   {
+    "name": "JUG Padova",
+    "img": "jug-padova.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "http://jugpadova.it/"
+  },
+  {
     "name": "KDE e.V.",
     "img": "kde.png",
     "orgtype": "international_ngo",
