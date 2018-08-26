@@ -282,6 +282,7 @@ table#sigtable {
   display: table;
   width: 100%;
   margin-bottom: 20px;
+  table-layout: fixed;
 }
 table#sigtable thead, table#sigtable tbody {
   width: 100%;
@@ -296,7 +297,6 @@ table#sigtable td:nth-child(3), table#sigtable th:nth-child(3) {
   width: 50%;
 }
 table#sigtable thead {
-  display: table;
   background-color: rgba(230, 230, 230, 0.3);
 }
 table#sigtable th {
@@ -304,13 +304,13 @@ table#sigtable th {
 }
 table#sigtable tr {
   width: 100%;
-  display: table;
   text-align: left;
 }
 table#sigtable th, table#sigtable td {
   border-bottom: 1px solid darkgrey;
   text-align: left;
   padding: 5px;
+  word-wrap: break-word;
 }
 table#sigtable tr:nth-child(even) {
   background-color: rgba(230, 230, 230, 0.05);
