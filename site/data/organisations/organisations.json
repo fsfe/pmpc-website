@@ -959,6 +959,13 @@
     "url": "https://swisslinux.org/"
   },
   {
+    "name": "t3n",
+    "img": "t3n.png",
+    "orgtype": "national_ngo",
+    "priority": "1",
+    "url": "https://t3n.de"
+  },
+  {
     "name": "Technologiestiftung Berlin",
     "img": "tsb.png",
     "orgtype": "regional_ngo",
