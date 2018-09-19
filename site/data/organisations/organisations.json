@@ -686,6 +686,13 @@
     "url": "https://neutrinet.be/"
   },
   {
+    "name": "Obshtestvo",
+    "img": "obshtestvo.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.obshtestvo.bg/" 
+  },
+  {
     "name": "Offene Kommunen.NRW",
     "img": "oknrw.png",
     "orgtype": "regional_ngo",
