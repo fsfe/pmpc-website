@@ -217,6 +217,13 @@
     "url": "https://www.dfri.se/?lang=en"
   },
   {
+    "name": "Digidem Lab",
+    "img": "digidem.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://digidemlab.org/en"
+  },
+  {
     "name": "digitalcourage",
     "img": "digitalcourage.png",
     "orgtype": "national_ngo",
