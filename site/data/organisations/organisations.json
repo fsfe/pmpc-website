@@ -427,6 +427,13 @@
     "url": "https://fsfe.org"
   },
   {
+    "name": "Freie Messenger",
+    "img": "freie-messenger.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.freie-messenger.de"
+  },
+  {
     "name": "Freie Software und Freies Wissen Dresden",
     "img": "fsfwd.png",
     "orgtype": "regional_ngo",
