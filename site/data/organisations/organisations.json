@@ -279,6 +279,13 @@
     "priority": "0",
     "url": "https://dyne.org"
   },
+    {
+    "name": "Electronic Frontier Norway",
+    "img": "efn.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://efn.no/"
+  },
   {
     "name": "Eigenbaukombinat Halle e.V.",
     "img": "eigenbaukombinat.png",
