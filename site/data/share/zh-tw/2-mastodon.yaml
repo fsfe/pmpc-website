@@ -1,0 +1,10 @@
+titleBefore: 分享到
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @fsfe@mastodon.social 的呼籲！ #publiccode :"
+
+# Do not translate below here
+id: mastodon
+name: Mastodon
+userinput: true
+

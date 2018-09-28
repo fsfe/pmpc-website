@@ -1,0 +1,10 @@
+titleBefore: Compartir en
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "¡Si se trata de dinero público, también debe de ser código público! Apoyo con @fsfe@mastodon.social's por más #publiccode:"
+
+# Do not translate below here
+id: mastodon
+name: Mastodon
+userinput: true
+

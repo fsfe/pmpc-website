@@ -35,12 +35,12 @@
 .share-buttons.spread .share-diaspora:hover {
   background-color: #101010 !important;
 }
-.share-buttons.spread .share-gnusocial {
-  background-color: #a22430;
-  background-image: url("/img/service-icons/gnusocial_white.png");
+.share-buttons.spread .share-mastodon {
+  background-color: #2b90d9;
+  background-image: url("/img/service-icons/mastodon_white.png");
 }
-.share-buttons.spread .share-gnusocial:hover {
-  background-color: #850713 !important;
+.share-buttons.spread .share-mastodon:hover {
+  background-color: #1060a9 !important;
 }
 .share-buttons.spread .share-reddit {
   background-color: #ff5700;

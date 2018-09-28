@@ -1,0 +1,9 @@
+titleBefore: Μοίρασε στο
+titleAfter:
+# This "customText" shouldn't have more than 115 characters!
+customText: "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το @fsfe@mastodon.social και το #publiccode:"
+
+# Do not translate below here
+id: mastodon
+name: Mastodon
+userinput: true

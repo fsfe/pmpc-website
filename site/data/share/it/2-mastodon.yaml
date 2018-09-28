@@ -1,0 +1,10 @@
+titleBefore: Condividi su
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "Se è denaro pubblico, allora dovrebbe essere pubblico anche il codice sorgente! Supporto la chiamata di @fsfe@mastodon.social per più #publiccode: "
+
+# Do not translate below here
+id: mastodon
+name: Mastodon
+userinput: true
+
