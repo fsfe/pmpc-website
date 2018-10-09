@@ -131,6 +131,8 @@ other= "Transparency"
 other= "The code of this website is Free Software."
 [legal_contribute2]
 other= "You're welcome to contribute!"
+[translation_status]
+other="Translation status page"
 [legal_license]
 other= "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
 

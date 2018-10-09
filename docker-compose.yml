@@ -1,0 +1,18 @@
+version: '3'
+services:
+  pmpc:
+    image: pmpc
+    container_name: pmpc
+    restart: always
+    environment:
+      - HUGO_BASE_URL=https://publiccode.eu/
+      - VIRTUAL_HOST=publiccode.eu,www.publiccode.eu
+      - LETSENCRYPT_HOST=publiccode.eu,www.publiccode.eu
+      - LETSENCRYPT_EMAIL=contact@fsfe.org
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "5"
+    volumes:
+       - /srv/pmpc-cred:/srv/cred:ro

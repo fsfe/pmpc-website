@@ -1,0 +1,32 @@
+{{ $up_to_date := true }}
+{{ range .Site.Pages }}
+    {{ $maindate := .Lastmod }}
+    {{ range .Translations }}
+      {{ if and (.IsTranslated) (.IsPage) }}
+        {{ $i18n_date := .Lastmod }}
+        {{ if ($maindate.After $i18n_date) }}
+            {{ $up_to_date := false }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+{{ end}}
+
+{{ if eq $up_to_date false }}
+    {{ range .Site.Pages }}
+    <ul>
+        {{ $maindate := .Lastmod }}
+        {{ range .Translations }}
+            {{ if and (.IsTranslated) (.IsPage) }}
+                {{ $i18n_date := .Lastmod }}
+                {{ if ($maindate.After $i18n_date) }}
+                <li>
+                    {{ .Lang }} | <a href="{{ .Permalink }}">{{ .RelPermalink }}</a> | {{ $i18n_date }} is older than {{ $maindate }}
+                </li>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </ul>
+    {{ end}}
+{{ else }}
+    <p style="text-align:center;">Everything is up to date! &#128077;</p>
+{{ end}}

@@ -2,6 +2,7 @@ baseurl = "https://publiccode.eu"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 DefaultContentLanguage = "en"
+enableGitInfo = true
 
 # Static strings shared by all languages – these are not to be translated!
 [params.static]
