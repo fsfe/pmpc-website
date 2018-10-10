@@ -1,32 +1,43 @@
-{{ $up_to_date := true }}
-{{ range .Site.Pages }}
-    {{ $maindate := .Lastmod }}
-    {{ range .Translations }}
-      {{ if and (.IsTranslated) (.IsPage) }}
-        {{ $i18n_date := .Lastmod }}
-        {{ if ($maindate.After $i18n_date) }}
-            {{ $up_to_date := false }}
-        {{ end }}
+{{- $.Scratch.Set "allgood" true -}} <!-- "allgood" will say whether all translations are fine -->
+{{- range .Site.Pages -}} <!-- range through all pages -->
+  {{- $.Scratch.Set "uptodate" true -}} <!-- reset uptodate var -->
+  {{- $maindate := .Lastmod -}}
+  {{- range .Translations -}} <!-- range through all translations of .Page -->
+    {{- if and (.IsTranslated) (.IsPage) -}}
+      {{- $i18n_date := .Lastmod -}}
+      {{- if ($maindate.After $i18n_date) -}} <!-- EN .Lastmod is newer than .Lastmod of translation --> 
+        {{- $.Scratch.Set "uptodate" false -}} <!-- at least one translation failed -->
+        {{- $.Scratch.Set "allgood" false -}}  <!-- at least one translation failed -->
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq ($.Scratch.Get "uptodate") false }} <!-- if at least one translation failed -->
+    <h3><a href="{{ .Permalink }}">{{ .File.Path }}</a></h3>
+    <table class="transstatus">
+      <thead><tr>
+        <th>Lang</th>
+        <th>Page</th>
+        <th>Translation date</th>
+        <th>Original date</th>
+      </tr></thead>
+      {{ $maindate := .Lastmod -}} <!-- same logic as above, now with output -->
+      {{ range sort .Translations ".Lang" }}
+        {{- if and (.IsTranslated) (.IsPage) -}}
+          {{- $i18n_date := .Lastmod -}}
+          {{- if ($maindate.After $i18n_date) -}}
+          <tr>
+            <td>{{ .Lang | upper }}</td>
+            <td><a href="{{ .Permalink }}">{{ .File.Path }}</a></td>
+            <td>{{ $i18n_date.Format "2006-01-02" }}</td>
+            <td>{{ $maindate.Format "2006-01-02" }}</td>
+          </tr>
+          {{- end -}}
+        {{- end -}}
       {{ end }}
-    {{ end }}
-{{ end}}
+    </table>
+  {{- end -}}
+{{- end -}}
 
-{{ if eq $up_to_date false }}
-    {{ range .Site.Pages }}
-    <ul>
-        {{ $maindate := .Lastmod }}
-        {{ range .Translations }}
-            {{ if and (.IsTranslated) (.IsPage) }}
-                {{ $i18n_date := .Lastmod }}
-                {{ if ($maindate.After $i18n_date) }}
-                <li>
-                    {{ .Lang }} | <a href="{{ .Permalink }}">{{ .RelPermalink }}</a> | {{ $i18n_date }} is older than {{ $maindate }}
-                </li>
-                {{ end }}
-            {{ end }}
-        {{ end }}
-    </ul>
-    {{ end}}
-{{ else }}
+{{- if eq ($.Scratch.Get "allgood") true -}}
     <p style="text-align:center;">Everything is up to date! &#128077;</p>
-{{ end}}
+{{- end -}}
