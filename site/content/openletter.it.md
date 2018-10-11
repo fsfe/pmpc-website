@@ -2,6 +2,7 @@
 title: Lettera aperta 
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

@@ -2,6 +2,7 @@
 title: "Bedankt voor uw handtekening!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Uw handtekening is bevestigd

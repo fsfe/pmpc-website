@@ -2,6 +2,7 @@
 title: "Ya llegamos..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Por favor verifica sus correos electrónicos

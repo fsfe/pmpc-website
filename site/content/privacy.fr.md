@@ -1,7 +1,8 @@
 ---
 title: "Politique de confidentialité"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Le site web **publiccode.eu** est géré par la

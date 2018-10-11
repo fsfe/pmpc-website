@@ -2,6 +2,7 @@
 title: "!Gracias por firmar!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Tu firma está confirmada

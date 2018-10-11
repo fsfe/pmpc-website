@@ -2,6 +2,7 @@
 title: Ανοιχτή Επιστολή
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Personvern"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Nettstedet **publiccode.eu** drives av

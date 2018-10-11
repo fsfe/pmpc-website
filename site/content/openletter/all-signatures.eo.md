@@ -2,6 +2,7 @@
 title: "Ĉiuj publikaj subskriboj"
 type: page
 layout: subpage
+version: 1
 ---
 
 Jen la plena listo de ĉiuj homoj, kiuj subskribis la publikan leteron kaj

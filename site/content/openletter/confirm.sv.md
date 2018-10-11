@@ -2,6 +2,7 @@
 title: "Nästan klar..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Kolla inkorgen i e-posten nu

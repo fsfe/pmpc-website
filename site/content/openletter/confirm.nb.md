@@ -2,6 +2,7 @@
 title: "Nesten ferdig..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Kontroller din e-post innboks nå

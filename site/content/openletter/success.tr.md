@@ -2,6 +2,7 @@
 title: "İmzaladığınız için teşekkürler!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## İmzanız onaylandı

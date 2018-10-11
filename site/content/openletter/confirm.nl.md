@@ -2,6 +2,7 @@
 title: "Bijna klaar..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Bekijk uw e-mail nu

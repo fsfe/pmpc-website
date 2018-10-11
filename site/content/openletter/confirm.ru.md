@@ -2,6 +2,7 @@
 title: "Почти готово..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Пожалуйста, проверьте Ваш почтовый ящик

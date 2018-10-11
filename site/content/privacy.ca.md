@@ -1,7 +1,8 @@
 ---
 title: "Política de privadesa"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 El lloc web **publiccode.eu** és gestionat per

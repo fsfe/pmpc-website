@@ -1,7 +1,8 @@
 ---
 title: "Datenschutzerklärung"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Die Webseite **publiccode.eu** wird betrieben von [FSFE 

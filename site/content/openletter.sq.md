@@ -2,6 +2,7 @@
 title: Letra e Hapur
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

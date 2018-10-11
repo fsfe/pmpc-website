@@ -2,6 +2,7 @@
 title: "Merci d'avoir signé !"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Votre signature est confirmée

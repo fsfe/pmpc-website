@@ -1,7 +1,8 @@
 ---
 title: "Política de Privacidade"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 O web site **publiccode.eu** é gerido por

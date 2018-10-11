@@ -2,6 +2,7 @@
 title: Gizlilik Politikası
 type: page
 layout: subpage
+version: 1
 ---
 
 **publiccode.eu** web sitesi [FSFE

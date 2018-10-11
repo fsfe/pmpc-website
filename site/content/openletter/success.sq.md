@@ -2,6 +2,7 @@
 title: "Faleminderit që nënshkruat!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Firma juaj u konfirmua

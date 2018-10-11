@@ -2,6 +2,7 @@
 title: "快完成了..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## 請再次檢查您的電子郵件地址

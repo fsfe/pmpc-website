@@ -2,6 +2,7 @@
 title: Öppet brev
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

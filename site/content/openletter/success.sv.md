@@ -2,6 +2,7 @@
 title: "Tack för din signatur!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Din signatur är bekräftad

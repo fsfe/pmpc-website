@@ -2,6 +2,7 @@
 title: "Grazie per aver firmato!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## La tua firma è stata confermata

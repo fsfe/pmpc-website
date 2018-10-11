@@ -1,7 +1,8 @@
 ---
 title: "Privatlivspolitik"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Websiden **publiccode.eu** drives af foreningen

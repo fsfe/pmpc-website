@@ -1,7 +1,8 @@
 ---
 title: "Integritetspolicy"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 Webbsidan **publiccode.eu** administreras av [FSFE e.V.](https://fsfe.org/about/legal/imprint.html) När denna
 policy refererar till "vi", menas FSFE.

@@ -2,6 +2,7 @@
 title: "Majdnem kész..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Nézd meg az email fiókod

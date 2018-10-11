@@ -2,6 +2,7 @@
 title: "Alla publika signaturer"
 type: page
 layout: subpage
+version: 1
 ---
 
 Det här är den kompletta listan på alla personer som signerat det öppna brevet

@@ -2,6 +2,7 @@
 title: "Bütün Herkese Açık İmzalar"
 type: page
 layout: subpage
+version: 1
 ---
 
 Bu liste açık mektubu imzalayan ve isminin herkes tarafından

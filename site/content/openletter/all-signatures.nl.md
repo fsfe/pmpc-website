@@ -2,6 +2,7 @@
 title: "Alle openbare handtekeningen"
 type: page
 layout: subpage
+version: 1
 ---
 
 Dit is de volledige lijst van alle mensen die de open brief ondertekend hebben,

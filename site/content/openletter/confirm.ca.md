@@ -2,6 +2,7 @@
 title: "Gairebé heu acabat..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Comproveu ara la vostra bústia de correu electrònic

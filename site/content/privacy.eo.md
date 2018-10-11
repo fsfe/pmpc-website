@@ -1,7 +1,8 @@
 ---
 title: "Privateco-politiko"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 La retejo **publiccode.eu** estas funkciigata de

@@ -2,6 +2,7 @@
 title: Открытое письмо
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

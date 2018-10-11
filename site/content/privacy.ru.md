@@ -1,7 +1,8 @@
 ---
 title: "Защита персональных данных"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Веб-сайт **publiccode.eu** принадлежит организации

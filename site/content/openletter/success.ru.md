@@ -2,6 +2,7 @@
 title: "Спасибо за Вашу подпись!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Ваша подпись подтверждена

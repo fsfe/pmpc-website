@@ -2,6 +2,7 @@
 title: "Preskaŭ farita"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Kontrolu vian retpoŝtan enirkiston nun

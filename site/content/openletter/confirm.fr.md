@@ -2,6 +2,7 @@
 title: "On y est presque..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Veuillez vérifier votre boite de réception maintenant

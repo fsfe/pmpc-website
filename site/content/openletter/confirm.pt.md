@@ -2,6 +2,7 @@
 title: "Está quase..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Verifique a sua caixa de correio eletrónico

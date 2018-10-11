@@ -2,6 +2,7 @@
 title: "Pothuajse përfunduat..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Kontrolloni emailin tuaj tani

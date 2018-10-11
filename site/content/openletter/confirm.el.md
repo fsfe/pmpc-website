@@ -2,6 +2,7 @@
 title: "Σχεδόν έτοιμος/η..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Έλεγξε το email σου τώρα

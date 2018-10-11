@@ -1,7 +1,8 @@
 ---
 title: "Πολιτική Ιδιωτικότητας"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Η ιστοσελίδα **publiccode.eu** συντηρείται από το

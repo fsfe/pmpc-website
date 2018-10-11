@@ -2,6 +2,7 @@
 title: "Obrigado por assinar!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## A sua assinatura foi confirmada

@@ -1,7 +1,8 @@
 ---
 title: "Privacybeleid"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 **publiccode.eu** wordt beheerd door de

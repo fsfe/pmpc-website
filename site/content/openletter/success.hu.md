@@ -2,6 +2,7 @@
 title: "Köszönjük a támogatást!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Az aláírásod meg lett erősítve!

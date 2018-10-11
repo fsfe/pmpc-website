@@ -2,6 +2,7 @@
 title: "Næsten færdig..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Kontroller nu din email

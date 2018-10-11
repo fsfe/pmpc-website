@@ -1,7 +1,8 @@
 ---
 title: "隱私政策"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 本網站 **publiccode.eu** 是由

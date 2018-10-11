@@ -1,7 +1,8 @@
 ---
 title: "Política de privacidad"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 El sitio web **publiccode.eu** es administrado por la

@@ -2,6 +2,7 @@
 title: "Quasi fatto..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Ora controlla la tua casella di posta elettronica

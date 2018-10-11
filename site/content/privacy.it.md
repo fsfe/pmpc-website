@@ -1,7 +1,8 @@
 ﻿---
 title: "Politiche sulla privacy"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Il sito **publiccode.eu** è gestito dalla [FSFE

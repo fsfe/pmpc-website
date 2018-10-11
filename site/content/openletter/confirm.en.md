@@ -2,6 +2,7 @@
 title: "Almost done..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Check your email inbox now

@@ -2,6 +2,7 @@
 title: 公開信
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

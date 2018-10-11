@@ -2,6 +2,7 @@
 title: "Thank you for signing!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Your signature is confirmed

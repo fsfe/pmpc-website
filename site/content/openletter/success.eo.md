@@ -2,6 +2,7 @@
 title: "Dankon pro via subskribo!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Via subskribo konfirmiĝis

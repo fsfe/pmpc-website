@@ -2,6 +2,7 @@
 title: "Takk for din underskrift!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Underskriften din er bekreftet

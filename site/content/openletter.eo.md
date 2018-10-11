@@ -2,6 +2,7 @@
 title: Publika letero
 type: page
 layout: subpage
+version: 1
 sigtable: true
 ---
 

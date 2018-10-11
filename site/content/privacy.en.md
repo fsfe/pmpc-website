@@ -1,7 +1,8 @@
 ---
 title: "Privacy Policy"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 The **publiccode.eu** web site is run by the

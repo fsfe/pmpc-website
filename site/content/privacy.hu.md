@@ -1,7 +1,8 @@
 ---
 title: "Adatvédelmi nyilatkozat"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 A **publiccode.eu** oldalt az [FSFE e.V.](https://fsfe.org/about/legal/imprint.html) üzemelteti. A nyilatkozatban "mi" alatt az FSFE-t értjük. 

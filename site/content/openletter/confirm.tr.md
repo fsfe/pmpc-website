@@ -2,6 +2,7 @@
 title: "Bitmek üzere..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Şimdi e-posta gelen kutunuza bakın

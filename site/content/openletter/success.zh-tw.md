@@ -2,6 +2,7 @@
 title: "感謝您參與連署！"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## 您已確認參與連署

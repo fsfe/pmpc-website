@@ -2,6 +2,7 @@
 title: "Fast fertig..."
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Schaue jetzt in dein E-Mail-Postfach

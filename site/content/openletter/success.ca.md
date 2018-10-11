@@ -2,6 +2,7 @@
 title: "Gràcies per signar!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## S'ha confirmat la vostra signatura

@@ -2,6 +2,7 @@
 title: "Danke für deine Unterschrift!"
 type: page
 layout: subpage
+version: 1
 ---
 
 ## Deine Unterschrift wurde bestätigt

@@ -1,7 +1,8 @@
 ---
 title: "Politikat e privatësisë"
-type: "page"
-layout: "subpage"
+type: page
+layout: subpage
+version: 1
 ---
 
 Faqja **publiccode.eu** menaxhohet nga
