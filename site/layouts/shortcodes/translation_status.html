@@ -1,11 +1,11 @@
 {{- $.Scratch.Set "allgood" true -}} <!-- "allgood" will say whether all translations are fine -->
 {{- range .Site.Pages -}} <!-- range through all pages -->
   {{- $.Scratch.Set "uptodate" true -}} <!-- reset uptodate var -->
-  {{- $maindate := .Lastmod -}}
+  {{- $main_date := .Lastmod -}} <!-- last modification date of EN file -->
   {{- range .Translations -}} <!-- range through all translations of .Page -->
     {{- if and (.IsTranslated) (.IsPage) -}}
       {{- $i18n_date := .Lastmod -}}
-      {{- if ($maindate.After $i18n_date) -}} <!-- EN .Lastmod is newer than .Lastmod of translation --> 
+      {{- if ($main_date.After $i18n_date) -}} <!-- EN .Lastmod is newer than .Lastmod of translation --> 
         {{- $.Scratch.Set "uptodate" false -}} <!-- at least one translation failed -->
         {{- $.Scratch.Set "allgood" false -}}  <!-- at least one translation failed -->
       {{- end -}}
@@ -19,17 +19,21 @@
         <th>Page</th>
         <th>Translation date</th>
         <th>Original date</th>
+        <th>Version Diff</th>
       </tr></thead>
-      {{ $maindate := .Lastmod -}} <!-- same logic as above, now with output -->
+      {{ $main_date := .Lastmod -}} <!-- same logic as above, now with output -->
+      {{- $main_version := .Params.version -}} <!-- "version" value of file's front matter -->
       {{ range sort .Translations ".Lang" }}
         {{- if and (.IsTranslated) (.IsPage) -}}
           {{- $i18n_date := .Lastmod -}}
-          {{- if ($maindate.After $i18n_date) -}}
+          {{- $i18n_version := .Params.version -}}
+          {{- if ($main_date.After $i18n_date) -}}
           <tr>
             <td>{{ .Lang | upper }}</td>
             <td><a href="{{ .Permalink }}">{{ .File.Path }}</a></td>
-            <td>{{ $i18n_date.Format "2006-01-02" }}</td>
-            <td>{{ $maindate.Format "2006-01-02" }}</td>
+            <td>{{ $i18n_date.Format "2006-01-02" }} (v{{ $i18n_version }})</td>
+            <td>{{ $main_date.Format "2006-01-02" }} (v{{ $main_version }})</td>
+            <td>{{ sub $main_version $i18n_version }}</td>
           </tr>
           {{- end -}}
         {{- end -}}
