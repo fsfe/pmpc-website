@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 type: page
 layout: subpage
-version: 1
+version: 2
 ---
 
 The **publiccode.eu** web site is run by the
@@ -48,8 +48,7 @@ also take steps to remove personal data about you.
 
 ## Who to contact
 
-If you have questions about our use of your data, would like to
-request a copy of all information we have stored about you, or
-would like to talk to our Data Protection Officer for any other
-purpose, our appointed Data Protection Officer is the FSFE's
-executive director, whom you can contact at [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+If you have questions about our use of your data, would like to request 
+a copy of all information we have stored about you, please contact 
+privacy@fsfe.org or directly the FSFE’s president, whom you can contact 
+at president@fsfe.org.
