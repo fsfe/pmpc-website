@@ -50,5 +50,4 @@ also take steps to remove personal data about you.
 
 If you have questions about our use of your data, would like to request 
 a copy of all information we have stored about you, please contact 
-privacy@fsfe.org or directly the FSFE’s president, whom you can contact 
-at president@fsfe.org.
+privacy@fsfe.org.
