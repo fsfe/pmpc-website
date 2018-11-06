@@ -1,17 +1,17 @@
-{{- $.Scratch.Set "allgood" true -}} <!-- "allgood" will say whether all translations are fine -->
+{{- $allgood := true -}} <!-- "allgood" will say whether all translations are fine -->
 {{- range .Site.Pages -}} <!-- range through all pages -->
-  {{- $.Scratch.Set "uptodate" true -}} <!-- reset uptodate var -->
+  {{- $uptodate := true -}} <!-- reset uptodate var -->
   {{- $main_date := .Lastmod -}} <!-- last modification date of EN file -->
   {{- range .Translations -}} <!-- range through all translations of .Page -->
     {{- if and (.IsTranslated) (.IsPage) -}}
       {{- $i18n_date := .Lastmod -}}
       {{- if ($main_date.After $i18n_date) -}} <!-- EN .Lastmod is newer than .Lastmod of translation --> 
-        {{- $.Scratch.Set "uptodate" false -}} <!-- at least one translation failed -->
-        {{- $.Scratch.Set "allgood" false -}}  <!-- at least one translation failed -->
+        {{- $uptodate = false -}} <!-- at least one translation failed -->
+        {{- $allgood = false -}}  <!-- at least one translation failed -->
       {{- end -}}
     {{- end -}}
   {{- end -}}
-  {{- if eq ($.Scratch.Get "uptodate") false }} <!-- if at least one translation failed -->
+  {{- if eq $uptodate false }} <!-- if at least one translation failed -->
     <h3><a href="{{ .Permalink }}">{{ .File.Path }}</a></h3>
     <table class="transstatus">
       <thead><tr>
@@ -42,6 +42,6 @@
   {{- end -}}
 {{- end -}}
 
-{{- if eq ($.Scratch.Get "allgood") true -}}
+{{- if eq $allgood true -}}
     <p style="text-align:center;">Everything is up to date! &#128077;</p>
 {{- end -}}

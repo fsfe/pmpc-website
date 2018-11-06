@@ -1,13 +1,13 @@
-{{ $.Scratch.Set "langext" "" }}
+{{ $langext := "" }}
 {{ if or (eq .Lang "de") (eq .Lang "fr") (eq .Lang "it") (eq .Lang "pt") (eq .Lang "ru") }}
-  {{ $.Scratch.Add "langext" (printf "_%s" .Lang) }}
+  {{ $langext = (printf "_%s" .Lang) }}
 {{ end }}
 <center>
   <video controls="controls" poster="/img/poster.jpg" crossorigin="crossorigin" width="100%">
-    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_desktop.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (min-device-width:1000px)" />
-    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_desktop.webm" type='video/webm; codecs="vp9, opus"' media="screen and (min-device-width:1000px)" />
-    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_mobile.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (max-device-width:999px)" />
-    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$.Scratch.Get "langext"}}_mobile.webm" type='video/webm; codecs="vp9, opus"' media="screen and (max-device-width:999px)" />
+    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_desktop.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (min-device-width:1000px)" />
+    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_desktop.webm" type='video/webm; codecs="vp9, opus"' media="screen and (min-device-width:1000px)" />
+    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_mobile.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (max-device-width:999px)" />
+    <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_mobile.webm" type='video/webm; codecs="vp9, opus"' media="screen and (max-device-width:999px)" />
     
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_en.vtt" kind="subtitles" srclang="en" label="English">
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_de.vtt" kind="subtitles" srclang="de" label="Deutsch">
