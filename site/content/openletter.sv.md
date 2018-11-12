@@ -40,15 +40,15 @@ count type="organisations" >}} organisationer** har redan signerat.
 > konkurrens. Vi behöver programvara som hjälper offentliga förvaltningar att
 > återta full kontroll över deras kritiska digitala infrastruktur, tillåter dem
 > att bli och förbli oberoende av en handfull företag. Det är därför vi vädjar
-> till våra representanter att stödja Fri och Öppen Programvara, då:
+> till våra representanter att stödja Fri och öppen programvara, då:
 >
-> * Fri och Öppen Programvara är en modern allmännytta som erbjuder alla att
+> * Fri och öppen programvara är en modern allmännytta som erbjuder alla att
 >   fritt använda, studera, dela och förbättra applikationer som vi använder
 >   dagligen.
-> * Licenser för Fri och Öppen Programvara tillhandahåller en garant mot att bli
+> * Licenser för Fri och öppen programvara tillhandahåller en garant mot att bli
 >   låst till tjänster från specifika företag som använder restriktiva licenser
 >   för att förhindra konkurrens.
-> * Licenser för Fri och Öppen Programvara säkerställer att källkoden är
+> * Licenser för Fri och öppen programvara säkerställer att källkoden är
 >   tillgänglig så att bakdörrar och säkerhetshål kan åtgärdas utan att vara
 >   beroende av en enskild tjänsteleverantör.
 >
@@ -60,6 +60,6 @@ count type="organisations" >}} organisationer** har redan signerat.
 >
 > **"Implementera lagstiftning som kräver att offentligt finansierad programvara
 > utvecklad för den offentliga sektorn görs offentligt tillgänglig under en
-> licens för Fri och Öppen Programvara."**
+> licens för Fri och öppen programvara."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet"
+[fs]: https://fsfe.org/freesoftware/basics/summary.html "Fri programvara ger alla rätten att använda, studera, dela och förbättra programvara. Det främjar andra fundamentala friheter som yttrandefrihet, fri press och integritet"

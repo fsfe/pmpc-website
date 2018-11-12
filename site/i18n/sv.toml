@@ -1,8 +1,8 @@
 # General strings
 [description]
-other= "Public Money, Public Code - En kampanj för att släppa offentligt finansierad programvara som Fri Programvara"
+other= "Public Money, Public Code - En kampanj för att släppa offentligt finansierad programvara som Fri programvara"
 [fsdefinition]
-other= "Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet"
+other= "Fri programvara ger alla rätten att använda, studera, dela och förbättra programvara. Det främjar andra fundamentala friheter som yttrandefrihet, fri press och integritet"
 
 # Navigation
 [navigation_links_start]
@@ -12,15 +12,15 @@ other= "Om"
 [navigation_links_arguments]
 other= "Argument"
 [navigation_links_action]
-other= "Vidta åtgärder"
+other= "Engagera dig"
 [navigation_links_spread]
-other= "För det vidare"
+other= "Dela vidare"
 
 # Start banner
 [start_subtitle1]
-other= "Varför släpps inte programvara skapad genom skattebetalarnas pengar som Fri Programvara?"
+other= "Varför släpps inte programvara skapad genom skattebetalarnas pengar som Fri programvara?"
 [start_subtitle2]
-other= "Vi vill ha lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.'). Om det är offentliga pengar, borde det vara offentlig kod likaså"
+other= "Vi vill ha lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och öppen programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.'). Om det är offentliga pengar borde det vara offentlig kod."
 [start_subtitle3]
 other= "**Kod betalad av folket borde vara tillgänglig för folket!**"
 
@@ -32,11 +32,11 @@ other= "Fler fördelar"
 
 # Arguments section
 [arguments_headline]
-other= "Anledningar till publik kod"
+other= "Argument för offentlig kod"
 [arguments_followup]
-other= "Tycker du att Fri Programvara borde vara förhandsalternativet för offentligt finansierad programvara? **Låt oss övertyga dina politiska representanter!**"
+other= "Tycker du att Fri programvara borde vara standardalternativet för offentligt finansierad programvara? **Övertyga dina politiska representanter!**"
 [arguments_buttonText]
-other= "Signera det Öppna Brevet"
+other= "Signera det öppna brevet"
 [arguments_list_title_1]
 other= "Skattebesparingar"
 [arguments_list_description_1]
@@ -44,11 +44,11 @@ other= "Liknande applikationer behöver inte programmeras från början varje g�
 [arguments_list_title_2]
 other= "Samarbete"
 [arguments_list_description_2]
-other= "Ansträngningar med större projekt kan dela expertis och kostnader."
+other= "Större projekt kan dela expertis och kostnader."
 [arguments_list_title_3]
-other= "Tjäna allmänheten"
+other= "I allmänhetens tjänst"
 [arguments_list_description_3]
-other= "Applikationer betalad av allmänheten borde vara tillgänglig för alla."
+other= "Applikationer betalada av allmänheten borde vara tillgängliga för alla."
 [arguments_list_title_4]
 other= "Främja innovation"
 [arguments_list_description_4]
@@ -62,9 +62,9 @@ other= "I vårt [**öppna brev**](openletter/) kräver vi:"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Implementera lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och Öppen Programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri Programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.').”"
+other= "“Implementera lagstiftning som kräver att offentligt finansierad programvara utvecklad för den offentliga sektorn görs offentligt tillgänglig under en licens för [Fri och öppen programvara](https://fsfe.org/freesoftware/basics/summary.html 'Fri programvara ger alla rätten att använda, studera, dela och förbättra programvara. Denna rätt hjälper till att främja andra fundamentala friheter som yttrandefrihet, fri press och integritet.').”"
 [action_description]
-other= "**$ORGS** organisationer och **$INDS** individer stöder redan detta anrop för aktion genom att signera vårt [öppna brev](openletter/). Du kan hjälpa oss att göra mycket större påverkan genom att signera det du också! Vi kommer ge alla signaturer till representanter över hela Europa som debatterar fri programvara i offentliga organ."
+other= "**$ORGS** organisationer och **$INDS** individer stöder redan detta upprop genom att signera vårt [öppna brev](openletter/). Du kan hjälpa oss att påverka ännu mer genom att också signera det! Vi kommer ge alla signaturer till representanter över hela Europa som debatterar Fri programvara i offentliga organ."
 [action_box_text]
 other= "**$INDS SIGNATURER** redan – signera det öppna brevet nu!"
 [action_form_name]
@@ -84,25 +84,25 @@ other= "Jag vill få vidare information om denna kampanj i framtiden"
 [action_form_permPub]
 other= "Jag vill att min signatur dyker upp i [listan med signaturer](openletter/all-signatures)"
 [action_form_submit]
-other= "Signera Nu!"
+other= "Signera nu!"
 
 # Organisations section
 [organisations_headline]
 other= "Stödjande Organisationer"
 [organisations_text]
-other= "De följande organisationerna stöder vårt [öppna brev](openletter/). Om din organisation också är intresserad av att stämma in i uppropet för Publik Kod, vänligen [kontakta oss](mailto:contact@fsfe.org)."
+other= "De följande organisationerna stöder vårt [öppna brev](openletter/). Om din organisation också är intresserad av att stämma in i uppropet för offentlig öppen kod, [kontakta oss](mailto:contact@fsfe.org)."
 
 # Spread the word section
 [spread_headline]
-other= "För det vidare!"
+other= "Dela vidare!"
 [spread_promoText]
 other= "Beställ de senaste klistermärkena och flygbladen från FSFE"
 [spread_promoButtonText]
 other= "Få marknadsföringsmaterial"
 [spread_shareText]
-other= "Berätta för dina vänner och följare om Publik Kod:"
+other= "Berätta för dina vänner och följare om kampanjen Public Code:"
 [spread_defaultSocialText]
-other= "Om det är offentliga pengar, borde det vara offentlig kod likaså! Jag stöder uppropet för mer publik kod under licenser för Fri Programvara:"
+other= "Om det är skattebetalarnas pengar ska koden vara öppen! Jag stöder uppropet för mer öppen kod släppt under fria programvarulicenser:"
 
 # Legal Section
 [legal_by]
@@ -114,11 +114,11 @@ other= "Integritet"
 [legal_transparency]
 other= "Transparens"
 [legal_contribute1]
-other= "Koden för denna webbsida är Fri Programvara."
+other= "Koden för denna webbsida är Fri programvara."
 [legal_contribute2]
 other= "Du är välkommen att bidra!"
 [legal_license]
-other= "Detta arbete är licensierat under en [Creative Commons BY-SA 4.0 Licens](http://creativecommons.org/licenses/by-sa/4.0/)."
+other= "Detta verk är licensierat under en [Creative Commons BY-SA 4.0 Licens](http://creativecommons.org/licenses/by-sa/4.0/)."
 
 # Language selection
 [language_description]
@@ -134,11 +134,11 @@ other= "Tillbaka till startsidan"
 
 # Specific sub-pages
 [subpage_signatures_headline]
-other= "Individuella signaturer för det Öppna Brevet"
+other= "Individuella signaturer för det öppna brevet"
 [subpage_signatures_description]
-other= "Här nedan är signaturerna från dem som samtyckte till att ha deras namn publicerade. Bli den nästa!"
+other= "Här nedan är signaturerna från dem som samtyckt till att publicerad namn. Bli nästa!"
 [subpage_signatures_allSignatures]
-other= "Se [alla publika signaturer](all-signatures/)."
+other= "Se [alla offentliga signaturer](all-signatures/)."
 [subpage_signatures_tableName]
 other= "Namn"
 [subpage_signatures_tableCountry]

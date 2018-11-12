@@ -11,9 +11,9 @@ policy refererar till "vi", menas FSFE.
 
 När du använder webbsidan för att signera vårt öppna brev, samlar vi
 in och sparar information om ditt namn, e-postadress och land som du
-har tillhandahållit med ditt samtycke. Vi kommer att publikt visa ditt
-namn som undertecknare till vårt öppna brev om du gav ditt samtycke
-att publikt visa ditt namn på [listan med signaturer](/openletter/all-signatures). Vi kommer
+har tillhandahållit med ditt samtycke. Vi kommer att visa ditt
+namn som undertecknare till vårt öppna brev offentligt om du gav ditt samtycke
+att visa ditt namn offentligt på [listan med signaturer](/openletter/all-signatures). Vi kommer
 också att leverera ditt namn och land till mottagarna av det öppna
 brevet (medlemmar i Europaparlamentet och nationella eller lokala
 folkrepresentationer). Vi kommer inte att dela din e-postadress. Vi
