@@ -203,6 +203,13 @@
     "url": "https://direitosdigitais.pt/"
   },
   {
+    "name": "D64 - Zentrum für digitalen Fortschritt e.V.",
+    "img": "d64logo-small.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://d-64.org/"
+  },
+  {
     "name": "Debian",
     "img": "debian.png",
     "orgtype": "international_ngo",
