@@ -441,6 +441,13 @@
     "url": "http://flossk.org/"
   },
   {
+    "name": "Free Silicon Foundation",
+    "img": "fsif.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://f-si.org"
+  },
+  {
     "name": "Free Software Foundation Europe",
     "img": "fsfe.png",
     "orgtype": "international_ngo",
