@@ -15,6 +15,8 @@ other= "About"
 other= "Reasons"
 [navigation_links_action]
 other= "Take Action"
+[navigation_links_resources]
+other= "Resources"
 [navigation_links_spread]
 other= "Spread the Word"
 
@@ -105,6 +107,20 @@ other = "International NGOs"
 other = "National NGOs"
 [organisations_regional_ngo]
 other = "Regional NGOs"
+
+# Resources section
+[resources_list_title_1]
+other= "Latest News"
+[resources_list_description_1]
+other= "Recent updates about this campaign and public code in Europe"
+[resources_list_title_2]
+other= "Expert Brochure"
+[resources_list_description_2]
+other= "Get the latest brochure explaining the benefits of Free Software for public administration, written by experts in the field"
+[resources_list_title_3]
+other= "Press and Media"
+[resources_list_description_3]
+other= "Find logos, condensed information, and contacts for your articles"
 
 # Spread the word section
 [spread_headline]

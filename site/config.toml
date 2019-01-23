@@ -18,6 +18,7 @@ enableGitInfo = true
   fbPageID      = "336939393138306"
   twitterUser   = "@fsfe"
 
+# Arguments
 [[params.arguments.list]]
   no          = "1"
   icon        = "fa-eur"
@@ -30,6 +31,24 @@ enableGitInfo = true
 [[params.arguments.list]]
   no          = "4"
   icon        = "fa-lightbulb-o"
+
+# Resources
+[[params.resources.list]]
+  no      = 1
+  img     = "/img/resources/foi.jpg"
+  link    = "https://fsfe.org/tags/tagged-pmpc"
+  target  = "_blank"
+[[params.resources.list]]
+  no    = 2
+  img   = "/img/resources/brochure.jpg"
+  link  = "https://fsfe.org/campaigns/publiccode/brochure"
+  target  = "_blank"
+[[params.resources.list]]
+  no    = 3
+  img   = "/img/resources/write.jpg"
+  link  = "/media"
+  target  = "_self"
+
 
 # === TRANSLATIONS ===
 [Languages]

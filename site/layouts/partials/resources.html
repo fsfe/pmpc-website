@@ -6,24 +6,18 @@
         <div class="row no-gutter">
             {{ range .Site.Params.resources.list }}
                 <div class="col-lg-4 col-sm-6">
-                    <a href="{{ .link }}" class="resources-box resources-link">
-                        <img src="/img/resources/{{ .img }}" class="img-responsive" alt="">
-                        {{ if .title }}
-                            <div class="resources-box-caption">
-                                <div class="resources-box-caption-content">
-                                    {{ with .title }}
-                                        <div class="resource-name">
-                                            {{ . }}
-                                        </div>
-                                    {{ end }}
-                                    {{ with .description }}
-                                        <div class="resource-description">
-                                            {{ . }}
-                                        </div>
-                                    {{ end }}
+                    <a href="{{ replaceRE "^/(.*)" ("$1" | relLangURL) .link }}" target="{{ .target }}" class="resources-box resources-link">
+                        <img src="{{ .img }}" class="img-responsive" alt="" />
+                        <div class="resources-box-caption">
+                            <div class="resources-box-caption-content">
+                                <div class="resource-name">
+                                    {{ i18n (delimit (slice "resources_list_title_" .no) "") }}
+                                </div>
+                                <div class="resource-description">
+                                    {{ i18n (delimit (slice "resources_list_description_" .no) "") }}
                                 </div>
                             </div>
-                        {{ end }}
+                        </div>
                     </a>
                 </div>
             {{ end }}

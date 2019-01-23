@@ -409,6 +409,8 @@ a:hover {
 .btn:hover { border: 0 !important; }
 .hiddenlink { border: 0 !important;}
 .hiddenlink:hover { border: 0 !important; }
+.resources-link { border: 0 !important;}
+.resources-link:hover { border: 0 !important; }
 
 
 /* BOUNCING DOWN ARROW */

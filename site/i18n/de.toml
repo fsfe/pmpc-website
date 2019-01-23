@@ -15,6 +15,8 @@ other= "Über"
 other= "Argumente"
 [navigation_links_action]
 other= "Werde aktiv"
+[navigation_links_resources]
+other= "Ressourcen"
 [navigation_links_spread]
 other= "Weitersagen"
 
@@ -105,6 +107,20 @@ other = "Internationale NGOs"
 other = "Nationale NGOs"
 [organisations_regional_ngo]
 other = "Regionale NGOs"
+
+# Resources section
+[resources_list_title_1]
+other= "Neuigkeiten"
+[resources_list_description_1]
+other= "Aktuelle Informationen über diese Kampagne und öffentlichen Code in Europa"
+[resources_list_title_2]
+other= "Umfassende Broschüre"
+[resources_list_description_2]
+other= "Die brandneue Broschüre erläutert die Vorteile Freier Software für die öffentliche Verwaltung, geschrieben von Experten auf diesem Gebiet"
+[resources_list_title_3]
+other= "Presse und Medien"
+[resources_list_description_3]
+other= "Logos, prägnante Informationen und Kontaktdaten für Artikel"
 
 # Spread the word section
 [spread_headline]
