@@ -87,7 +87,7 @@
     "name": "Associação Nacional para o Software Livre",
     "img": "ansol.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://ansol.org/"
   },
   {
@@ -241,7 +241,7 @@
     "name": "digitalcourage",
     "img": "digitalcourage.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://digitalcourage.de/"
   },
   {
@@ -255,7 +255,7 @@
     "name": "Digitale Gesellschaft",
     "img": "digitalegesellschaft.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://digitalegesellschaft.de/"
   },
   {
@@ -493,7 +493,7 @@
     "name": "GFOSS",
     "img": "GFOSS.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://gfoss.eu/"
   },
   {
@@ -647,7 +647,7 @@
     "name": "LibreITALIA",
     "img": "libreitalia.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "http://www.libreitalia.it/"
   },
   {
@@ -794,7 +794,7 @@
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
     "orgtype": "international_ngo",
-    "priority": "0",
+    "priority": "1",
     "url": "https://opensource.org/"
   },
   {
@@ -990,7 +990,7 @@
     "name": "Software Liberty Association Taiwan",
     "img": "slat.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://slat.org/"
   },
   {
@@ -1081,21 +1081,21 @@
     "name": "Wikimedia France",
     "img": "wikimediafrance.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://wikimedia.fr"
   },
   {
     "name": "Wikimedia Italia",
     "img": "wmit.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://wiki.wikimedia.it/wiki/Main_page"
   },
   {
     "name": "Wikimedia Česká Republika",
     "img": "wikimedia-czech.png",
     "orgtype": "national_ngo",
-    "priority": "1",
+    "priority": "0",
     "url": "https://www.wikimedia.cz"
   },
   {
