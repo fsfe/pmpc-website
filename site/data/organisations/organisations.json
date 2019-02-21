@@ -714,6 +714,13 @@
     "url": "https://nowoczesnapolska.org.pl"
   },
   {
+    "name": "Mozilla",
+    "img": "mozilla.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
+    "url": "https://mozilla.org"
+  },
+  {
     "name": "Neutrinet",
     "img": "neutrinet.png",
     "orgtype": "national_ngo",
