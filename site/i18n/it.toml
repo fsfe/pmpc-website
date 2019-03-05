@@ -15,6 +15,8 @@ other= "Informazioni"
 other= "Motivazioni"
 [navigation_links_action]
 other= "Agisci"
+[navigation_links_resources]
+other= "Risorse"
 [navigation_links_spread]
 other= "Spargi la voce"
 
@@ -22,7 +24,7 @@ other= "Spargi la voce"
 [start_subtitle1]
 other= "Perché il software creato usando i soldi delle tasse riscosse dai cittadini non è rilasciato come Software Libero?"
 [start_subtitle2]
-other= "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/basics/summary.html 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.'). Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code)."
+other= "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/basics/summary.html'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.'). Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code)."
 [start_subtitle3]
 other= "**Il codice pagato dalle persone dovrebbe essere disponibile alle persone!**"
 
@@ -30,19 +32,19 @@ other= "**Il codice pagato dalle persone dovrebbe essere disponibile alle person
 [about_headline]
 other= "Sembra complicato? Non lo è. È super semplice!"
 [about_buttonText]
-other= "Più vantaggi"
+other= "Altri vantaggi"
 
 # Arguments section
 [arguments_headline]
-other= "Motivazioni per Public Code"
+other= "Le motivazioni di Public Code"
 [arguments_followup]
 other= "Credi che il Software Libero dovrebbe essere l'opzione predefinita per il software finanziato pubblicamente? **Convinci i tuoi rappresentanti politici!**"
 [arguments_buttonText]
 other= "Firma la Lettera Aperta"
 [arguments_list_title_1]
-other= "Risparmi fiscali"
+other= "Risparmio fiscale"
 [arguments_list_description_1]
-other= "Applicazioni simili non dovrebbero essere programmate da zero ogni volta."
+other= "Applicazioni simili non dovrebbero essere riprogrammate da zero ogni volta."
 [arguments_list_title_2]
 other= "Collaborazione"
 [arguments_list_description_2]
@@ -80,7 +82,7 @@ other= "CAP"
 [action_form_comment]
 other= "Il tuo commento (max. 140 caratteri)"
 [action_form_permPriv]
-other= "Ho letto e accettato la [dichiarazione sulla privacy](privacy/)"
+other= "Ho letto e accettato l'[informativa sulla privacy](privacy/)"
 [action_form_permNews]
 other= "Voglio rimanere informato sull'andamento di questa campagna"
 [action_form_permPub]
@@ -106,6 +108,20 @@ other = "ONG nazionali"
 [organisations_regional_ngo]
 other = "ONG locali"
 
+# Resources section
+[resources_list_title_1]
+other= "Ultime notizie"
+[resources_list_description_1]
+other= "Aggiornamenti sull'andamento della campagna in Europa"
+[resources_list_title_2]
+other= "Expert Brochure"
+[resources_list_description_2]
+other= "Brochure approfondita sull'uso del Software Libero nelle Pubbliche Amministrazioni, realizzata da esperti del settore"
+[resources_list_title_3]
+other= "Sala stampa"
+[resources_list_description_3]
+other= "Loghi, riassunti dei contenuti del sito utilizzabili per realizzare articoli ed i contatti dei responsabili della campagna"
+
 # Spread the word section
 [spread_headline]
 other= "Spargi la voce!"
@@ -116,7 +132,7 @@ other= "Ottieni materiale promozionale"
 [spread_shareText]
 other= "Racconta ai tuoi amici e follower di Public Code:"
 [spread_defaultSocialText]
-other= "Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code). Supporto questa chiamata per più codice pubblico sotto una licenza di Software Libero: "
+other= "Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code). Supporto questa chiamata per chiedere più codice pubblico sotto una licenza di Software Libero: "
 
 # Legal Section
 [legal_by]
@@ -131,6 +147,8 @@ other= "Trasparenza"
 other= "Il codice di questo sito web è Software Libero."
 [legal_contribute2]
 other= "Se vuoi contribuire sei il benvenuto!"
+[translation_status]
+other="Stato della traduzione"
 [legal_license]
 other= "Questo lavoro è licenziato sotto la [licenza Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.it)."
 
@@ -150,7 +168,7 @@ other= "Torna alla pagina iniziale"
 [subpage_signatures_headline]
 other= "Firmatari individuali della Lettera Aperta"
 [subpage_signatures_description]
-other= "Sotto ci sono le firme dei firmatari che hanno acconsentito alla pubblicazione del loro nome. Sii il prossimo!"
+other= "Sotto ci sono le firme delle persone che hanno acconsentito alla pubblicazione del proprio nome. Sii il prossimo!"
 [subpage_signatures_allSignatures]
 other= "Guarda [tutte le firme pubbliche](all-signatures/)."
 [subpage_signatures_tableName]
