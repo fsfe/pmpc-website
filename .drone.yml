@@ -5,16 +5,9 @@ pipeline:
         - cd site; ./build/build.sh syntax
 
   deploy:
-    image: docker:dind
+    image: tmaier/docker-compose
     commands:
-      # Get docker-compose
-      - wget -q -O /usr/local/bin/docker-compose https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)
-        # Make it executable
-      - chmod 700 /usr/local/bin/docker-compose
-      # Download and install glibc (Alpine comes with musl libc) because docker-compose relies on it
-      - wget -q https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.27-r0/glibc-2.27-r0.apk https://github.com/sgerrand/alpine-pkg-glibc/releases/download/2.27-r0/glibc-bin-2.27-r0.apk
-      - wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://alpine-pkgs.sgerrand.com/sgerrand.rsa.pub
-      - apk add -q --update glibc-2.27-r0.apk glibc-bin-2.27-r0.apk
+      # Install git
       - apk add -q git
 
       # Clone the git remository
@@ -22,6 +15,7 @@ pipeline:
       # Build the docker container
       # Clean things up
       - git clone https://git.fsfe.org/pmpc/website.git /tmp/pmpc-build && cd /tmp/pmpc-build/ && cp /tmp/signatures/signatures.json site/data/signatures/signatures.json && docker build -t pmpc .
+
       # Run docker compose
       - docker-compose up -d
     volumes:
