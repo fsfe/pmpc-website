@@ -14,6 +14,13 @@
     "url": "http://www.bcn.cat/"
   },
   {
+    "name": "Association Lyonnaise pour le Développement de l'Informatique Libre",
+    "img": "aldil.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://aldil.org"
+  },
+  {
     "name": "apertus° Association",
     "img": "apertus.png",
     "orgtype": "international_ngo",
