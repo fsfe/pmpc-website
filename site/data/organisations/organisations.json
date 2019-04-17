@@ -714,6 +714,13 @@
     "url": "https://www.mageia.org/en/"
   },
   {
+    "name": "mediale pfade",
+    "img": "medialepfade.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://medialepfade.org/"
+  },
+  {
     "name": "Modern Poland Foundation",
     "img": "nowoczesnapolska.png",
     "orgtype": "national_ngo",
