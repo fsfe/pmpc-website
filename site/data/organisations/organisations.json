@@ -21,6 +21,13 @@
     "url": "https://aldil.org"
   },
   {
+    "name": "Anoxinon e.V.",
+    "img": "anoxinon.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://anoxinon.de"
+  },
+  {
     "name": "apertus° Association",
     "img": "apertus.png",
     "orgtype": "international_ngo",
