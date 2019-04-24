@@ -623,6 +623,13 @@
     "url": "http://jugpadova.it/"
   },
   {
+    "name": "Junta General del Principado de Asturias",
+    "img": "jgpa.png",
+    "orgtype": "administration",
+    "priority": "1",
+    "url": "https://www.jgpa.es"
+  },
+  {
     "name": "KDE e.V.",
     "img": "kde.png",
     "orgtype": "international_ngo",
