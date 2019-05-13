@@ -504,6 +504,13 @@
     "url": "https://enn.lu/"
   },
   {
+    "name": "FUSS Project",
+    "img": "fuss.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://fuss.bz.it"
+  },
+  {
     "name": "Gentoo",
     "img": "gentoo.png",
     "orgtype": "international_ngo",
