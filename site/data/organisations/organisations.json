@@ -126,6 +126,13 @@
     "url": "https://bglug.it/"
   },
   {
+    "name": "Bündnis Freie Bildung",
+    "img": "bfb.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://buendnis-freie-bildung.de"
+  },
+  {
     "name": "CCC Switzerland",
     "img": "ccc-ch.png",
     "orgtype": "national_ngo",
