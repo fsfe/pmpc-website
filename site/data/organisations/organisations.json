@@ -392,6 +392,13 @@
     "url": "https://www.faimaison.net/"
   },
   {
+    "name": "F-Droid",
+    "img": "fdroid.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://f-droid.org"
+  },
+  {
     "name": "Fedora Project",
     "img": "fedora.png",
     "orgtype": "international_ngo",
@@ -677,6 +684,13 @@
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "http://libreart.info/"
+  },
+  {
+    "name": "Linux User Group Bozen-Bolzano-Bulsan",
+    "img": "lugbz.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.lugbz.org"
   },
   {
     "name": "Linux User Group Of Slovenia",
@@ -1027,6 +1041,13 @@
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "http://www.soit.sk/"
+  },
+  {
+    "name": "Stiftung Datenschutz",
+    "img": "stiftung-datenschutz.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.stiftungdatenschutz.org"
   },
   {
     "name": "Stratum 0 - Hackerspace Braunschweig",
