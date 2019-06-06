@@ -20,7 +20,7 @@ C'est là que vous pouvez nous aider ! Signez la lettre ouverte pour donner plus
 >
 > * Interdisent le partage et l’échange du code financé par le contribuable. Cela empêche la coopération entre les administrations publiques et ralentit tout développement ultérieur.
 > * Soutiennent des monopoles et sont une entrave à la concurrence. En conséquence, de nombreuses administrations deviennent dépendantes d’une poignée d’entreprises. 
-> * Le Logiciel Libre et Open Source garantit que le code source reste accessible afin que les portes dérobées et les failles de sécurité puissent être réparées sans dépendre d’un unique prestataire de services.
+> * Menacent le sécurité de notre infrastructure numérique en interdisant l'accès au code source. Cela rend extrêmement difficile (voir même impossible) la détection de portes dérobées ou la corrections de failles de sécurité.
 
 > Nous avons besoin de logiciels qui favorisent l’échange de bonnes idées et de solutions. C’est ainsi que nous pourrons améliorer les services informatiques pour tous en Europe. Nous avons besoin de logiciels qui aident les administrations publiques à reprendre le plein contrôle de leur infrastructure numérique et stratégique, leur permettant de devenir et rester indépendant d’une poignée d’entreprises. C’est pourquoi nous appelons nos élus à soutenir le Logiciel Libre et Open Source dans les administrations publiques car:
 >
