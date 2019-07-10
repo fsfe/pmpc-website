@@ -6,7 +6,7 @@ version: 1
 sigtable: true
 ---
 
-El programari finançat públicament ha de ser [programari lliure i obert][fs]. Tot i què hi ha molt bones raons per a això, molts polítics encara no les coneixen.
+El programari finançat públicament ha de ser [programari lliure i obert][fs]. Tot i que hi ha molt bones raons per a això, molts polítics encara no les coneixen.
 
 {{< fsdefinition type="box">}}
 
@@ -31,6 +31,6 @@ Aquí és on podeu ajudar! Signeu la carta oberta per a donar més pes al nostre
 > 
 > Per això, els sotasignats, demanem als nostres representants:
 > 
-> **"Implementar una legislació que exigeixi que el programari finançat públicament pel sector públic estigui disponible públicament sota una llicència de programari lliure i obert.."**
+> **"Implementar una legislació que exigeixi que el programari finançat amb fons públics i desenvolupat pel sector públic estigui disponible públicament sota una llicència de programari lliure i obert.."**
 
 [fs]: https://fsfe.org/freesoftware/basics/summary.html "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.."
