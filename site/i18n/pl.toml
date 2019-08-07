@@ -1,0 +1,161 @@
+# General strings
+[description]
+other= "Publiczne Peniądze, Publiczny Kod – Kampania na rzecz publikowania oprogramowania finansowanego z środków publicznych jako wolnego oprogramowania."
+[fsdefinition]
+other= "Wolne Oprogramowanie daje każdemu prawo do uruchamiania, analizowania, rozpowszechniania i udoskonalania oprogramowania. Te cztery prawa uzupełniają prawa podstawowe takie jak wolność słowa, prasy czy prawo do prywatności."
+[javascript_warning]
+other = "<b>Uwaga:</b> Niektóre interaktywne funkcjonalności tej strony nie zadziałają bez odblokowanego JavaScript w przeglądarce."
+
+# Navigation
+[navigation_links_start]
+other= "Start"
+[navigation_links_about]
+other= "O stronie"
+[navigation_links_arguments]
+other= "Dlaczego ?"
+[navigation_links_action]
+other= "Podejmij akcję"
+[navigation_links_spread]
+other= "Podziel się ze światem"
+
+# Start banner
+[start_subtitle1]
+other= "Dlaczego oprogramowanie wytworzone z pieniędzy podatników nie jest wolne?"
+[start_subtitle2]
+other= "Chcemy zmian prawnych wymagających, aby oprogramowanie finansowane ze środków publicznych dla publicznego sektora było publicznie widoczne jako [Wolne i Otwarte Oprogramowanie](https://fsfe.org/freesoftware/basics/summary.html 'Wolne oprogramowanie daje wszystkim prawo do używania, czytania, rozpowszechniania i ulepszania oprogramowania. Te prawa pozwalają nam wspierać inne prawa podstawowe jak prawo do wolności wypowiedzi, wolności prasy czy prawo do prywatności.'). Publiczne Peniądze, Publiczny Kod."
+[start_subtitle3]
+other= "**Oprogramowanie opłacone przez społeczeństwo powinno być dostępne dla społeczeństwa!**"
+
+# About section
+[about_headline]
+other= "Brzmi skomplikowanie? Wcale nie, to bardzo proste!"
+[about_buttonText]
+other= "Więcej zalet"
+
+# Arguments section
+[arguments_headline]
+other= "Argumenty za Publicznym Kodem"
+[arguments_followup]
+other= "Czy wierzysz, że Wolne Oprogramowanie powinno być standardem dla oprogramowania finansowanego ze środków publicznych? **Przekonaj swoich polityków!**"
+[arguments_buttonText]
+other= "Podpisz List Otwarty"
+[arguments_list_title_1]
+other= "Oszczędności Podatkowe"
+[arguments_list_description_1]
+other= "Podobne aplikacje nie muszą za każdym razem być pisane od nowa."
+[arguments_list_title_2]
+other= "Współpraca"
+[arguments_list_description_2]
+other= "Wiedza i koszty w dużych projektach mogą być dzielone."
+[arguments_list_title_3]
+other= "Usługi publiczne"
+[arguments_list_description_3]
+other= "Aplikacje opłacane ze środków publicznych powinny być dostępne dla każdego."
+[arguments_list_title_4]
+other= "Zapewnienie innowacyjności"
+[arguments_list_description_4]
+other= "Dzięki jasnym procesom inni nie będą musieli wynajdywać koła na nowo."
+
+# Action section
+[action_headline]
+other= "Powiedz Swoim Politykom!"
+[action_intro]
+other= "W naszym [**otwartym liście**](openletter/) domagamy się:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Implementacji prawa wymagającego, aby publicznie finansowane oprogramowanie wytwarzane dla sektora publicznego było publicznie dostępne jako [Wolne i Otwarte Oprogramowanie](https://fsfe.org/freesoftware/basics/summary.html 'Wolne Oprogramowanie daje wszystkim prawo do używania, czytania, udostępniania i ulepszania oprogramowania. Te prawa pozwalają nam wspierać inne podstawowe prawa jak prawo do wolności wypowiedzi, wolności prasy czy prawo do prywatności.') licencja”"
+[action_description]
+other= "**$ORGS** organizacje i **$INDS** osoby, które już teraz wspierają to wezwanie do działania poprzez podpisanie naszego [listu otwartego](openletter/). Możesz pomóc nam w osiągnięciu sukcesu podpisując ten list. Wszystkie podpisy przekażemy do przedstawicieli w całej Europie, którzy zajmują się wolnym oprogramowaniem w administracji publicznej."
+[action_box_text]
+other= "Podpisane przez **$INDS SIGNATURES** – podpisz list otwarty już dziś!"
+[action_form_name]
+other= "Imię (wymagane)"
+[action_form_email]
+other= "Email (wymagany)"
+[action_form_country]
+other= "Kraj"
+[action_form_zip]
+other= "Kod Pocztowy"
+[action_form_comment]
+other= "Komentarz (max. 140 znaków)"
+[action_form_permPriv]
+other= "Przeczytałem i zaakceptowałem [oświadczenie o prywatności](privacy/)"
+[action_form_permNews]
+other= "Chcę być stale informowany o przyszłości tej kampanii."
+[action_form_permPub]
+other= "Chcę, aby mój podpis ukazał się na [liście podpisów](openletter/all-signatures)"
+[action_form_submit]
+other= "Podpisz Teraz!"
+
+# Organisations section
+[organisations_headline]
+other= "Organizacje Wspierające"
+[organisations_text]
+other= "Poniższe organizacje wspierają nasz [list otwarty](openletter/). Jeśli twoja organizacja także jest zainteresowana dołączeniem do inicjatywy na rzecz Publicznego Kodu, proszę [skontaktuj się](mailto:contact@fsfe.org)."
+[organisations_administration]
+other = "Administracja"
+[organisations_all]
+other = "Wszystkie"
+[organisations_corporate]
+other = "Firmy"
+[organisations_international_ngo]
+other = "Międzynarodowe NGOs"
+[organisations_national_ngo]
+other = "Krajowe NGOs"
+[organisations_regional_ngo]
+other = "Regionalne NGOs"
+
+# Spread the word section
+[spread_headline]
+other= "Pokaż światu!"
+[spread_promoText]
+other= "Najnowsze naklejki i ulotki od FSFE"
+[spread_promoButtonText]
+other= "Materiały promocyjne"
+[spread_shareText]
+other= "Opowiedz swoim znajomym o Publicznym Kodzie:"
+[spread_defaultSocialText]
+other= "Publiczne pieniądze, publiczny kod. Wspieram to inicjatywę na rzecz udostępnienia kodu jako Wolne i Otwarte oprogramowanie:"
+
+# Legal Section
+[legal_by]
+other= "Kampania prowadzona przez Free Software Foundation Europe"
+[legal_imprint]
+other= "Znak Firmowy"
+[legal_privacy]
+other= "Polityka Prywatności"
+[legal_transparency]
+other= "Transparentność"
+[legal_contribute1]
+other= "Kod tej strony jest Wolnym Oprogramowaniem."
+[legal_contribute2]
+other= "Zapraszamy do udziału!"
+[legal_license]
+other= "Ta praca jest udostęniona na licencji  [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Przeczytaj tę stronę w innym języku"
+
+# 404 Error Page
+[error_headline]
+other= "Error 404 - Nie znaleziono podanej strony"
+[error_description]
+other= "Strona, której szukasz, nie istnieje."
+[error_button]
+other= "Powrót do strony startowej"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Podpisy Indywidualne Otwartego Listu"
+[subpage_signatures_description]
+other= "Poniżej podpisy tych, którzy zgodzili się udostępnić swoje imiona i nazwiska publicznie. Bądź następny!"
+[subpage_signatures_allSignatures]
+other= "Zobacz [wszystkie publiczne podpisy](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Imię i nazwisko"
+[subpage_signatures_tableCountry]
+other= "Kraj"
+[subpage_signatures_tableComment]
+other= "Komentarz"

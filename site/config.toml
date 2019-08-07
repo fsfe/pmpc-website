@@ -102,6 +102,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   languageCode  = "nl"
   languageName  = "Nederlands"
 
+[Languages.pl]
+  languageCode  = "pl"
+  languageName  = "Polski"
+
 [Languages.pt]
   languageCode  = "pt"
   languageName  = "Português"
