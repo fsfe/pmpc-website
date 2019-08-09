@@ -11,6 +11,8 @@ other = "<b>Uwaga:</b> Niektóre interaktywne funkcjonalności tej strony nie za
 other= "Start"
 [navigation_links_about]
 other= "O stronie"
+[navigation_links_resources]
+other= "Zasoby"
 [navigation_links_arguments]
 other= "Dlaczego ?"
 [navigation_links_action]
@@ -105,6 +107,20 @@ other = "Międzynarodowe NGOs"
 other = "Krajowe NGOs"
 [organisations_regional_ngo]
 other = "Regionalne NGOs"
+
+# Resources section
+[resources_list_title_1]
+other= "Najnowsze wiadomości"
+[resources_list_description_1]
+other= "Najświeższe infromacje o tej kampanii i wolnym oprogramowaniu w Europie"
+[resources_list_title_2]
+other= "Opinia eksperta"
+[resources_list_description_2]
+other= "Przeczytaj broszurę wyjaśniającą zalety Wolnego i Otwartego Oprogramowania w administracji publicznej, napisaną przez ekspertów w tej dziedzinie"
+[resources_list_title_3]
+other= "Media i Prasa"
+[resources_list_description_3]
+other= "Logo, notatki i kontakt dla prasy"
 
 # Spread the word section
 [spread_headline]
