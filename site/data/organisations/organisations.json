@@ -203,6 +203,13 @@
     "url": "https://www.communecter.org"
   },
   {
+    "name": "Computertruhe e. V.",
+    "img": "computertruhe.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://computertruhe.de"
+  },
+  {
     "name": "Courage Foundation",
     "img": "couragefound.png",
     "orgtype": "international_ngo",
@@ -616,6 +623,13 @@
     "url": "https://www.hermescenter.org/"
   },
   {
+    "name": "Idealiste.cz",
+    "img": "idealiste-cz.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.idealiste.cz/"
+  },
+  {
     "name": "Integreat",
     "img": "integreat.png",
     "orgtype": "regional_ngo",
@@ -788,7 +802,7 @@
     "img": "obshtestvo.png",
     "orgtype": "national_ngo",
     "priority": "0",
-    "url": "https://www.obshtestvo.bg/" 
+    "url": "https://www.obshtestvo.bg/"
   },
   {
     "name": "Offene Kommunen.NRW",
@@ -922,6 +936,13 @@
     "orgtype": "international_ngo",
     "priority": "0",
     "url": "https://p2pfoundation.net/"
+  },
+  {
+    "name": "Peercoin Foundation",
+    "img": "peercoin.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.peercoin.net/foundation"
   },
   {
     "name": "Pica Pica HackLab",
