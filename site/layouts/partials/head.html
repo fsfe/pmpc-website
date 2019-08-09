@@ -5,7 +5,6 @@
 {{ with .Site.Params.static.meta.author }}<meta name="author" content="{{ . }}">{{ end }}
 <meta name="description" content="{{ i18n "description" }}">
 <meta name="keywords" content="Public Money, Public Code, #publiccode, campaign, Free Software, Open Source, FOSS, FLOSS, public administration, FOI, open letter, petition, PMPC">
-{{ .Hugo.Generator }}
 <title>{{ with .Params.Title }}{{ . }} - {{ end }}{{ .Site.Title }}</title>
 {{ "<!-- Translations -->" | safeHTML }}
 <link type="text/html" rel="alternate" hreflang="{{ .Lang }}" lang="{{ .Lang }}" href="{{ .RelPermalink }}" title="{{ .Site.Params.languageName }}">
