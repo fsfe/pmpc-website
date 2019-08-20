@@ -455,6 +455,13 @@
     "url": "https://www.fossgis.de/"
   },
   {
+    "name": "FOSS Bangladesh",
+    "img": "foss-bangladesh.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.fossbd.org/"
+  },
+  {
     "name": "Framasoft",
     "img": "framasoft.png",
     "orgtype": "international_ngo",
@@ -810,6 +817,13 @@
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "http://oknrw.de"
+  },
+  {
+    "name": "OpenSaar e.V.",
+    "img": "opensaar.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://opensaar.de/"
   },
   {
     "name": "Open Fabrication Network",
