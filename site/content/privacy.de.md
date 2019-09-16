@@ -2,7 +2,7 @@
 title: "Datenschutzerklärung"
 type: page
 layout: subpage
-version: 1
+version: 2
 ---
 
 Die Webseite **publiccode.eu** wird betrieben von [FSFE 
@@ -54,8 +54,5 @@ Daten über dich entfernen werden.
 
 Wenn du Fragen zu unserer Verwendung deiner Daten hast, eine Kopie 
 aller Informationen, die wir über dich erhoben haben, erhalten willst, 
-oder unseren Datenschutzbeauftragten bezüglich anderer Themen sprechen 
-möchtest, ist unser verantwortlicher Datenschutzbeauftragter der 
-Geschäftsführer der FSFE, den du unter 
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org) 
-erreichst.
+dann wende dich bitte an 
+privacy@fsfe.org
