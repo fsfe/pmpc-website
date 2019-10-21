@@ -210,6 +210,13 @@
     "url": "https://computertruhe.de"
   },
   {
+    "name": "ConTeXt Group",
+    "img": "contex.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://group.contextgarden.net/"
+  },
+  {
     "name": "Courage Foundation",
     "img": "couragefound.png",
     "orgtype": "international_ngo",
