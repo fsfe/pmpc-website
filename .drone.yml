@@ -22,6 +22,6 @@ pipeline:
       - /var/run/docker.sock:/var/run/docker.sock
       - /srv/forms/pmpc:/tmp/signatures:ro
     when:
-       event: [push, tag, deployment]
+       event: [push, tag, deployment, cron]
        branch: master
 
