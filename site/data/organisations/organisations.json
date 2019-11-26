@@ -609,6 +609,13 @@
     "url": "https://www.hackerspace.gr/"
   },
   {
+    "name": "Hackerspace Marburg",
+    "img": "hsmr.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://hsmr.cc/"
+  },
+  {
     "name": "Hacking Lliure",
     "img": "lliure.png",
     "orgtype": "regional_ngo",
