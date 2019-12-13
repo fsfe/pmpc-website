@@ -460,6 +460,9 @@ a:hover {
   top: 13px;
   font-size: 19px;
 }
+header {
+  z-index: 1;
+}
 
 /* DEFINITION BOX */
 .definition {
@@ -501,12 +504,43 @@ a:hover {
   border-left: none;
   text-align: center;
   font-size: 1.1em;
+  z-index: 1;
 }
 @media screen and (max-width: 767px) {
   #action-box {
     display: none;
   }
 }
+
+/* "Campaign by" info text on start */
+.infotext.desktop {
+  display: none;
+}
+.infotext {
+  margin-top: 20px;
+}
+.infotext img {
+  max-height: 42px;
+  width: unset !important;
+  vertical-align: bottom;
+  display: inline !important;
+  margin: 0 !important;
+}
+@media (min-width:768px) {
+  .infotext.mobile {
+    display: none;
+  }
+  .infotext.desktop {
+    display: block;
+  }
+  .infotext {
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    margin: 0;
+  }
+}
+
 
 .radio-filter-orgs label {
     margin-right:5%;

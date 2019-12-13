@@ -1,5 +1,7 @@
 {{ "<!-- HEADER -->" | safeHTML }}
 <header>
+    <!-- infotext for desktop -->
+    {{ partial "functions/infotext.html" (dict "context" . "class" "desktop") }}
     <div class="header-content">
         <div class="header-content-inner">
             <div class="logo">
@@ -9,6 +11,9 @@
                     <span class="logo-green">{{ .Site.Params.static.slogan_2 }}</span>
                 </h1>
             </div>
+
+            <!-- infotext for mobile -->
+            {{ partial "functions/infotext.html" (dict "context" . "class" "mobile") }}
 
             <hr />
             <p>{{ i18n "start_subtitle1" | markdownify }}

@@ -315,7 +315,7 @@ header .header-content .header-content-inner p {
     text-shadow: 1px 1px 2px black;
 }
 
-@media(min-width:768px) {
+@media (min-width:768px) and (min-height:600px) {
     header {
         min-height: 100%;
     }
