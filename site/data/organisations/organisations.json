@@ -1190,6 +1190,13 @@
     "url": "https://waag.org"
   },
   {
+    "name": "WECHANGE",
+    "img": "wechange.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://wechange.de"
+  },
+  {
     "name": "Wikimedia Deutschland",
     "img": "wikimedia-de.png",
     "orgtype": "national_ngo",
