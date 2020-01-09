@@ -21,6 +21,13 @@
     "url": "https://aldil.org"
   },
   {
+    "name": "Association Nâga",
+    "img": "naga.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.naga44.org/"
+  },
+  {
     "name": "Anoxinon e.V.",
     "img": "anoxinon.png",
     "orgtype": "national_ngo",
@@ -539,6 +546,13 @@
     "url": "https://fuss.bz.it"
   },
   {
+    "name": "GEN Europe",
+    "img": "gen-europe.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://gen-europe.org/"
+  },
+  {
     "name": "Gentoo",
     "img": "gentoo.png",
     "orgtype": "international_ngo",
@@ -1034,6 +1048,13 @@
     "orgtype": "national_ngo",
     "priority": "0",
     "url": "http://www.rampalab.org/"
+  },
+  {
+    "name": "RevLibre",
+    "img": "revlibre.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "http://revlibre.org/"
   },
   {
     "name": "Samtgemeinde Elbmarsch",
