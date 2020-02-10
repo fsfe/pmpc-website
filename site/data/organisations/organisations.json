@@ -28,6 +28,13 @@
     "url": "https://www.naga44.org/"
   },
   {
+    "name": "AStA der Justus Liebig Universität",
+    "img": "asta-jlu.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": " https://www.asta-giessen.de/"
+  },
+  {
     "name": "Anoxinon e.V.",
     "img": "anoxinon.png",
     "orgtype": "national_ngo",
