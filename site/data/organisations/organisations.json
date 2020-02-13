@@ -917,6 +917,13 @@
     "url": "http://osb-alliance.de"
   },
   {
+    "name": "Open Source Ecology Germany e. V.",
+    "img": "oseg.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://opensourceecology.de/"
+  },
+  {
     "name": "Open Source Initiative",
     "img": "OpenSourceInitiative.png",
     "orgtype": "international_ngo",
