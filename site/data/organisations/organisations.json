@@ -700,6 +700,13 @@
     "url": "http://jugpadova.it/"
   },
   {
+    "name": "Junge Europäische Föderalisten Rheinland-Pfalz",
+    "img": "jef-rlp.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "http://www.jef-rlp.de"
+  },
+  {
     "name": "Junta General del Principado de Asturias",
     "img": "jgpa.png",
     "orgtype": "administration",
