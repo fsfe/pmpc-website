@@ -553,6 +553,13 @@
     "url": "https://fuss.bz.it"
   },
   {
+    "name": "GEN Deutschland – Netzwerk für Gemeinschaften e. V.",
+    "img": "gen-de.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.gen-deutschland.de/"
+  },
+  {
     "name": "GEN Europe",
     "img": "gen-europe.png",
     "orgtype": "international_ngo",
