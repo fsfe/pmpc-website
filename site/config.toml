@@ -1,6 +1,6 @@
 baseurl = "https://publiccode.eu"
 title = "Public Money, Public Code"
-theme = "hugo-creative-theme"
+theme = [ "hugo-creative-theme", "hugo-snap-gallery" ]
 DefaultContentLanguage = "en"
 enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm"]

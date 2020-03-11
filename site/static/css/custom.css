@@ -411,6 +411,8 @@ a:hover {
 .hiddenlink:hover { border: 0 !important; }
 .resources-link { border: 0 !important;}
 .resources-link:hover { border: 0 !important; }
+.snap-gallery a { border: 0 !important; }
+.snap-gallery a:hover { border: 0 !important; }
 
 
 /* BOUNCING DOWN ARROW */

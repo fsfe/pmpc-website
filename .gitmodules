@@ -1,0 +1,3 @@
+[submodule "site/themes/hugo-snap-gallery"]
+	path = site/themes/hugo-snap-gallery
+	url = https://src.mehl.mx/mxmehl/hugo-snap-gallery

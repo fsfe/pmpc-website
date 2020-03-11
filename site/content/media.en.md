@@ -21,4 +21,6 @@ You would like to feature Public Money, Public Code? Wonderful! Make sure to use
 
 Download the [full media kit](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip), or pick from our selection below.
 
-{{< gallery dir="/img/media/" />}}
+{{< gallery >}}
+  {{< snap-dir srcdir="/img/media" >}}
+{{< /gallery >}}

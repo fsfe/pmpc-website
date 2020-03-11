@@ -26,4 +26,6 @@ Jeśli potrzebujesz więcej materiałów lub innej licencji skontatkuj się z na
 
 Pobierz [media kit](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip) lub wybierz z galerii poniżej.
 
-{{< gallery dir="/img/media/" />}}
+{{< gallery >}}
+  {{< snap-dir srcdir="/img/media" >}}
+{{< /gallery >}}
