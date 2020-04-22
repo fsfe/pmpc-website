@@ -10,7 +10,7 @@
 	"include_vars": {
 		"name": "Test Docker",
 		"confirm": "jonas@example.com",
-		"country": "Testland",
+		"country": "DE",
 		"zip": "64632",
 		"comment": "1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
 		"permissionPriv": "yes",
@@ -31,7 +31,7 @@
 	"include_vars": {
 		"name": "Test Testson",
 		"confirm": "jonas@example.com",
-		"country": "Sweden",
+		"country": "SE",
 		"zip": "64632",
 		"comment": "Hey Max! Lets see if this works.",
 		"permissionPriv": "yes",
@@ -52,7 +52,7 @@
 	"include_vars": {
 		"name": "Test Testson 2",
 		"confirm": "jonas@example.com",
-		"country": "Sweden",
+		"country": "ABCDE",
 		"zip": "64632",
 		"comment": "Hey Max! Lets see if this works, AGAIN!",
 		"permissionPriv": "yes",
@@ -95,7 +95,7 @@
 	"include_vars": {
 		"name": "Test Testson 2",
 		"confirm": "jonas@example.com",
-		"country": "Sweden",
+		"country": "AF",
 		"zip": "64632",
 		"comment": "Hey Max! Lets see if this works, AGAIN! With timestamp.",
 		"permissionPriv": "yes",
@@ -117,7 +117,7 @@
 	"include_vars": {
 		"name": "Max1",
 		"confirm": "mail@example.org",
-		"country": "Belgium",
+		"country": "BE",
 		"zip": "12345",
 		"comment": "",
 		"permissionPriv": "yes",
@@ -139,7 +139,7 @@
 	"include_vars": {
 		"name": "Max3",
 		"confirm": "tech+blah@example.org",
-		"country": "Netherlands",
+		"country": "NL",
 		"zip": "66816",
 		"comment": "mail with + and not appear in list",
 		"permissionPriv": "yes",
@@ -160,7 +160,7 @@
 	"include_vars": {
 		"name": "Max2",
 		"confirm": "mail@example.org",
-		"country": "Bulgaria",
+		"country": "BG",
 		"zip": "68168",
 		"comment": "This is the same email as Max1",
 		"permissionPriv": "yes",
@@ -182,7 +182,7 @@
 	"include_vars": {
 		"name": "Fan",
 		"confirm": "tech@example.org",
-		"country": "Czech Republic",
+		"country": "CZ",
 		"zip": "26168",
 		"comment": "Yeah",
 		"permissionPriv": "yes",
@@ -203,7 +203,7 @@
 	"include_vars": {
 		"name": "Test2",
 		"confirm": "tech+2@example.org",
-		"country": "Portugal",
+		"country": "PT",
 		"zip": "6168",
 		"comment": "Test again",
 		"permissionPriv": "yes",
@@ -224,7 +224,7 @@
 	"include_vars": {
 		"name": "HIDDEN",
 		"confirm": "tech@example.org",
-		"country": "Luxembourg",
+		"country": "LU",
 		"zip": "51684168",
 		"comment": "Crazy <3 \"\" symbols ' // %$ \\",
 		"permissionPriv": "yes",

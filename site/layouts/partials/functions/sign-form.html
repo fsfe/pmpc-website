@@ -12,7 +12,7 @@
       <option value="">{{ i18n "action_form_country" }}</option>
       {{ $json := getJSON "data/countries/countries.json" }}
       {{ range sort $json "name" "asc" }}
-        <option value="{{ .name }}">{{ .name }}</option>
+        <option value="{{ .genc2a }}">{{ .name }}</option>
       {{ end }}
     </select>
   </label>
