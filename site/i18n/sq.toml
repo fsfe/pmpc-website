@@ -22,7 +22,7 @@ other= "Përhap lajmin"
 [start_subtitle1]
 other= "Përse softuerët e financuar nga taksat e qytetarëve nuk janë sjellë si Softuerë të Lirë?"
 [start_subtitle2]
-other= "Ne duam që legjislacioni që kërkon që softueri i financuar publikisht i zhvilluar për sektorin publik të vihet në dispozicion të publikut në kuadrin e një programi [Softuer i Lirë dhe i Hapur] (https://fsfe.org/freesoftware/basics/summary.html 'Software i Lirë i jep të gjithëve të drejtën për përdorim, studim, ndarje dhe përmirësim të softuerit. Kjo e drejtë ndihmon në mbështetje të lirive të tjera themelore si liria e fjalës, shtypit dhe privatësisë. '). Nëse është para publike, duhet të jetë edhe kod publik."
+other= "Ne duam që legjislacioni që kërkon që softueri i financuar publikisht i zhvilluar për sektorin publik të vihet në dispozicion të publikut në kuadrin e një programi [Softuer i Lirë dhe i Hapur] (https://fsfe.org/freesoftware/ 'Software i Lirë i jep të gjithëve të drejtën për përdorim, studim, ndarje dhe përmirësim të softuerit. Kjo e drejtë ndihmon në mbështetje të lirive të tjera themelore si liria e fjalës, shtypit dhe privatësisë. '). Nëse është para publike, duhet të jetë edhe kod publik."
 [start_subtitle3]
 other= "**Kodi i paguar nga njerëzit duhet të jetë i disponueshëm për njerëzit!**"
 
@@ -64,7 +64,7 @@ other= "Në  [**letrën e hapur**](openletter/) ne kërkojmë:"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Zbatimi i legjislacionit që kërkon që softueri i financuar publikisht i zhvilluar për sektorin publik të vihet në dispozicion të publikut në kuadrin e një programi [Free and Open Source Software] (https://fsfe.org/freesoftware/basics/summary.html 'Software-i i Lirë i jep të gjithëve të drejtën për të përdorur ,studiuar, shpërndarjen dhe përmirësimi i softuerit. Kjo e drejtë ndihmon në mbështetjen e lirive të tjera themelore si liria e fjalës, shtypit dhe privatësisë. ')”"
+other= "“Zbatimi i legjislacionit që kërkon që softueri i financuar publikisht i zhvilluar për sektorin publik të vihet në dispozicion të publikut në kuadrin e një programi [Free and Open Source Software] (https://fsfe.org/freesoftware/ 'Software-i i Lirë i jep të gjithëve të drejtën për të përdorur ,studiuar, shpërndarjen dhe përmirësimi i softuerit. Kjo e drejtë ndihmon në mbështetjen e lirive të tjera themelore si liria e fjalës, shtypit dhe privatësisë. ')”"
 [action_description]
 other= "**$ORGS** organizata dhe **$INDS** Njerëzit tashmë e mbështesin këtë thirrje për veprim duke nënshkruar letrën tonë të hapur (openletter/). Ju gjithashtu mund të na ndihmoni të kemi një ndikim shumë më të madh duke e nënshkruar atë! Ne do t'i dorëzojmë të gjitha nënshkrimet përfaqësuesve në mbarë Evropën që debatojnë për lirinë e softuerit në administratën publike."
 [action_box_text]

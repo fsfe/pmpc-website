@@ -32,4 +32,4 @@ To jest miejsce, gdzie możesz pomóc! Podpisz list otwarty, aby nadać naszej w
 >
 > **"uchwalenia prawa wymagającego, aby oprogramowanie finansowane ze środków publicznych i rozwijane dla sektora publicznego musiało być publicznie dostępne jako Wolne i Otwarte Oprogramowanie."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Wolne Oprogramowanie daje każdemu prawo do uruchamiania, analizowania, rozpowszechniania i udoskonalania oprogramowania. Te cztery prawa wspierają prawa podstawowe takie jak wolność słowa, prasy czy prawo do prywatności."
+[fs]: https://fsfe.org/freesoftware/ "Wolne Oprogramowanie daje każdemu prawo do uruchamiania, analizowania, rozpowszechniania i udoskonalania oprogramowania. Te cztery prawa wspierają prawa podstawowe takie jak wolność słowa, prasy czy prawo do prywatności."

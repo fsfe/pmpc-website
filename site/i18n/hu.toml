@@ -62,7 +62,7 @@ other= "A [**nyílt levelünkben**](openletter/) kérjük:"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Olyan jogszabályok létrehozását, amelyek biztosítják, hogy a közszolgáltatási szervek számára közpénzből fejlesztett szoftverek forráskódjai legyenek valamilyen [Szabad Szoftver](https://fsfe.org/freesoftware/basics/summary.html 'A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.') licencel ellátva nyilvánosan elérhetőek.”"
+other= "“Olyan jogszabályok létrehozását, amelyek biztosítják, hogy a közszolgáltatási szervek számára közpénzből fejlesztett szoftverek forráskódjai legyenek valamilyen [Szabad Szoftver](https://fsfe.org/freesoftware/ 'A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok.') licencel ellátva nyilvánosan elérhetőek.”"
 [action_description]
 other= "Már **$ORGS** szervezet és  **$INDS** személy támogatta kezdeményezésünket [nyílt levelünk](openletter/) aláírásával. Te is segíthetsz aláírásoddal, hogy minél nagyobb hatást érhessünk el! Európa szerte eljuttatjuk az aláírásokat a képviselőknek, hogy megvitathassák a közigazgatási szervek által használt szoftverek felszabadításának kérdését."
 [action_box_text]

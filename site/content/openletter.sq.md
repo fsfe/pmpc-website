@@ -32,4 +32,4 @@ Këtu vlen ndihma juaj! Firmosni letrën e hapur për t'i dhënë mesazhit tonë
 > 
 > **"Të implementohet legjislacion që përcakton se programet e financuara nga fonde publike dhe të zhvilluara për sektorin publik të bëhen të arritshme publikisht nën një licensë programesh me kodburim të lirë e të hapur."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Programet me kodburim të lirë i japin gjithkujt mundësinë për t'i përdorur, studiuar, përmirësuar dhe ndarë me të tjerët. Kjo e drejtë ndihmon në mbështetjen e lirive të tjera themelore, si e drejta e fjalës, medies së lirë e privatësisë."
+[fs]: https://fsfe.org/freesoftware/ "Programet me kodburim të lirë i japin gjithkujt mundësinë për t'i përdorur, studiuar, përmirësuar dhe ndarë me të tjerët. Kjo e drejtë ndihmon në mbështetjen e lirive të tjera themelore, si e drejta e fjalës, medies së lirë e privatësisë."

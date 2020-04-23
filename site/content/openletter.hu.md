@@ -32,4 +32,4 @@ Ebben segíthetsz! Írd alá a nyílt levelünket, hogy az üzenetünknek nagyob
 > 
 > **"Olyan jogszabályokat hozzanak létre, amelyek biztosítják, hogy a közigazgatási szervek számára közpénzből fejlesztett szoftverek forráskódjai legyenek valamilyen Szabad Szoftver licencel ellátva nyilvánosan elérhetőek."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok."
+[fs]: https://fsfe.org/freesoftware/ "A Szabad Szoftverek mindenki számára biztosítják a jogot a korlátozások nélküli használatra, a forráskód tanulmányozására, megosztásra és továbbfejlesztésére. Ezek a jogok segítenek olyan alapvető szabadságjogok érvényesítésében mint a szólásszabadság, a sajtószabadság vagy a magánszférához való jogok."

@@ -62,4 +62,4 @@ count type="organisations" >}} organisationer** har redan signerat.
 > utvecklad för den offentliga sektorn görs offentligt tillgänglig under en
 > licens för Fri och öppen programvara."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Fri programvara ger alla rätten att använda, studera, dela och förbättra programvara. Det främjar andra fundamentala friheter som yttrandefrihet, fri press och integritet"
+[fs]: https://fsfe.org/freesoftware/ "Fri programvara ger alla rätten att använda, studera, dela och förbättra programvara. Det främjar andra fundamentala friheter som yttrandefrihet, fri press och integritet"

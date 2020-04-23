@@ -32,4 +32,4 @@ Det er her du kan hjælpe! Skriv under på det åbne brev for at give vores buds
 > 
 > **"Implementere lovgivning der kræver at offentligt finansieret software udviklet til den offentlige sektor, skal gøres tilgængelig under en fri og open source software licens."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv."
+[fs]: https://fsfe.org/freesoftware/ "Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv."

@@ -32,4 +32,4 @@ Software financiado por fundos públicos deverá ser [Software Livre e de Fonte 
 > 
 > **"Implementarem legislação que exija que o software desenvolvido para o sector público através de financiamento público seja disponibilizado publicamente sob uma licença de Software Livre e de Fonte Aberta".**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Software Livre dá a todos os direitos de usar, compreender, adaptar e partilhar software. Estes direitos ajudam a apoiar outros direitos fundamentais tais como a liberdade de expressão, liberdade de imprensa e privacidade."
+[fs]: https://fsfe.org/freesoftware/ "Software Livre dá a todos os direitos de usar, compreender, adaptar e partilhar software. Estes direitos ajudam a apoiar outros direitos fundamentais tais como a liberdade de expressão, liberdade de imprensa e privacidade."

@@ -32,4 +32,4 @@ Det er her du kan hjelpe! Skriv under på det åpne brevet for å gi budskapet v
 > 
 > **"Implementere lovgivning som krever at offentlig finansiert programvare utviklet for offentlig sektor gjøres tilgjengelig for offentligheten under en fri programvarelisens."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "Fri programvare gir alle rett til å bruke, studere, dele og forbedre programvare. Denne retten bidrar til å støtte andre grunnleggende friheter som ytringsfrihet, pressefrihet og retten til privatliv."
+[fs]: https://fsfe.org/freesoftware/ "Fri programvare gir alle rett til å bruke, studere, dele og forbedre programvare. Denne retten bidrar til å støtte andre grunnleggende friheter som ytringsfrihet, pressefrihet og retten til privatliv."

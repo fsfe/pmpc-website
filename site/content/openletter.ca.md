@@ -33,4 +33,4 @@ Aquí és on podeu ajudar! Signeu la carta oberta per a donar més pes al nostre
 > 
 > **"Implementar una legislació que exigeixi que el programari finançat amb fons públics i desenvolupat pel sector públic estigui disponible públicament sota una llicència de programari lliure i obert.."**
 
-[fs]: https://fsfe.org/freesoftware/basics/summary.html "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.."
+[fs]: https://fsfe.org/freesoftware/ "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.."
