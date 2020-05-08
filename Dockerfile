@@ -1,6 +1,6 @@
 FROM php:7-apache
 
-ENV HUGO_VERSION 0.54.0
+ENV HUGO_VERSION 0.70.0
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_Linux-64bit.deb
 
 RUN apt-get update && apt-get upgrade -y && \

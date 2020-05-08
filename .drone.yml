@@ -1,6 +1,6 @@
 pipeline:
   syntaxcheck:
-    image: monachus/hugo
+    image: monachus/hugo:v0.70.0
     commands:
         - cd site; ./build/build.sh syntax
 
