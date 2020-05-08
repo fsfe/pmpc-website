@@ -1078,6 +1078,13 @@
     "url": "http://www.rampalab.org/"
   },
   {
+    "name": "Rechenkraft.net e.V.",
+    "img": "rechenkraft.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.rechenkraft.net/"
+  },
+  {
     "name": "RevLibre",
     "img": "revlibre.png",
     "orgtype": "regional_ngo",
