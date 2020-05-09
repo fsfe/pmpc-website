@@ -19,7 +19,7 @@ vi att hålla dig informerad om nyheter angående denna kampanj via e-post.
 Du kan också [beställa klistermärken och informationsmaterial](https://fsfe.org/promo#pmpc) från Free
 Software Foundation Europe.
 
-Gör Fri Programvara i Europa starkare, överväg att [stödja FSFE](https://fsfe.org/donate/?pmpc) eller en av
+Gör Fri Programvara i Europa starkare, överväg att [stödja FSFE](https://my.fsfe.org/donate?referrer=pmpc) eller en av
 de övriga [stödjande organisationerna](../../#organisations).
 
 Med ditt stöd kommer vi att hjälpa beslutsfattare över hela Europa förstå att

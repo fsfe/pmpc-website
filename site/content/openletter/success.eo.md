@@ -26,7 +26,7 @@ Vi ankaŭ povas [mendi gluetikedojn kaj informilojn](https://fsfe.org/promo#pmpc
 de Free Software Foundation Europe.
 
 Fortigu liberan programaron en Eŭropo kaj pripensu [subteni la
-FSFE](https://fsfe.org/donate/?pmpc) aŭ unu el la aliaj [subtenantaj
+FSFE](https://my.fsfe.org/donate?referrer=pmpc) aŭ unu el la aliaj [subtenantaj
 organizaĵoj](../../#organisations).
 
 Kun via subteno, ni helpos al decidistoj tra Eŭropo kompreni, ke eldonado de

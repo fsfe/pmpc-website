@@ -17,6 +17,6 @@ Ju lutemi na ndihmoni duke i dhënë nënshkrimit tuaj një ndikim të madh dhe 
 
 Ju gjithashtu mund të [porosisni etiketa dhe materiale informuese] (https://fsfe.org/promo#pmpc) nga Free Software Foundation Europe.
 
-Bëni Softuerin e Lirë në Europë më të fortë dhe merrni në konsideratë [mbështetjen e FSFE] (https://fsfe.org/donate/?pmpc) ose një nga organizatat e tjera [organizatat mbështetëse] (../../#organisations).
+Bëni Softuerin e Lirë në Europë më të fortë dhe merrni në konsideratë [mbështetjen e FSFE] (https://my.fsfe.org/donate?referrer=pmpc) ose një nga organizatat e tjera [organizatat mbështetëse] (../../#organisations).
 
 Me ndihmën tuaj ne do të ndihmojmë vendimmarrësit në mbarë Europën të kuptojnë se botimi i kodit të tyre sipas licensave të Softuerit të Lirë dhe të Hapur është zgjidhja më e mirë për ta, administratat e tjera, kompanitë, dhe sidomos publikun e gjerë.

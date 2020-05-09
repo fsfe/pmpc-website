@@ -17,6 +17,6 @@ Per favore aiutaci dando alla tua firma un grande impatto [condividendo questa c
 
 Puoi anche [ordinare adesivi e materiale informativo](https://fsfe.org/promo#pmpc) da Free Software Foundation Europe.
 
-Rendi il Software Libero in Europa più forte e prendi in considerazione il [supporto a FSFE](https://fsfe.org/donate/?pmpc) o a una delle altre [organizzazioni di supporto](../../#organisations).
+Rendi il Software Libero in Europa più forte e prendi in considerazione il [supporto a FSFE](https://my.fsfe.org/donate?referrer=pmpc) o a una delle altre [organizzazioni di supporto](../../#organisations).
 
 Con il tuo sostegno aiuteremo i centri decisionali di tutta Europa a capire che la pubblicazione del codice sotto licenze Software Libero/Open Source è la migliore soluzione per loro, per le altre amministrazioni, le società, e specialmente per la gente comune. 

@@ -17,6 +17,6 @@ Si us plau, ajudeu-nos a donar a la vostra signatura un gran impacte i [comparti
 
 També podeu [demanar adhesius i material informatiu](https://fsfe.org/promo#pmpc) de la Free Software Foundation Europe.
 
-Feu que el programari lliure sigui més fort a Europa i considereu [donar suport a la FSFE](https://fsfe.org/donate/?pmpc) o a una de les [les organitzacions que col·laboren](../../#organisations).
+Feu que el programari lliure sigui més fort a Europa i considereu [donar suport a la FSFE](https://my.fsfe.org/donate?referrer=pmpc) o a una de les [les organitzacions que col·laboren](../../#organisations).
 
 Amb la vostra ajuda farem que els polítics que defineixen les polítiques per a les administracions públiques a tota Europa entenguin que publicar el seu codi sota llicències de programari lliure o obert és la millor solució per a ells, altres administracions, empreses i especialment el públic general.

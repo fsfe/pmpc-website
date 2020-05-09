@@ -17,6 +17,6 @@ Por favor, ajude-nos a fazer com que a sua assinatura tenha mais impacto e [part
 
 Também pode [encomendar autocolantes e material informativo](https://fsfe.org/promo#pmpc) da Free Software Foundation Europe.
 
-Fortaleça o Software Livre na Europa ao [suportar a FSFE](https://fsfe.org/donate/?pmpc) ou uma das outras [organizações apoiantes](../../#organisations).
+Fortaleça o Software Livre na Europa ao [suportar a FSFE](https://my.fsfe.org/donate?referrer=pmpc) ou uma das outras [organizações apoiantes](../../#organisations).
 
 Com o seu apoio ajudaremos políticos em toda a Europa a compreender que publicar código sob licenças de Software Livre é a melhor solução para eles, para outras administrações, empresas, e especialmente para o público.

@@ -17,6 +17,6 @@ Proszę pomóż nam i dodaj swojemu podpisowi większej wagi poprzez [podzieleni
 
 Możesz też [zamówić naklejki i materiały informacyjne](https://fsfe.org/promo#pmpc) z Free Software Foundation Europe.
 
-Uczyń Wolne Oprogramowanie w Europie silniejsze i rozważ [wsparcie dla FSFE](https://fsfe.org/donate/?pmpc) lub innej [organizacji](../../#organisations).
+Uczyń Wolne Oprogramowanie w Europie silniejsze i rozważ [wsparcie dla FSFE](https://my.fsfe.org/donate?referrer=pmpc) lub innej [organizacji](../../#organisations).
 
 Z Twoim wsparciem pomożemy dycydentom w całej Europie zrozumieć fakt, że publikacja kodu źródłowego jako Wolnego i Otwartego Oprogramowania jest najlepszym rozwiązaniem.

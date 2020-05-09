@@ -17,6 +17,6 @@ version: 1
 
 Кроме того, Вы можете заказать у нас стикеры и информационный раздаточный материал [order stickers and informational material](https://fsfe.org/promo#pmpc).
 
-Поддержите нас [supporting the FSFE](https://fsfe.org/donate/?pmpc) или другие дружественные нам организации [supporting organisations](../../#organisations) через пожертвование.
+Поддержите нас [supporting the FSFE](https://my.fsfe.org/donate?referrer=pmpc) или другие дружественные нам организации [supporting organisations](../../#organisations) через пожертвование.
 
 С Вашей поддержкой мы сможем объяснить лицам, ответственным за принятие решений, что публикация кода в соответствии с лицензиями свободного программного обеспечения, это лучшее решение как для государственных администраций, так и для частных компаний и общества в целом.

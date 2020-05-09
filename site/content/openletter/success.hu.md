@@ -17,6 +17,6 @@ Kérünk segíts, hogy aláírásodnak minél nagyobb hatása legyen és [oszd m
 
 Tudsz rendelni [matricákat és szóróanyagokat](https://fsfe.org/promo#pmpc) a Free Software Foundation Europe alapítványtól.
 
-Make Free Software in Europe stronger and consider [supporting the FSFE](https://fsfe.org/donate/?pmpc) or one of the other [supporting organisations](../../#organisations).
+Make Free Software in Europe stronger and consider [supporting the FSFE](https://my.fsfe.org/donate?referrer=pmpc) or one of the other [supporting organisations](../../#organisations).
 
 A támogatásoddal Európa szerte segíteni fogjuk a döntéshozókat abban, hogy megértsék, hogy az a legjobb megoldás mind számukra, más államapparátusok, a cégek, és főleg a társadalom számára, ha forrásfájljaikat valamelyik Szabad Szoftver Licenccel látják el. When this policy refers to "we", this means the FSFE.

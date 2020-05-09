@@ -17,6 +17,6 @@ Bitte hilf uns, deine Unterschrift einen großen Einfluss zu verleihen und [teil
 
 Du kannst auch [Sticker und Informationsmaterialien](https://fsfe.org/promo#pmpc) von der Free Software Foundation Europe bestellen.
 
-Stärke Freie Software in Europa und [unterstütze die FSFE](https://fsfe.org/donate/?pmpc) oder eine der anderen [unterstützenden Organisationen](../../#organisations).
+Stärke Freie Software in Europa und [unterstütze die FSFE](https://my.fsfe.org/donate?referrer=pmpc) oder eine der anderen [unterstützenden Organisationen](../../#organisations).
 
 Mit deiner Unterstützung werden wir Entscheidern in ganz Europa dabei helfen zu verstehen, dass die Veröffentlichung von Code unter einer Freie-Software- und Open-Source-Lizenz die beste Lösung für sie, andere Verwaltungen, Firmen und vor allem die Allgemeinheit ist.

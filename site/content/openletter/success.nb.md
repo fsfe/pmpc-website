@@ -17,6 +17,6 @@ Vennligst hjelp oss med å gi underskriften din ekstra stor slagkraft ved å [de
 
 Du kan også [bestille klistremerker og informasjonsmateriale](https://fsfe.org/promo#pmpc) fra Free Software Foundation Europe.
 
-Gjør fri programvare i Europa sterkere og vurder å [støtte FSFE](https://fsfe.org/donate/?pmpc) eller en av de andre [støttende organisasjonene](../../#organisations).
+Gjør fri programvare i Europa sterkere og vurder å [støtte FSFE](https://my.fsfe.org/donate?referrer=pmpc) eller en av de andre [støttende organisasjonene](../../#organisations).
 
 Med din støtte vil vi hjelpe beslutningstakere over hele Europa til å forstå at frigivelsen av deres kode er den beste løsningen for dem, andre offentlige etater, bedrifter, og allmennheten spesielt.

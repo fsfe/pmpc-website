@@ -17,6 +17,6 @@ Please help us by giving your signature a huge impact and [share this campaign](
 
 You can also [order stickers and informational material](https://fsfe.org/promo#pmpc) from the Free Software Foundation Europe.
 
-Make Free Software in Europe stronger and consider [supporting the FSFE](https://fsfe.org/donate/?pmpc) or one of the other [supporting organisations](../../#organisations).
+Make Free Software in Europe stronger and consider [supporting the FSFE](https://my.fsfe.org/donate?referrer=pmpc) or one of the other [supporting organisations](../../#organisations).
 
 With your support we will help decision makers all over Europe understand that publishing their code under Free and Open Source Software licences is the best solution for them, other administrations, companies, and especially the general public. 

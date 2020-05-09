@@ -17,6 +17,6 @@ Hjælp os venligst med at give din underskift størst mulig gennemslagskraft ved
 
 Du kan også [bestille klistermærker og informationsmateriale](https://fsfe.org/promo#pmpc) fra Free Software Foundation Europe.
 
-Gør bevægelsen for fri software i Europa stærkere ved at overveje at [støtte FSFE](https://fsfe.org/donate/?pmpc) eller en af de [øvrige orgnisationer](../../#organisations) der støtter kampagnen.
+Gør bevægelsen for fri software i Europa stærkere ved at overveje at [støtte FSFE](https://my.fsfe.org/donate?referrer=pmpc) eller en af de [øvrige orgnisationer](../../#organisations) der støtter kampagnen.
 
 Med din støtte vil vi hjælpe beslutningstagere over hele Europa til at forstå, at frigivelsen af deres kode under en licens der er fri og open source software er den bedste løsning for dem selv, andre institutioner, virksomheder og specielt den generelle offentlighed.
