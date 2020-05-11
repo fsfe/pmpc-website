@@ -1281,6 +1281,13 @@
     "url": "https://www.wikimedia.cz"
   },
   {
+    "name": "Wikimedia Sverige",
+    "img": "wikimedia-sverige.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.wikimedia.se/"
+  },
+  {
     "name": "Wilhelm Tux - Kampagne für Freie Software",
     "img": "wilhelmtux.png",
     "orgtype": "regional_ngo",
