@@ -1,0 +1,319 @@
+1
+00:00:00,000 --> 00:00:01,240
+Na tren zamislite
+
+2
+00:00:01,240 --> 00:00:03,900
+da se naša vlada odnosi prema našoj javnoj infrastrukturi,
+
+3
+00:00:03,900 --> 00:00:06,100
+ulicama i javnim zgradama
+
+4
+00:00:06,100 --> 00:00:09,480
+kao što se odnosi prema našoj digitalnoj infrastrukturi:
+
+5
+00:00:09,480 --> 00:00:12,560
+saborski zastupnici bi radili u iznajmljenom prostoru
+
+6
+00:00:12,560 --> 00:00:16,360
+gdje im ne bi bilo dozvoljeno glasati u korist strožih okolišnih zakona
+
+7
+00:00:16,360 --> 00:00:19,240
+jer vlasnik - međunarodna korporacija -
+
+8
+00:00:19,240 --> 00:00:22,580
+nije dozvolio takvu vrstu glasanja u svojim zgradama.
+
+9
+00:00:22,840 --> 00:00:25,240
+Dozvoljena ne bi bila niti prijeko potrebna obnova
+
+10
+00:00:25,240 --> 00:00:27,240
+više od 500 sjedala.
+
+11
+00:00:27,240 --> 00:00:31,820
+Ovo znači da bi neki saborski zastupnici morali stajati na ulici.
+
+12
+00:00:31,820 --> 00:00:33,940
+Nadalje, par ulica dalje
+
+13
+00:00:33,940 --> 00:00:36,960
+nova se teretana već ruši
+
+14
+00:00:36,960 --> 00:00:39,460
+tek šest mjeseci nakon što je sagrađena.
+
+15
+00:00:39,460 --> 00:00:42,440
+Zamijenit će ju identična kopija -
+
+16
+00:00:42,440 --> 00:00:44,020
+uz velik trošak.
+
+17
+00:00:44,020 --> 00:00:45,440
+Jedina razlika:
+
+18
+00:00:45,440 --> 00:00:50,460
+novi izvođač također daje "uličnu košarku" kao dodanu vrijednost.
+
+19
+00:00:50,540 --> 00:00:51,620
+U međuvremenu
+
+20
+00:00:51,620 --> 00:00:54,620
+svake noći kroz sakrivena zakulisna vrata u gradskoj vijećnici
+
+21
+00:00:54,620 --> 00:00:57,920
+bivaju ukradeni dokumenti s osjetljivim informacijama o građanima,
+
+22
+00:00:57,920 --> 00:00:59,920
+od bankovnih podataka
+
+23
+00:00:59,920 --> 00:01:01,920
+do zdravstvenih kartona.
+
+24
+00:01:01,920 --> 00:01:05,060
+Međutim, nitko ne smije ništa poduzeti
+
+25
+00:01:05,060 --> 00:01:08,760
+jer je otkrivanje i zaključavanje zakulisnih vrata
+
+26
+00:01:08,760 --> 00:01:11,840
+prekršaj potpisanog korisničkog ugovora.
+
+27
+00:01:11,840 --> 00:01:14,540
+Koliko se god ovo činilo apsurdnim,
+
+28
+00:01:14,540 --> 00:01:17,120
+kada se radi o našoj digitalnoj infrastrukturi -
+
+29
+00:01:17,120 --> 00:01:19,220
+stvari poput softvera i programa
+
+30
+00:01:19,220 --> 00:01:21,560
+koje naše vlade svakodnevno koriste -
+
+31
+00:01:21,700 --> 00:01:24,660
+ova je usporedba poprilično točna.
+
+32
+00:01:24,660 --> 00:01:26,040
+Tome je tako jer naša
+
+33
+00:01:26,040 --> 00:01:29,820
+uprava uglavnom nabavlja vlasnički softver.
+
+34
+00:01:29,820 --> 00:01:33,420
+Posljedično se mnogo novca troši na licence
+
+35
+00:01:33,420 --> 00:01:35,960
+koje traju ograničeno vrijeme
+
+36
+00:01:35,960 --> 00:01:38,360
+i ograničavaju naša prava.
+
+37
+00:01:38,360 --> 00:01:41,000
+Nije nam dozvoljeno koristiti našu infrastrukturu
+
+38
+00:01:41,000 --> 00:01:43,000
+na razborit način.
+
+39
+00:01:43,000 --> 00:01:46,580
+Zbog toga što je izvorni kôd vlasničkog softvera
+
+40
+00:01:46,580 --> 00:01:49,320
+u pravilu poslovna tajna,
+
+41
+00:01:49,320 --> 00:01:52,640
+traženje sigurnosnih rupa i namjerno postavljenih zakulisnih vrata
+
+42
+00:01:52,640 --> 00:01:55,960
+iznimno je teško i čak protuzakonito.
+
+43
+00:01:55,960 --> 00:01:59,580
+Međutim, naša javna uprava može bolje!
+
+44
+00:01:59,580 --> 00:02:04,540
+Kad bi sav javno financiran softver bio slobodan softver,
+
+45
+00:02:04,540 --> 00:02:07,440
+mogli bismo koristiti i dijeliti našu infrastrukturu
+
+46
+00:02:07,440 --> 00:02:10,140
+za bilo što i koliko god dugo bismo htjeli.
+
+47
+00:02:10,140 --> 00:02:12,140
+Mogli bismo ju nadograditi,
+
+48
+00:02:12,140 --> 00:02:14,140
+popraviti,
+
+49
+00:02:14,140 --> 00:02:15,580
+i preinačiti
+
+50
+00:02:15,580 --> 00:02:18,360
+na način koji odgovara našim potrebama.
+
+51
+00:02:18,360 --> 00:02:21,800
+Zato što "otvoreni kôd" u slobodnom softveru znači
+
+52
+00:02:21,800 --> 00:02:25,080
+da je shematski plan dostupan svima na korištenje,
+
+53
+00:02:25,080 --> 00:02:29,860
+značajno je lakše tražiti i zatvoriti sigurnosne rupe.
+
+54
+00:02:29,860 --> 00:02:34,660
+Ako je nešto praktično i pouzdano napravljeno u digitalnom izdanju,
+
+55
+00:02:34,660 --> 00:02:39,100
+ne samo da možemo reciklirati shematski plan diljem zemlje,
+
+56
+00:02:39,100 --> 00:02:42,960
+već samu stvar možemo uspostaviti bilo gdje,
+
+57
+00:02:42,960 --> 00:02:44,960
+čak i međunarodno!
+
+58
+00:02:44,960 --> 00:02:48,580
+Odličan primjer ove prakse je "FixMyStreet":
+
+59
+00:02:48,580 --> 00:02:50,460
+izvorno razvijen u Velikoj Britaniji
+
+60
+00:02:50,460 --> 00:02:52,420
+kao slobodno-softverska aplikacija za prijavu,
+
+61
+00:02:52,420 --> 00:02:54,420
+pregled i raspravu lokalnih problema
+
+62
+00:02:54,420 --> 00:02:55,940
+kao što su rupe na cesti,
+
+63
+00:02:55,960 --> 00:02:59,080
+sada se ta aplikacija koristi diljem svijeta.
+
+64
+00:02:59,160 --> 00:03:00,700
+Svatko ima koristi
+
+65
+00:03:00,700 --> 00:03:02,960
+jer svi međusobno dijele
+
+66
+00:03:02,960 --> 00:03:04,960
+nove značajke i poboljšanja.
+
+67
+00:03:05,200 --> 00:03:08,480
+Kad bi se sav naš softver ovako razvijao,
+
+68
+00:03:08,480 --> 00:03:12,220
+mogli bismo se prestati boriti s restriktivnim licencama
+
+69
+00:03:12,220 --> 00:03:14,860
+i početi razmišljati gdje i kako
+
+70
+00:03:14,860 --> 00:03:16,860
+nam softver može pomoći.
+
+71
+00:03:16,860 --> 00:03:18,040
+Mogli bismo se koncentrirati
+
+72
+00:03:18,040 --> 00:03:20,920
+na stvaranje boljeg društva za sve.
+
+73
+00:03:20,920 --> 00:03:24,200
+Stoga, ako smatrate da bi sutrašnja infrastruktura
+
+74
+00:03:24,200 --> 00:03:26,460
+trebala biti u našim rukama,
+
+75
+00:03:26,460 --> 00:03:29,680
+pomozite nam dijeljenjem ovog filma
+
+76
+00:03:29,680 --> 00:03:31,460
+i posjetom našoj web-stranici:
+
+77
+00:03:31,460 --> 00:03:33,460
+www.publiccode.eu
+
+78
+00:03:33,800 --> 00:03:36,460
+Vrijeme je za postavljanje zahtjeva:
+
+79
+00:03:36,460 --> 00:03:38,180
+Javan novac?
+
+80
+00:03:38,180 --> 00:03:39,940
+Javan kôd!

@@ -1,0 +1,179 @@
+# General strings
+[description]
+other= "Javan novac, javan kôd (eng. Public money, public code) - kampanja za objavu javno financiranog softvera kao slobodnog softvera"
+[fsdefinition]
+other= "Slobodan softver svima daje pravo korištenja, proučavanja, dijeljenja i unapređenja softvera. Ovo pravo podržava druge temeljne slobode kao što su sloboda govora i medija te privatnost."
+[javascript_warning]
+other = "<b>Upozorenje:</b> Neke interaktivne značajke neće raditi ako je JavaScript onemogućen."
+
+# Navigation
+[navigation_links_start]
+other= "Početna"
+[navigation_links_about]
+other= "O kampanji"
+[navigation_links_arguments]
+other= "Razlozi"
+[navigation_links_action]
+other= "Uključite se"
+[navigation_links_resources]
+other= "Materijali"
+[navigation_links_spread]
+other= "Proširite glas"
+
+# Start banner
+[start_subtitle1]
+other= "Zašto softver napravljen novcem poreznih obveznika nije objavljen kao slobodan softver?"
+[start_subtitle2]
+other= "Želimo zakonski okvir koji zahtijeva da javno financiran softver razvijen za javni sektor bude javno dostupan pod licencom [slobodnog softvera](https://fsfe.org/freesoftware/ 'Slobodan softver svima daje pravo korištenja, proučavanja, dijeljenja i unapređenja softvera. Ovo pravo podržava druge temeljne slobode kao što su sloboda govora i medija te privatnost.'). Ako se radi o javnom novcu, tada i kôd treba biti javan."
+[start_subtitle3]
+other= "**Kôd koji građani plate treba biti dostupan građanima!**"
+
+# About section
+[about_headline]
+other= "Zvuči komplicirano? Zapravo je vrlo jednostavno!"
+[about_buttonText]
+other= "Više prednosti"
+
+# Arguments section
+[arguments_headline]
+other= "Razlozi za javni kôd"
+[arguments_followup]
+other= "Smatrate li da bi slobodan softver trebao biti pretpostavljena opcija za javno financiran softver? **Uvjerimo Vaše političke predstavnike!**"
+[arguments_buttonText]
+other= "Potpišite otvoreno pismo"
+[arguments_list_title_1]
+other= "Porezne uštede"
+[arguments_list_description_1]
+other= "Slične aplikacije se ne trebaju programirati svaki puta iznova."
+[arguments_list_title_2]
+other= "Suradnja"
+[arguments_list_description_2]
+other= "Veliki projekti mogu dijeliti stručnost i troškove."
+[arguments_list_title_3]
+other= "Služenje javnosti"
+[arguments_list_description_3]
+other= "Aplikacije koje je platila javnost trebale bi biti dostupne svima."
+[arguments_list_title_4]
+other= "Poticanje kreativnosti"
+[arguments_list_description_4]
+other= "Uz transparentne procese drugi ne trebaju otkrivati toplu vodu."
+
+# Action section
+[action_headline]
+other= "Zahtijevajte od svojih predstavnika!"
+[action_intro]
+other= "U našem [**otvorenom pismu**](openletter/) zahtijevamo:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Implementirajte zakonski okvir koji zahtijeva da javno financiran softver razvijen za javni sektor bude javno dostupan pod licencom [slobodnog softvera](https://fsfe.org/freesoftware/ 'Slobodan softver svima daje pravo korištenja, proučavanja, dijeljenja i unapređenja softvera. Ovo pravo podržava druge temeljne slobode kao što su sloboda govora i medija te privatnost.').”"
+[action_description]
+other= "Do sada su već **$ORGS** organizacija i **$INDS** pojedinaca podržali ovaj poziv na djelovanje svojim potpisom našeg [otvorenog pisma](openletter/). I Vi nam svojim potpisom možete pomoći ojačati utjecaj! Predat ćemo potpise predstavnicima diljem Europe koji raspravljaju o slobodi softvera u javnoj upravi."
+[action_box_text]
+other= "Već **$INDS potpisa** – potpišite otvoreno pismo!"
+[action_form_name]
+other= "Ime i prezime (potrebno)"
+[action_form_email]
+other= "E-pošta (potrebno)"
+[action_form_country]
+other= "Vaša država"
+[action_form_zip]
+other= "Poštanski broj"
+[action_form_comment]
+other= "Vaš komentar (najviše 140 znakova)"
+[action_form_permPriv]
+other= "Pročitao/la sam i prihvaćam [izjavu o privatnosti](privacy/)"
+[action_form_permNews]
+other= "Želim da me informirate o daljnjem tijeku kampanje"
+[action_form_permPub]
+other= "Želim da moj potpis bude dostupan na [listi potpisnika](openletter/all-signatures)"
+[action_form_submit]
+other= "Potpisujem!"
+
+# Organisations section
+[organisations_headline]
+other= "Organizacije potpisnice"
+[organisations_text]
+other= "Sljedeće organizacije podržavaju naše [otvoreno pismo](openletter/). Ako je i Vaša organizacija zainteresirana za pridruživanje pozivu za javni kôd, molimo Vas da nam se [obratite](mailto:contact@fsfe.org)."
+[organisations_administration]
+other = "Uprave"
+[organisations_all]
+other = "Sve"
+[organisations_corporate]
+other = "Tvrtke"
+[organisations_international_ngo]
+other = "Međunarodne nevladine organizacije"
+[organisations_national_ngo]
+other = "Nevladine organizacije na razini države"
+[organisations_regional_ngo]
+other = "Regionalne nevladine organizacije"
+
+# Resources section
+[resources_list_title_1]
+other= "Najnovije vijesti"
+[resources_list_description_1]
+other= "Novosti o kampanji i javnom kôdu u Europi"
+[resources_list_title_2]
+other= "Stručna brošura"
+[resources_list_description_2]
+other= "Preuzmite najnoviju brošuru s objašnjenjima prednosti slobodnog softvera za javnu upravu, napisanu od strane stručnjaka u području"
+[resources_list_title_3]
+other= "Tisak i mediji"
+[resources_list_description_3]
+other= "Pronađite logotipove, sažete informacije i kontakte za svoje članke"
+
+# Spread the word section
+[spread_headline]
+other= "Proširite glas!"
+[spread_promoText]
+other= "Naručite najnovije naljepnice i letke FSFE-a"
+[spread_promoButtonText]
+other= "Nabavite promotivne materijale"
+[spread_shareText]
+other= "Recite prijateljima i pratiteljima o javnom kôdu:"
+[spread_defaultSocialText]
+other= "Ako se radi o javnom novcu, tada i kôd treba biti javan. Podržavam ovaj poziv za više javnog kôda pod licencom slobodnog softvera:"
+
+# Legal Section
+[legal_by]
+other= "Kampanja organizacije Free Software Foundation Europe"
+[legal_imprint]
+other= "Pravni detalji"
+[legal_privacy]
+other= "Privatnost"
+[legal_transparency]
+other= "Transparentnost"
+[legal_contribute1]
+other= "Kôd za ovu web stranicu je slobodan softver."
+[legal_contribute2]
+other= "Doprinosi su dobrodošli!"
+[translation_status]
+other="Stanje prijevoda"
+[legal_license]
+other= "Ovo djelo je licencirano pod [licencom Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Pročitajte ovu stranicu na drugom jeziku"
+
+# 404 Error Page
+[error_headline]
+other= "Greška 404 - stranica nije pronađena"
+[error_description]
+other= "Stranica koju tražite ne postoji."
+[error_button]
+other= "Povratak na početnu stranicu"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Pojedinci potpisnici otvorenog pisma"
+[subpage_signatures_description]
+other= "Ispod se nalaze potpisi potpisnika koji su pristali da njihova imena budu javno dostupna. Budite sljedeći potpisnik!"
+[subpage_signatures_allSignatures]
+other= "Prikaži [sve javne potpise](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Ime i prezime"
+[subpage_signatures_tableCountry]
+other= "Država"
+[subpage_signatures_tableComment]
+other= "Komentar"

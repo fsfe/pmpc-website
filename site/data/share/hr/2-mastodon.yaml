@@ -1,0 +1,10 @@
+titleBefore: Podijeli na mreži
+titleAfter: 
+# This "customText" shouldn't have more than 115 characters!
+customText: "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe@mastodon.social za javan kôd (#publiccode):"
+
+# Do not translate below here
+id: mastodon
+name: Mastodon
+userinput: true
+
