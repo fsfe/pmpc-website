@@ -10,9 +10,9 @@ Javno financiran softver treba biti [slobodan softver][fs]. Iako postoji više v
 
 {{< fsdefinition type="box">}}
 
-Vi možete pomoći! Potpišite otvoreno pismo kako bi naša poruka dobila na važnosti. Ukupno **{{< count type="signatures" >}} osoba** i **{{< count type="organisations" >}} organizacija** su već potpisali pismo. Predat ćemo pismo i potpise Vašim predstavnicima i pobrinuti se da shvate poruku: Javan novac? Javan kôd!
+Vi možete pomoći! Potpišite otvoreno pismo kako bi naša poruka dobila na važnosti. Ukupno **{{< count type="signatures" >}} osoba** i **{{< count type="organisations" >}} organizacija** su već potpisali pismo. Predat ćemo pismo i potpise Vašim predstavnicima i pobrinuti se da shvate poruku: Javni novac? Javni kôd!
 
-> ## Javan novac? Javan kôd!
+> ## Javni novac? Javni kôd!
 > 
 > Digitalne usluge koje nudi i koristi naša javna uprava su kritična infrastruktura demokratskih nacija 21. stoljeća. Kako bi se uspostavili vjerodostojni sustavi, javna tijela moraju osigurati potpunu kontrolu nad softverom i računalnim sustavima koji čine jezgru naše državne digitalne infrastrukture. Međutim, trenutno je to rijedak slučaj zbog ograničavajućih softverskih licenci koje:
 > 

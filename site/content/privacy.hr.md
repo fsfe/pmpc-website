@@ -20,12 +20,12 @@ potpisnika](/openletter/all-signatures). Također ćemo vaše ime i
 prezime te državu obznaniti primateljima otvorenog pisma (članovi
 Europskog parlamenta i članovi državnih ili pokrajinskih
 parlamenata). Nećemo obznaniti Vašu adresu e-pošte. Ove informacije
-pohranjujemo u bazi podataka u trajanju kampanje Javan novac - javan
+pohranjujemo u bazi podataka u trajanju kampanje Javni novac - javni
 kôd (eng. Public Money - Public Code) i brišemo ih nakon kampanje.
 
 Ako ste pristali biti obaviješteni o kampanji, koristit ćemo Vašu
-adresu e-pošte kako bismo Vam poslali informacije o kampanji tokom i
-tik nakon kampanje.
+adresu e-pošte kako bismo Vam poslali informacije o kampanji tijekom i
+odmah po završetku kampanje.
 
 ## Tko ima pristup pohranjenim podacima
 
