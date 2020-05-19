@@ -1050,6 +1050,13 @@
     "url": "https://prosa.dk/"
   },
   {
+    "name": "Python España",
+    "img": "pythones.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.es.python.org/"
+  },
+  {
     "name": "Public Software CIC",
     "img": "public-software-cic.png",
     "orgtype": "international_ngo",
