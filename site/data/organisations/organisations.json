@@ -1036,6 +1036,13 @@
     "url": "https://plone.org/"
   },
   {
+    "name": "P.O.I.N.T. Association",
+    "img": "point.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.udruga-point.hr/"
+  },
+  {
     "name": "Pordenone Linux User Group",
     "img": "pnlug.png",
     "orgtype": "regional_ngo",
