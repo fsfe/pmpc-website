@@ -1,5 +1,6 @@
 <form action="https://forms.fsfe.org/email" method="post">
   <input name="appid" type="hidden" value="pmpc-sign" />
+  <input name="lang" type="hidden" value="{{ .Lang }}" />
   <label class="sign-input form-na">
     <input name="name" placeholder="{{ i18n "action_form_name" }}" type="text" required />
   </label>
