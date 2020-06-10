@@ -350,6 +350,13 @@
     "url": "https://efn.no/"
   },
   {
+    "name": "Einfach Einsteigen e.V.",
+    "img": "einfach-einsteigen.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://einsteigen.jetzt/"
+  },  
+  {
     "name": "Eigenbaukombinat Halle e.V.",
     "img": "eigenbaukombinat.png",
     "orgtype": "regional_ngo",
