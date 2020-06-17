@@ -4,7 +4,7 @@ titleAfter:
 customText: "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe@mastodon.social za javni kôd (#publiccode):"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true
 

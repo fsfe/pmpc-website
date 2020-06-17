@@ -4,6 +4,6 @@ titleAfter:
 customText: "Offentliga pengar, offentlig kod! Jag stöder @fsfe@mastodon.social's vädjan för mer #publiccode:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true

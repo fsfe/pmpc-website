@@ -4,6 +4,6 @@ titleAfter:
 customText: "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το @fsfe@mastodon.social και το #publiccode:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true

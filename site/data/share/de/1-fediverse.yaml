@@ -4,7 +4,7 @@ titleAfter: teilen
 customText: "Öffentliches Geld muss öffentlichen Code bedeuten! Ich unterstütze den Aufruf der @fsfe@mastodon.social für mehr #publiccode:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true
 

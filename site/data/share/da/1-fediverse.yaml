@@ -4,7 +4,7 @@ titleAfter:
 customText: "Hvis det er offentlige penge, bør det også være offentlig kode! Støt fsfe@mastodon.social for mere #offentligkode:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true
 

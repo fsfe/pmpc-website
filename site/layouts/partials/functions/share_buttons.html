@@ -23,7 +23,7 @@
         </span>
     {{- end -}}
     {{- if ne .userinput true -}}
-      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitle{{$.type | safeJS}}('{{ $sharetext }}')">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</button>
+      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitle_{{$.type | safeJS}}('{{ $sharetext }}')">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</button>
     {{- end }}
   {{ end }}
 </form>

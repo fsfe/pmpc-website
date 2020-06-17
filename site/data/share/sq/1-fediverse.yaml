@@ -4,6 +4,6 @@ titleAfter:
 customText: "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes thirrjen e @fsfe@mastodon.social për më tepër #parapublikekodpublik:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true

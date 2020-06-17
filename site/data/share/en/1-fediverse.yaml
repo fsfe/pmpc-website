@@ -4,7 +4,7 @@ titleAfter:
 customText: "If it is public money, it should be public code as well! I support @fsfe@mastodon.social's call for more #publiccode:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true
 

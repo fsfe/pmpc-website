@@ -4,6 +4,6 @@ titleAfter:
 customText: "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe@mastodon.social'nun #kamusalkod #publiccode çağrısını destekliyorum:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true

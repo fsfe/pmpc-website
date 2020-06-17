@@ -4,7 +4,7 @@ titleAfter: oldalon
 customText: "Ha közpénzből van, legyen Szabad Szoftver! Támogatom @fsfe@mastodon.social #publiccode kampányát:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true
 

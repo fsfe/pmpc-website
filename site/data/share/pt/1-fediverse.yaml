@@ -3,6 +3,6 @@ titleAfter:
 # This "customText" shouldn't have more than 115 characters!
 customText: "Se se trata de dinheiro público, deve ser código público também! Eu apoio mais #publiccode da @fsfe@mastodon.social:"
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true

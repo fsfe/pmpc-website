@@ -4,7 +4,7 @@ titleAfter:
 customText: "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe@mastodon.social поддержать #publiccode:"
 
 # Do not translate below here
-id: mastodon
-name: Mastodon
+id: fediverse
+name: Fediverse
 userinput: true
 
