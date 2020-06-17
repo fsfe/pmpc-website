@@ -6,17 +6,24 @@
   <input class="n" name="website" placeholder="Please do not put anything here" />
   
   {{ range .data }}
-    {{ if eq .userinput true }}
+    {{- $sharetext := "" -}}
+    {{- if isset . "customText" -}}
+      {{- $sharetext = .customText -}}
+    {{- else -}}
+      {{- $sharetext = $.defaultSocialText -}}
+    {{- end -}}
+
+    {{ if eq .userinput true -}}
       <label class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" for="{{ .id }}-share-{{$.type}}">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</label>
         <input name="popup" id="{{ .id }}-share-{{$.type}}" type="radio" />
         <span class="popup {{ .id }}">
           <label for="no-share-popup-{{$.type}}"></label>
           <input name="{{ .id }}pod" value="" placeholder="{{ .name }} URL ({{ .id }}.tld)" type="text" />
-          <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitle_{{$.type | safeJS }}('{{if isset . "customText"}}{{.customText}}{{else}}{{$.defaultSocialText}}{{end}}')">OK</button>
+          <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitle_{{$.type | safeJS }}('{{ $sharetext }}')">OK</button>
         </span>
-    {{ end }}
-    {{ if ne .userinput true }}
-      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitle{{$.type | safeJS}}('{{if isset . "customText"}}{{.customText}}{{else}}{{$.defaultSocialText}}{{end}}')">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</button>
-    {{ end }}
+    {{- end -}}
+    {{- if ne .userinput true -}}
+      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitle{{$.type | safeJS}}('{{ $sharetext }}')">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</button>
+    {{- end }}
   {{ end }}
 </form>
