@@ -777,6 +777,13 @@
     "url": "http://libreart.info/"
   },
   {
+    "name": "Linux Magazine",
+    "img": "linux-magazine.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.linux-magazine.com/"
+  },
+  {
     "name": "Linux User Group Bozen-Bolzano-Bulsan",
     "img": "lugbz.png",
     "orgtype": "regional_ngo",
