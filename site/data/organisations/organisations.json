@@ -7,11 +7,18 @@
     "url": "http://adullact.org/"
   },
   {
-    "name": "Ajuntament de Barcelona",
+    "name": "City Council of Barcelona",
     "img": "bcn.png",
     "orgtype": "administration",
     "priority": "1",
     "url": "http://www.bcn.cat/"
+  },
+  {
+    "name": "City Council of Benigàmin",
+    "img": "beniganim.png",
+    "orgtype": "administration",
+    "priority": "1",
+    "url": "http://www.beniganim.es/"
   },
   {
     "name": "Association Lyonnaise pour le Développement de l'Informatique Libre",
@@ -721,7 +728,7 @@
     "url": "http://www.jef-rlp.de"
   },
   {
-    "name": "Junta General del Principado de Asturias",
+    "name": "Parliament of Asturias",
     "img": "jgpa.png",
     "orgtype": "administration",
     "priority": "1",
