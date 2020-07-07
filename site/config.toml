@@ -43,7 +43,7 @@ timeout = "30s"
 [[params.resources.list]]
   no    = 2
   img   = "/img/resources/brochure.jpg"
-  link  = "https://fsfe.org/campaigns/publiccode/brochure"
+  link  = "https://fsfe.org/activities/publiccode/brochure"
   target  = "_blank"
 [[params.resources.list]]
   no    = 3
