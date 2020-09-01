@@ -22,9 +22,9 @@ other= "Spargi la voce"
 
 # Start banner
 [start_subtitle1]
-other= "Perché il software creato usando i soldi delle tasse riscosse dai cittadini non è rilasciato come Software Libero?"
+other= "Perché il software creato usando i soldi dei contribuenti non è rilasciato come Software Libero?"
 [start_subtitle2]
-other= "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.'). Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code)."
+other= "Vogliamo che la legge richieda che il software finanziato pubblicamente e sviluppato per il settore pubblico sia reso pubblicamente disponibile sotto una licenza [Software Libero/Open Source](https://fsfe.org/freesoftware/ 'Il Software Libero dà a chiunque il diritto di usare, studiare, condividere e migliorare il software. Questo diritto aiuta a supportare altri diritti fondamentali come la libertà di parola, di stampa e la tutela della privacy.'). Se è denaro pubblico (public money), allora dovrebbe essere pubblico anche il codice sorgente (public code)."
 [start_subtitle3]
 other= "**Il codice pagato dalle persone dovrebbe essere disponibile alle persone!**"
 
@@ -38,7 +38,7 @@ other= "Altri vantaggi"
 [arguments_headline]
 other= "Le motivazioni di Public Code"
 [arguments_followup]
-other= "Credi che il Software Libero dovrebbe essere l'opzione predefinita per il software finanziato pubblicamente? **Convinci i tuoi rappresentanti politici!**"
+other= "Credi che il Software Libero debba essere l'opzione predefinita per il software finanziato pubblicamente? **Convinci i tuoi rappresentanti politici!**"
 [arguments_buttonText]
 other= "Firma la Lettera Aperta"
 [arguments_list_title_1]
@@ -70,7 +70,7 @@ other= "“Implementare leggi che richiedano che il software finanziato pubblica
 [action_description]
 other= "**$ORGS** organizzazioni e **$INDS** persone supportano già questa chiamata ad agire attraverso la firma della nostra [lettera aperta](openletter/). Puoi aiutarci ad avere un maggiore impatto firmandola anche tu! Consegneremo tutte le firme ai rappresentanti di tutta Europa che stanno dibattendo sulla libertà del software nelle amministrazioni pubbliche."
 [action_box_text]
-other= "Già **$INDS SIGNATURES** – firma la lettera aperta adesso!"
+other= "Già **$INDS FIRME** – firma la lettera aperta adesso!"
 [action_form_name]
 other= "Nome (obbligatorio)"
 [action_form_email]
@@ -114,7 +114,7 @@ other= "Ultime notizie"
 [resources_list_description_1]
 other= "Aggiornamenti sull'andamento della campagna in Europa"
 [resources_list_title_2]
-other= "Expert Brochure"
+other= "Brochure degli esperti"
 [resources_list_description_2]
 other= "Brochure approfondita sull'uso del Software Libero nelle Pubbliche Amministrazioni, realizzata da esperti del settore"
 [resources_list_title_3]
@@ -150,7 +150,7 @@ other= "Se vuoi contribuire sei il benvenuto!"
 [translation_status]
 other="Stato della traduzione"
 [legal_license]
-other= "Questo lavoro è licenziato sotto la [licenza Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.it)."
+other= "Questo lavoro è pubblicato sotto la [licenza Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.it)."
 
 # Language selection
 [language_description]
