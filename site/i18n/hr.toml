@@ -66,7 +66,7 @@ other= "U našem [**otvorenom pismu**](openletter/) zahtijevamo:"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Implementirajte zakonski okvir koji zahtijeva da javno financiran softver razvijen za javni sektor bude javno dostupan pod licencom [slobodnog softvera](https://fsfe.org/freesoftware/ 'Slobodan softver svima daje pravo korištenja, proučavanja, dijeljenja i unapređenja softvera. Ovo pravo podržava druge temeljne slobode kao što su sloboda govora i medija te privatnost.').”"
+other= "“Implementirajte zakonski okvir koji zahtijeva da javno financiran softver razvijen za javni sektor bude javno dostupan pod licencom [slobodnog softvera](https://fsfe.org/freesoftware/ \"Slobodan softver svima daje pravo korištenja, proučavanja, dijeljenja i unapređenja softvera. Ovo pravo podržava druge temeljne slobode kao što su sloboda govora i medija te privatnost.\").”"
 [action_description]
 other= "Do sada su već **$ORGS** organizacija i **$INDS** pojedinaca podržali ovaj poziv na djelovanje svojim potpisom našeg [otvorenog pisma](openletter/). I Vi nam svojim potpisom možete pomoći ojačati utjecaj! Predat ćemo potpise predstavnicima diljem Europe koji raspravljaju o slobodi softvera u javnoj upravi."
 [action_box_text]

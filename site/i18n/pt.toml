@@ -62,7 +62,7 @@ other= "Na nossa [**Carta Aberta**](openletter/) exigimos:"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Implementação de legislação que requeira que software financiado publicamente para o setor público seja feito sob uma licença de [Software Livre](https://fsfe.org/about/mission.pt.html 'Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melhorar o software. Estes direitos apoiam outras liberdades fundamentais como a liberdade de expressão, liberdade de imprensa e privacidade.').”"
+other= "“Implementação de legislação que requeira que software financiado publicamente para o setor público seja feito sob uma licença de [Software Livre](https://fsfe.org/freesoftware/ \"Software Livre dá a todos o direito de utilizar, inspecionar, partilhar e melhorar o software. Estes direitos apoiam outras liberdades fundamentais como a liberdade de expressão, liberdade de imprensa e privacidade.\").”"
 [action_description]
 other= "**$ORGS** Organizações e **$INDS** indivíduos já apoiam esta campanha ao assinarem a [Carta Aberta](openletter/). Ajude-nos a fazer a diferênça ao assiná-la também! Entregaremos as assinaturas a representantes em toda a Europa que estão a debater o assunto de Software Livre na adminstração pública."
 [action_box_text]

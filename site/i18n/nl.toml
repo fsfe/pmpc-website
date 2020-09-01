@@ -60,7 +60,7 @@ other= "Vertel uw vertegenwoordigers!"
 [action_intro]
 other= "In onze [**open brief**](openletter/) eisen we:"
 [action_demand]
-other= "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een Vrije en Open Bron Softwarelicentie.”"
+other= "“Creëer wetgeving die vereist dat publiek gefinancierde software ontwikkeld voor de publieke sector openbaar beschikbaar gesteld moet worden onder een [Vrije en Open Bron Softwarelicentie](https://fsfe.org/freesoftware/ \"Vrije Software geeft iedereen het recht om software te gebruiken, te begrijpen, aan te passen en te delen. Deze rechten helpen het ondersteunen van andere fundamentele vrijheden zoals de vrijheid van meningsuiting, pers en privacy.\").”"
 [action_description]
 other= "**$ORGS** organisaties en **$INDS** individuen hebben onze oproep al gesteund door de [Open Brief](openletter/) te ondertekenen.  Help ons om een verschil te maken door het ook te ondertekenen!  Wij zullen alle handtekeningen overhandigen aan vertegenwoordigers in heel Europa die debatteren over softwarevrijheid in overheden."
 [action_box_text]
