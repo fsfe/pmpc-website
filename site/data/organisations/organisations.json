@@ -203,6 +203,13 @@
     "url": "http://www.cms-garden.org/en"
   },
   {
+    "name": "Codeberg e.V.",
+    "img": "codeberg.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://codeberg.org/"
+  },
+  {
     "name": "Colectic",
     "img": "colectic.png",
     "orgtype": "national_ngo",
