@@ -406,6 +406,13 @@
     "url": "https://ellak.org.cy/"
   },
   {
+    "name": "Embassy of the Republic of Užupis to Munich",
+    "img": "uzupis.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "http://www.uzupis.de/"
+  },
+  {
     "name": "ePaństwo Foundation",
     "img": "epanstwo.png",
     "orgtype": "national_ngo",
