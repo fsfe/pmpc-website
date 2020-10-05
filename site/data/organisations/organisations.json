@@ -203,6 +203,13 @@
     "url": "http://www.cms-garden.org/en"
   },
   {
+    "name": "CNLL - Le Conseil National du Logiciel Libre",
+    "img": "cnll.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://cnll.fr/"
+  },
+  {
     "name": "Codeberg e.V.",
     "img": "codeberg.png",
     "orgtype": "international_ngo",
@@ -719,6 +726,13 @@
     "orgtype": "national_ngo",
     "priority": "0",
     "url": "https://www.ils.org/"
+  },
+  {
+    "name": "JobTech Development",
+    "img": "jobtech.png",
+    "orgtype": "administration",
+    "priority": "1",
+    "url": "https://www.jobtechdev.se/"
   },
   {
     "name": "Joomla",
