@@ -1378,4 +1378,11 @@
     "priority": "0",
     "url": "https://xnet-x.net/"
   }
+ {
+    "name": "Zentrum für Kunst und Medien",
+    "img": "ZKM.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://zkm.de/"
+  }
 ]
