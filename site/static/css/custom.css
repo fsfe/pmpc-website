@@ -150,9 +150,6 @@ blockquote p {
   -webkit-transition: z-index 0s 10000s;
   cursor: pointer;
 }
-.expand i {
-  transform: rotate(-35deg) scaleY(-1) ;
-}
 .expand:focus {
   z-index: 0;
   transition: z-index 0s;
