@@ -973,6 +973,13 @@
     "url": "https://www.openrightsgroup.org/"
   },
   {
+    "name": "Open Nederland",
+    "img": "OpenNL_logo.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.opennederland.nl"
+  },
+  {
     "name": "Open Source Business Alliance",
     "img": "osba.png",
     "orgtype": "national_ngo",
