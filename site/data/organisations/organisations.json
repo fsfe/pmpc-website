@@ -1239,13 +1239,6 @@
     "url": "http://www.soit.sk/"
   },
   {
-	"name": "Stichting Code For NL",
-	"img": "CfNL.png",
-	"orgtype": "national_ngo",
-	"priority": "0",
-	"url": "https://codefor.nl"
-  },
-  {
     "name": "Stiftung Datenschutz",
     "img": "stiftung-datenschutz.png",
     "orgtype": "national_ngo",
