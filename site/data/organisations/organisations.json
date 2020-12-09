@@ -138,13 +138,20 @@
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "https://bcnfs.org/"
-  },
+  }, 
   {
     "name": "Bergamo Linux Users Group",
     "img": "bglug.png",
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "https://bglug.it/"
+  },
+  {
+    "name": "Bits of Freedom",
+    "img": "bits-of-freedom-logo.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.bitsoffreedom.nl"
   },
   {
     "name": "Bündnis Freie Bildung",
@@ -1237,6 +1244,13 @@
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "http://www.soit.sk/"
+  },
+  {
+    "name": "Stichting Code For NL",
+    "img": "CfNL.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://codefor.nl"
   },
   {
     "name": "Stiftung Datenschutz",
