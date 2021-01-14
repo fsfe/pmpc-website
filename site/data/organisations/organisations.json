@@ -1260,6 +1260,13 @@
     "url": "https://www.stiftungdatenschutz.org"
   },
   {
+    "name": "Stowarzyszenie Klucznicy",
+    "img": "StowarzyszenieKlucznicy.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://klucznicy.org.pl/"
+  },
+  {
     "name": "Stratum 0 - Hackerspace Braunschweig",
     "img": "stratum0.png",
     "orgtype": "regional_ngo",
