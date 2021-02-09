@@ -1,5 +1,12 @@
 [
   {
+    "name": "Aalto University Student Union",
+    "img": "ayy.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://ayy.fi"
+  },
+  {
     "name": "ADULLACT",
     "img": "adullact.png",
     "orgtype": "national_ngo",
