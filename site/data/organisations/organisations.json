@@ -231,6 +231,13 @@
     "url": "https://codeberg.org/"
   },
   {
+    "name": "Code for Romania",
+    "img": "code4romania.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://code4.ro/en"
+  },
+  {
     "name": "Colectic",
     "img": "colectic.png",
     "orgtype": "national_ngo",
