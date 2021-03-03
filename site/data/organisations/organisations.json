@@ -1386,6 +1386,13 @@
     "url": "https://www.wikimedia.cz"
   },
   {
+    "name": "Wikimedia Polska",
+    "img": "wikimediapol.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://wikimedia.pl/"
+  },
+  {
     "name": "Wikimedia Sverige",
     "img": "wikimedia-sverige.png",
     "orgtype": "national_ngo",
