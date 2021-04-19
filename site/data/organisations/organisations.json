@@ -896,6 +896,13 @@
     "url": "https://luki.org/"
   },
   {
+    "name": "Maemo Leste",
+    "img": "maemo-leste-logo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://maemo-leste.github.io"
+  },
+  {
     "name": "Mageia",
     "img": "mageia.png",
     "orgtype": "international_ngo",
