@@ -1,9 +1,5 @@
-FROM php:7-apache
+FROM bitnami/apache:2.4
 
-COPY site/public/ /var/www/html
+COPY site/public/ /app/
 
-COPY 000-default.conf /etc/apache2/sites-enabled/
-
-RUN a2enmod rewrite
-
-CMD apache2-foreground
+COPY publiccode.eu.conf /vhosts/

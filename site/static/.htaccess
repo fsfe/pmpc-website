@@ -1,6 +1,9 @@
 RewriteEngine On
 RewriteBase /
 
+# redirect wrong language code we used before
+RewriteRule ^zh_tw/?(.*)$ /zh-tw/$1 [L,R=301]
+
 # redirect all requests to non-existing translations to EN
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
