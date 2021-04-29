@@ -13,6 +13,7 @@ services:
         max-file: "5"
     environment:
       - VIRTUAL_HOST=publiccode.eu,www.publiccode.eu
+      - VIRTUAL_PORT=8080
       - LETSENCRYPT_HOST=publiccode.eu,www.publiccode.eu
       - LETSENCRYPT_EMAIL=contact@fsfe.org
 
