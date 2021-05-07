@@ -1,68 +1,68 @@
 # General strings
 [description]
-other= "Public Money, Public Code - A campaign for releasing publicly financed software as Free Software"
+other= "Public Money, Public Code - 公的資金で開発されたソフトウェアをフリーソフトウェアとして公開するキャンペーン"
 [fsdefinition]
-other= "Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy."
+other= "フリーソフトウェアは、すべての人にソフトウェアを使用、研究、共有、改良する権利を与えます。この権利は、言論、報道、プライバシーの自由など、他の基本的な自由を支えるものです。"
 [javascript_warning]
-other = "<b>Warning:</b> Some interactive features will not work with JavaScript disabled."
+other = "<b>警告:</b> JavaScriptを無効にすると、一部のインタラクティブ機能が動作しません。"
 
 # Navigation
 [navigation_links_start]
-other= "Start"
+other= "スタート"
 [navigation_links_about]
-other= "About"
+other= "キャンペーンについて"
 [navigation_links_arguments]
-other= "Reasons"
+other= "理由"
 [navigation_links_action]
-other= "Take Action"
+other= "行動する"
 [navigation_links_resources]
-other= "Resources"
+other= "資料"
 [navigation_links_spread]
-other= "Spread the Word"
+other= "世界に広める"
 
 # Start banner
 [start_subtitle1]
-other= "Why is software created using taxpayers' money not released as Free Software?"
+other= "税金で作られたソフトがフリーソフトとして公開されないのはなぜ？"
 [start_subtitle2]
-other= "We want legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/ \"Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.\") licence. If it is public money, it should be public code as well."
+other= "公共機関のために開発された公的資金によるソフトウェアは、「フリー・オープンソースソフトウェア」(https://fsfe.org/freesoftware/)の下で一般に公開されることを義務付ける法律を制定してほしい。この権利は、言論の自由、報道の自由、プライバシ ーの自由といった他の基本的な自由を支えるものです。公的資金で作られたものは、パブリックなコードであるべきです。"
 [start_subtitle3]
-other= "**Code paid by the people should be available to the people!**"
+other= "**人々の税金によって作られたコードは、人々が利用できるようにしよう！**"
 
 # About section
 [about_headline]
-other= "Sounds complicated? It's not. It's super easy!"
+other= "難しいことに感じますか？そんなことはありません。簡単なことです。"
 [about_buttonText]
-other= "More advantages"
+other= "もっと詳しく知る"
 
 # Arguments section
 [arguments_headline]
-other= "Reasons for Public Code"
+other= "Public Code を推進すべき理由"
 [arguments_followup]
-other= "Do you believe that Free Software should be the default option for publicly financed software? **Let's convince your political representatives!**"
+other= "あなたは、公的資金で提供されるソフトウェアには、フリーソフトウェアがデフォルトの選択肢であるべきだと思いますか？**あなたの政治的代表者に伝えましょう！**。"
 [arguments_buttonText]
-other= "Sign the Open Letter"
+other= "オープンレターに署名しよう"
 [arguments_list_title_1]
-other= "Tax savings"
+other= "税金の有効活用"
 [arguments_list_description_1]
-other= "Similar applications don't have to be programmed from scratch every time."
+other= "似たようなアプリケーションを毎回ゼロからプログラムする必要はありません。"
 [arguments_list_title_2]
-other= "Collaboration"
+other= "協調"
 [arguments_list_description_2]
-other= "Major projects can share expertise and costs."
+other= "大規模プロジェクトでは、ノウハウやコストを共有できます。"
 [arguments_list_title_3]
-other= "Serving the public"
+other= "公共の役にたつ"
 [arguments_list_description_3]
-other= "Applications paid by the public should be available for everyone."
+other= "公共機関によるアプリケーションは、すべての人に開かれているべきです。"
 [arguments_list_title_4]
-other= "Fostering innovation"
+other= "イノベーションの促進"
 [arguments_list_description_4]
-other= "With transparent processes, others don't have to reinvent the wheel."
+other= "透明性の高いプロセスは、車輪の再発明を防ぐことができます。"
 
 # Action section
 [action_headline]
-other= "Tell Your Representatives!"
+other= "あなたの代表に伝えよう！"
 [action_intro]
-other= "In our [**open letter**](openletter/) we demand:"
+other= "[**オープンレター**](openletter/) に要望を記載しよう"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
