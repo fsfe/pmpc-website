@@ -24,13 +24,13 @@ other= "世界に広める"
 [start_subtitle1]
 other= "税金で作られたソフトがフリーソフトとして公開されないのはなぜ？"
 [start_subtitle2]
-other= "公共機関のために開発された公的資金によるソフトウェアは、「フリー・オープンソースソフトウェア」(https://fsfe.org/freesoftware/)の下で一般に公開されることを義務付ける法律を制定してほしい。この権利は、言論の自由、報道の自由、プライバシ ーの自由といった他の基本的な自由を支えるものです。公的資金で作られたものは、パブリックなコードであるべきです。"
+other= "公共機関のために開発された公的資金によるソフトウェアは、[フリー・オープンソースソフトウェア](https://fsfe.org/freesoftware/ \"フリーソフトウェアはすべての人に利用、研究、配布、ソフトウェアの改善などの権利を与えます。この権利は、言論の自由、報道の自由、プライバシーなど、他の基本的な自由を支えるものになります。\")ライセンスで一般公開することを義務付ける法律を制定してほしい。公的資金で作られたソフトは、コードも公的に公開されるべきです。"
 [start_subtitle3]
 other= "**人々の税金によって作られたコードは、人々が利用できるようにしよう！**"
 
 # About section
 [about_headline]
-other= "難しいことに感じますか？そんなことはありません。簡単なことです。"
+other= "難しいことに感じますか？ そんなことはありません。簡単なことです。"
 [about_buttonText]
 other= "もっと詳しく知る"
 
@@ -38,7 +38,7 @@ other= "もっと詳しく知る"
 [arguments_headline]
 other= "Public Code を推進すべき理由"
 [arguments_followup]
-other= "あなたは、公的資金で提供されるソフトウェアには、フリーソフトウェアがデフォルトの選択肢であるべきだと思いますか？**あなたの政治的代表者に伝えましょう！**。"
+other= "あなたは、公的資金で提供されるソフトウェアには、フリーソフトウェアがデフォルトの選択肢であるべきだと思いますか？ **あなたの政治的代表者に伝えましょう！**"
 [arguments_buttonText]
 other= "オープンレターに署名しよう"
 [arguments_list_title_1]
@@ -52,7 +52,7 @@ other= "大規模プロジェクトでは、ノウハウやコストを共有で
 [arguments_list_title_3]
 other= "公共の役にたつ"
 [arguments_list_description_3]
-other= "公共機関によるアプリケーションは、すべての人に開かれているべきです。"
+other= "公的資金で作られたアプリケーションは、すべての人に提供されるべきです。"
 [arguments_list_title_4]
 other= "イノベーションの促進"
 [arguments_list_description_4]
@@ -66,114 +66,114 @@ other= "[**オープンレター**](openletter/) に要望を記載しよう"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Implement legislation requiring that publicly financed software developed for the public sector be made publicly available under a [Free and Open Source Software](https://fsfe.org/freesoftware/ \"Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy.\") licence.”"
+other= "“公共機関のために開発された公的資金によるソフトウェアは、[フリー・オープンソースソフトウェア](https://fsfe.org/freesoftware/ \"フリーソフトウェアはすべての人に利用、研究、配布、ソフトウェアの改善などの権利を与えます。この権利は、言論の自由、報道の自由、プライバシーなど、他の基本的な自由を支えるものになります。\")ライセンスで一般公開することを義務付ける法律を制定してほしい。”"
 [action_description]
-other= "**$ORGS** organisations and **$INDS** individuals already support this call for action by signing our [open letter](openletter/). You can help us make a much bigger impact by signing it, too! We will hand over all signatures to representatives all over Europe that are debating software freedom in public administration."
+other= "既に **$ORGS** 個の組織及び **$INDS** 人の個人が[オープンレター](openletter/)に署名してこのキャンペーンに賛同しています。皆さんに署名いただくことで、私たちの活動がよりインパクトのあるものになります！ 私たちは、すべての署名を、行政におけるソフトウェアの自由について議論しているヨーロッパ中の代表者に手渡す予定です。"
 [action_box_text]
-other= "Already **$INDS SIGNATURES** – sign the open letter now!"
+other= "現在の署名数: **$INDS** - オープンレターに署名しましょう！"
 [action_form_name]
-other= "Name (required)"
+other= "お名前 (必須)"
 [action_form_email]
-other= "Email (required)"
+other= "Email (必須)"
 [action_form_country]
-other= "Your Country"
+other= "国"
 [action_form_zip]
-other= "Zip Code"
+other= "郵便番号"
 [action_form_comment]
-other= "Your comment (max. 140 characters)"
+other= "コメント (最大140文字)"
 [action_form_permPriv]
-other= "I have read and accepted the [privacy statement](privacy/)"
+other= "[プライバシーポリシー](privacy/)を読み、同意する"
 [action_form_permNews]
-other= "I want to stay informed about the future of this campaign"
+other= "本キャンペーンに関してのアップデートを受け取る"
 [action_form_permPub]
-other= "I want my signature to appear in the [list of signatures](openletter/all-signatures)"
+other= "私の名前を [署名リスト](openletter/all-signatures)に掲載する"
 [action_form_submit]
-other= "Sign Now!"
+other= "署名する"
 
 # Organisations section
 [organisations_headline]
-other= "Supporting Organisations"
+other= "支持組織"
 [organisations_text]
-other= "The following organisations support our [open letter](openletter/). If your organisation is also interested in joining the call for Public Code, please [contact us](mailto:contact@fsfe.org)."
+other= "下記の組織は私たちの[オープンレター](openletter/)に賛同しています。あなたの組織が Public Code の取り組みへの参加について興味がある場合、[contact@fsfe.org](mailto:contact@fsfe.org)宛にご連絡ください。"
 [organisations_administration]
-other = "Administrations"
+other = "行政機関"
 [organisations_all]
-other = "All"
+other = "全て"
 [organisations_corporate]
-other = "Corporate"
+other = "企業"
 [organisations_international_ngo]
-other = "International NGOs"
+other = "国際NGO"
 [organisations_national_ngo]
-other = "National NGOs"
+other = "国内NGO"
 [organisations_regional_ngo]
-other = "Regional NGOs"
+other = "地域NGO"
 
 # Resources section
 [resources_list_title_1]
-other= "Latest News"
+other= "最新ニュース"
 [resources_list_description_1]
-other= "Recent updates about this campaign and public code in Europe"
+other= "本キャンペーンや欧州の Public Code に関する最新情報"
 [resources_list_title_2]
-other= "Expert Brochure"
+other= "専門家向けパンフレット"
 [resources_list_description_2]
-other= "Get the latest brochure explaining the benefits of Free Software for public administration, written by experts in the field"
+other= "本分野の専門家により書かれた、公共機関によるフリーソフトウェアがもたらす価値についてのパンフレットをダウンロードできます。"
 [resources_list_title_3]
-other= "Press and Media"
+other= "メディアや報道機関の方へ"
 [resources_list_description_3]
-other= "Find logos, condensed information, and contacts for your articles"
+other= "ロゴやサマリー情報、コンタクト情報がまとまっています。"
 
 # Spread the word section
 [spread_headline]
-other= "Spread the word!"
+other= "世界に広げよう！"
 [spread_promoText]
-other= "Order the latest stickers and flyers from FSFE"
+other= "FSFEから最新のステッカーやフライヤーを購入する"
 [spread_promoButtonText]
-other= "Get promo material"
+other= "プロモーション素材を入手する"
 [spread_shareText]
-other= "Tell your friends and followers about Public Code:"
+other= "友人やフォロワーに Public Code を伝えよう:"
 [spread_defaultSocialText]
-other= "If it is public money, it should be public code as well. I support this call for more public code under a Free Software licence:"
+other= "もしそれが公的なお金によるものならば、公的なコードであるべきです。私はより公的なコードがフリーソフトウェアライセンスで公開されるよう、この声明を支持します。”
 
 # Legal Section
 [legal_by]
-other= "A campaign by Free Software Foundation Europe"
+other= "Free Software Foundation Europe によるキャンペーン"
 [legal_imprint]
-other= "Imprint"
+other= "発行者情報"
 [legal_privacy]
-other= "Privacy"
+other= "プライバシーポリシー"
 [legal_transparency]
-other= "Transparency"
+other= "透明性の保証"
 [legal_contribute1]
-other= "The code of this website is Free Software."
+other= "このウェブサイトはフリーソフトウェアです。"
 [legal_contribute2]
-other= "You're welcome to contribute!"
+other= "貢献を歓迎します！"
 [translation_status]
-other="Translation status page"
+other="翻訳状況のページ"
 [legal_license]
-other= "This work is licensed under a [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/)."
+other= "この作品は [Creative Commons BY-SA 4.0 Licence](http://creativecommons.org/licenses/by-sa/4.0/) で提供されています"
 
 # Language selection
 [language_description]
-other= "Read this page in another language"
+other= "このページを他の言語で読む"
 
 # 404 Error Page
 [error_headline]
-other= "Error 404 - Page not found"
+other= "Error 404 - ページが見つかりません"
 [error_description]
-other= "The page you're looking for does not exist."
+other= "このページは存在しません。"
 [error_button]
-other= "Back to start page"
+other= "スタートページに戻る"
 
 # Specific sub-pages
 [subpage_signatures_headline]
-other= "Individual Open Letter Signatures"
+other= "オープンレターへの署名一覧"
 [subpage_signatures_description]
-other= "Below are the signatures of the signees who agreed to have their names made public. Be the next one!"
+other= "以下は、名前の公開に同意してくれた署名者の署名です。次の一人になりましょう！"
 [subpage_signatures_allSignatures]
-other= "See [all public signatures](all-signatures/)."
+other= "[全ての公開署名](all-signatures/)を見る。"
 [subpage_signatures_tableName]
-other= "Name"
+other= "名前"
 [subpage_signatures_tableCountry]
-other= "Country"
+other= "国名"
 [subpage_signatures_tableComment]
-other= "Comment"
+other= "コメント"
