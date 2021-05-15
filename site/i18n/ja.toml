@@ -112,11 +112,11 @@ other = "地域NGO"
 [resources_list_title_1]
 other= "最新ニュース"
 [resources_list_description_1]
-other= "本キャンペーンや欧州の Public Code に関する最新情報"
+other= "本キャンペーンや欧州の Public Code に関する最新情報（英語）"
 [resources_list_title_2]
 other= "専門家向けパンフレット"
 [resources_list_description_2]
-other= "本分野の専門家により書かれた、公共機関によるフリーソフトウェアがもたらす価値についてのパンフレットをダウンロードできます。"
+other= "本分野の専門家により書かれた、公共機関によるフリーソフトウェアがもたらす価値についてのパンフレットをダウンロードできます。（英語）"
 [resources_list_title_3]
 other= "メディアや報道機関の方へ"
 [resources_list_description_3]
@@ -132,7 +132,7 @@ other= "プロモーション素材を入手する"
 [spread_shareText]
 other= "友人やフォロワーに Public Code を伝えよう:"
 [spread_defaultSocialText]
-other= "もしそれが公的なお金によるものならば、公的なコードであるべきです。私はより公的なコードがフリーソフトウェアライセンスで公開されるよう、この声明を支持します。”
+other= "もしそれが公的なお金によるものならば、公的なコードであるべきです。私はより公的なコードがフリーソフトウェアライセンスで公開されるよう、この声明を支持します。"
 
 # Legal Section
 [legal_by]
