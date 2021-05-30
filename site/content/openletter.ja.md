@@ -10,7 +10,7 @@ sigtable: true
 
 {{< fsdefinition type="box">}}
 
-あなたが協力できることがあります。私たちのメッセージをより大きくするため、オープンレターに署名しましょう。 **{{< count type="signatures" >}} 人の個人** と **{{< count type="organisations" >}} 件の組織** が既に署名を行っています。 私たちはこのレターと署名をあなたの政治的代表者に手渡し、「Public Money? Public Code!」を理解してもらうよう努めます。
+あなたが協力できることがあります。私たちのメッセージをより大きくするため、オープンレターに署名しましょう。 **{{< count type="signatures" >}} 人の個人** と **{{< count type="organisations" >}} の組織** が既に署名を行っています。 私たちはこのレターと署名をあなたの政治的代表者に手渡し、「Public Money? Public Code!」を理解してもらうよう努めます。
 
 > ## Public Money? Public Code!
 > 
