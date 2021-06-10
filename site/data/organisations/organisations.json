@@ -384,7 +384,14 @@
     "priority": "0",
     "url": "https://dyne.org"
   },
-    {
+  {
+    "name": "E-editiones",
+    "img": "e-editiones.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://e-editiones.org/"
+  },
+  {
     "name": "Electronic Frontier Norway",
     "img": "efn.png",
     "orgtype": "national_ngo",
