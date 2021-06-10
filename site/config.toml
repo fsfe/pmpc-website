@@ -99,6 +99,10 @@ timeout = "30s"
   languageCode  = "it"
   languageName  = "Italiano"
 
+[Languages.ja]
+  languageCode  = "ja"
+  languageName  = "日本語"
+
 [Languages.nb]
   languageCode  = "nb"
   languageName  = "Norsk (bokmål)"
