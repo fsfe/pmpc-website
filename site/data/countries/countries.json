@@ -375,6 +375,11 @@
     "genc3a": "HND"
   },
   {
+    "name": "Hong Kong",
+    "genc2a": "HK",
+    "genc3a": "HKG"
+  },
+  {
     "name": "Hungary",
     "genc2a": "HU",
     "genc3a": "HUN"
