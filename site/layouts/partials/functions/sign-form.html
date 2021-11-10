@@ -1,6 +1,6 @@
 <form action="https://forms.fsfe.org/email" method="post">
   <input name="appid" type="hidden" value="pmpc-sign" />
-  <input name="lang" type="hidden" value="{{ .Lang }}" />
+  <input name="lang" type="hidden" value="{{ substr .Lang 0 2 }}" />
   <label class="sign-input form-na">
     <input name="name" placeholder="{{ i18n "action_form_name" }}" type="text" required />
   </label>
@@ -40,7 +40,7 @@
       </label>
     </div>
   </div>
-  
+
   <label id="honey"> <!-- Honeypot for spam -->
     <p>Please do not put anything here:</p>
     <input name="url" type="text" />

@@ -99,6 +99,10 @@ timeout = "30s"
   languageCode  = "it"
   languageName  = "Italiano"
 
+[Languages.ja]
+  languageCode  = "ja"
+  languageName  = "日本語"
+
 [Languages.nb]
   languageCode  = "nb"
   languageName  = "Norsk (bokmål)"
@@ -134,3 +138,7 @@ timeout = "30s"
 [Languages.zh-TW]
   languageCode  = "zh-TW"
   languageName  = "正體中文（臺灣）"
+
+[Languages.zh-HK]
+  languageCode  = "zh-HK"
+  languageName  = "繁體中文（香港）"

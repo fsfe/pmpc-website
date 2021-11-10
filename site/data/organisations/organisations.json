@@ -1,5 +1,12 @@
 [
   {
+    "name": "Aalto University Student Union",
+    "img": "ayy.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://ayy.fi"
+  },
+  {
     "name": "ADULLACT",
     "img": "adullact.png",
     "orgtype": "national_ngo",
@@ -224,6 +231,13 @@
     "url": "https://codeberg.org/"
   },
   {
+    "name": "Code for Romania",
+    "img": "code4romania.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://code4.ro/en"
+  },
+  {
     "name": "Colectic",
     "img": "colectic.png",
     "orgtype": "national_ngo",
@@ -370,7 +384,14 @@
     "priority": "0",
     "url": "https://dyne.org"
   },
-    {
+  {
+    "name": "E-editiones",
+    "img": "e-editiones.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://e-editiones.org/"
+  },
+  {
     "name": "Electronic Frontier Norway",
     "img": "efn.png",
     "orgtype": "national_ngo",
@@ -882,6 +903,13 @@
     "url": "https://luki.org/"
   },
   {
+    "name": "Maemo Leste",
+    "img": "maemo-leste-logo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://maemo-leste.github.io"
+  },
+  {
     "name": "Mageia",
     "img": "mageia.png",
     "orgtype": "international_ngo",
@@ -1260,6 +1288,13 @@
     "url": "https://www.stiftungdatenschutz.org"
   },
   {
+    "name": "Stowarzyszenie Klucznicy",
+    "img": "StowarzyszenieKlucznicy.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://klucznicy.org.pl/"
+  },
+  {
     "name": "Stratum 0 - Hackerspace Braunschweig",
     "img": "stratum0.png",
     "orgtype": "regional_ngo",
@@ -1363,6 +1398,13 @@
     "orgtype": "national_ngo",
     "priority": "0",
     "url": "https://www.wikimedia.cz"
+  },
+  {
+    "name": "Wikimedia Polska",
+    "img": "wikimediapol.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://wikimedia.pl/"
   },
   {
     "name": "Wikimedia Sverige",

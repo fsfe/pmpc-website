@@ -1,5 +1,5 @@
 {{ $langext := "" }}
-{{ if or (eq .Lang "de") (eq .Lang "fr") (eq .Lang "it") (eq .Lang "nl") (eq .Lang "pt") (eq .Lang "ru") (eq .Lang "es") }}
+{{ if or (eq .Lang "de") (eq .Lang "fr") (eq .Lang "it") (eq .Lang "nl") (eq .Lang "pt") (eq .Lang "ru") (eq .Lang "es") (eq .Lang "sv") (eq .Lang "ja") }}
   {{ $langext = (printf "_%s" .Lang) }}
 {{ end }}
 <center>
@@ -8,7 +8,7 @@
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_desktop.webm" type='video/webm; codecs="vp9, opus"' media="screen and (min-device-width:1000px)" />
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_mobile.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' media="screen and (max-device-width:999px)" />
     <source src="https://download.fsfe.org/videos/pmpc/pmpc{{$langext}}_mobile.webm" type='video/webm; codecs="vp9, opus"' media="screen and (max-device-width:999px)" />
-    
+
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_en.vtt" kind="subtitles" srclang="en" label="English">
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_de.vtt" kind="subtitles" srclang="de" label="Deutsch">
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_es.vtt" kind="subtitles" srclang="es" label="Español">
@@ -27,5 +27,6 @@
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_sv.vtt" kind="subtitles" srclang="sv" label="Svenska">
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_tr.vtt" kind="subtitles" srclang="tr" label="Türkçe">
     <track src="https://publiccode.eu/video-subs/webvtt/pmpc_zh.vtt" kind="subtitles" srclang="zh" label="正體中文（臺灣）">
+    <track src="https://publiccode.eu/video-subs/webvtt/pmpc_zh_hk.vtt" kind="subtitles" srclang="hk" label="繁體中文（香港）">
   </video>
 </center>

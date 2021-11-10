@@ -1,0 +1,177 @@
+# General strings
+[description]
+other= "公共財富？公共程式碼！（Public Money? Public Code!） - 呼籲政府部門及公營機構之資訊系統應採用自由軟件"
+[fsdefinition]
+other= "自由軟件讓所有人擁有使用、研究、分享和改進的權利。這些權利和其他基本人權自由息息相關、互相支持，例如：言論自由、著作出版自由和祕密通訊自由等。"
+[javascript_warning]
+other = "<b>警告:</b> 暫停 JavaScript 會導致部分互動功能未能執行。"
+
+# Navigation
+[navigation_links_start]
+other= "活動緣由"
+[navigation_links_about]
+other= "關於"
+[navigation_links_arguments]
+other= "原因"
+[navigation_links_action]
+other= "付諸行動"
+[navigation_links_resources]
+other= "資源"
+[navigation_links_spread]
+other= "分享給大家"
+
+# Start banner
+[start_subtitle1]
+other= "為什麼用人民納稅錢所建立的軟件和資訊系統，卻沒有以自由軟件授權條款公開釋出呢？"
+[start_subtitle2]
+other= "我們要求制定法律，明確訂立以政府部門及公營機構的經費，為公共需要所開發的軟件，必須以[自由及開源軟件](https://fsfe.org/freesoftware/ \"自由軟件讓所有人擁有使用、研究、分享和改進的權利。這些權利和其他基本人權自由息息相關、互相支持，例如言論自由、著作出版自由和祕密通訊自由等。\")授權條款釋出。也就是說，既然經費是公共的，所做的軟件也必須是公共的。"
+[start_subtitle3]
+other= "**用納稅人的錢所寫的軟件，社會所有人都應該可以使用！**"
+
+# About section
+[about_headline]
+other= "聽起來很複雜嗎？其實不會，很簡單的！"
+[about_buttonText]
+other= "更多好處"
+
+# Arguments section
+[arguments_headline]
+other= "要求使用自由及開源軟件授權條款的理由"
+[arguments_followup]
+other= "你支持用納稅人的錢所開發的軟件應該預設使用自由及開源軟件授權條款嗎？**讓我們一起向民意代表們發聲！**"
+[arguments_buttonText]
+other= "聯署支持這封公開信"
+[arguments_list_title_1]
+other= "節省經費"
+[arguments_list_description_1]
+other= "相似的軟件不需要每次從頭重新開發。"
+[arguments_list_title_2]
+other= "協同合作"
+[arguments_list_description_2]
+other= "重要的專案應該分享專業知識並分攤花費。"
+[arguments_list_title_3]
+other= "為公眾服務"
+[arguments_list_description_3]
+other= "公眾的納稅錢所支付開發的軟件，當然應該讓所有人都能使用。"
+[arguments_list_title_4]
+other= "啟發創新"
+[arguments_list_description_4]
+other= "公開透明的流程，讓其他人不需重新發明輪子，而可以開發新想法。"
+
+# Action section
+[action_headline]
+other= "告訴你選區的立法會議員和民意代表！"
+[action_intro]
+other= "在我們的[**公開信**](openletter/)中我們要求："
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "制定法律，明確訂立以政府部門及公營機構的經費，為公共需要所開發的軟件，必須以[自由及開源軟件](https://fsfe.org/freesoftware/ \"自由軟件讓所有人擁有使用、研究、分享和改進的權利。這些權利和其他基本人權自由息息相關、互相支持，例如言論自由、著作出版自由和祕密通訊自由等。\")授權條款釋出。"
+[action_description]
+other= "**$ORGS**個組織和**$INDS**位人士已經聯署我們的[公開信](openletter/)表達支持。你也可以一起加入聯署，讓我們的聲音更壯大！我們會整理所有的聯署名單，傳達給議員和民意代表，要求政府部門及公營機構使用納稅人的錢所開發的軟件必須自由！"
+[action_box_text]
+other= "已有 **$INDS 人聯署** – 現在就加入聯署！"
+[action_form_name]
+other= "姓名（必填）"
+[action_form_email]
+other= "電子郵件地址（必填）"
+[action_form_country]
+other= "所屬國家地區"
+[action_form_zip]
+other= "郵遞區號"
+[action_form_comment]
+other= "你想說的話（最多 140 個字元）"
+[action_form_permPriv]
+other= "我已閱讀並接受[私隱聲明](privacy/)"
+[action_form_permNews]
+other= "我想繼續接收這活動的後續消息"
+[action_form_permPub]
+other= "我願意將我的姓名公開在[聯署名單](openletter/all-signatures)中"
+[action_form_submit]
+other= "現在就聯署！"
+
+# Organisations section
+[organisations_headline]
+other= "支持並聯署的組織"
+[organisations_text]
+other= "以下的組織均已聯署支持我們的[公開信](openletter/)。如果你所屬的組織也願意加入聯署，請[與我們聯絡](mailto:contact@fsfe.org)。"
+[organisations_administration]
+other = "政府部門及公營機構"
+[organisations_all]
+other = "所有"
+[organisations_corporate]
+other = "企業"
+[organisations_international_ngo]
+other = "國際組織"
+[organisations_national_ngo]
+other = "國內組織"
+[organisations_regional_ngo]
+other = "地區組織"
+
+# Resources section
+[resources_list_title_1]
+other= "最新消息"
+[resources_list_description_1]
+other= "有關本運動和歐洲公共程式碼的近期消息"
+[resources_list_title_2]
+other= "專家宣傳刊物"
+[resources_list_description_2]
+other= "索取最新宣傳刊物，由專家解釋自由軟件對政府及公營部門的益處。"
+[resources_list_title_3]
+other= "傳媒及媒體"
+[resources_list_description_3]
+other= "找尋圖案、濃縮資訊、傳媒聯絡"
+
+# Spread the word section
+[spread_headline]
+other= "分享給大家！"
+[spread_promoText]
+other= "向歐洲自由軟件基金會訂購貼紙和傳單"
+[spread_promoButtonText]
+other= "取得宣傳材料"
+[spread_shareText]
+other= "告訴你的朋友和網友關於這活動："
+[spread_defaultSocialText]
+other= "使用納稅人的錢，就該做公開透明的資訊系統！我支持這活動，讓更多政府部門及公營機構開發的軟件使用自由及開源授權條款："
+
+# Legal Section
+[legal_by]
+other= "這個活動由歐洲自由軟件基金會發起"
+[legal_imprint]
+other= "版本說明"
+[legal_privacy]
+other= "私隱聲明"
+[legal_transparency]
+other= "透明度"
+[legal_contribute1]
+other= "這網站本身是自由軟件。"
+[legal_contribute2]
+other= "歡迎你一起來貢獻！"
+[legal_license]
+other= "這個網站的內容以[共享創意 CC BY-SA 4.0 授權條款](http://creativecommons.org/licenses/by-sa/4.0/)。"
+
+# Language selection
+[language_description]
+other= "切換到其它語言"
+
+# 404 Error Page
+[error_headline]
+other= "404 - 找不到網頁"
+[error_description]
+other= "你所到訪的網頁不存在。"
+[error_button]
+other= "回到首頁"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "公開信之個人聯署"
+[subpage_signatures_description]
+other= "以下是已參與聯署並願意公開姓名的個人。希望你就是下一位！"
+[subpage_signatures_allSignatures]
+other= "查看[所有的公開聯署名單](all-signatures/)."
+[subpage_signatures_tableName]
+other= "姓名"
+[subpage_signatures_tableCountry]
+other= "國家地區"
+[subpage_signatures_tableComment]
+other= "想說的話"
