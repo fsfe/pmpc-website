@@ -1050,6 +1050,13 @@
     "url": "https://openstate.eu"
   },
   {
+    "name": "Open Source Geospatial Foundation (OSGeo)",
+    "img": "osgeo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.osgeo.org/"
+  },
+  {
     "name": "Openbit",
     "img": "openbit.png",
     "orgtype": "international_ngo",
