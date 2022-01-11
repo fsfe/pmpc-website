@@ -33,6 +33,9 @@ steps:
     - deployment
     - cron
 
+node:
+  cont: lund
+
 volumes:
 - name: dockersock
   host:
