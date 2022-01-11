@@ -34,6 +34,8 @@ steps:
     - deployment
     - cron
 
+# This has to run on the same machine as the forms API until this feature
+# exists: https://git.fsfe.org/fsfe-system-hackers/forms/issues/62
 node:
   cont: lund
 
