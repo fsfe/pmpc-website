@@ -1,50 +1,50 @@
 ---
 kind: pipeline
 name: default
-type: docker
 
 steps:
-- name: copy-sigs
-  image: alpine:3
-  commands:
-  - cp /tmp/signatures.json site/data/signatures/signatures.json
-  volumes:
-  - name: signatures
-    path: /tmp/signatures.json
+  - name: copy-sigs
+    image: alpine:3
+    commands:
+      - cp /tmp/signatures.json site/data/signatures/signatures.json
+    volumes:
+      - name: signatures
+        path: /tmp/signatures.json
 
-- name: hugo
-  image: plugins/hugo
-  settings:
-    source: site
-    validate: true
+  - name: hugo
+    image: plugins/hugo
+    settings:
+      source: site
+      validate: true
 
-- name: deploy
-  image: docker/compose:1.29.1
-  commands:
-  - docker-compose -p pmpc-website up --build -d
-  volumes:
-  - name: dockersock
-    path: /var/run/docker.sock
-  when:
-    branch:
-    - master
-    event:
-    - push
-    - tag
-    - deployment
-    - cron
+  - name: deploy
+    image: docker/compose:1.29.2
+    environment:
+      XDG_RUNTIME_DIR: "/run/user/1001"
+      DOCKER_HOST: "unix:///run/user/1001/docker.sock"
+    commands:
+      - docker-compose -p pmpc-website up --build -d
+    volumes:
+      - name: dockersock
+        path: /run/user/1001/docker.sock
+    when:
+      branch:
+        - master
+      event:
+        - push
+        - tag
+        - deployment
+        - cron
 
 # This has to run on the same machine as the forms API until this feature
 # exists: https://git.fsfe.org/fsfe-system-hackers/forms/issues/62
 node:
-  cont: lund
+  cont2: noris
 
 volumes:
-- name: dockersock
-  host:
-    path: /var/run/docker.sock
-- name: signatures
-  host:
-    path: /srv/forms/pmpc/signatures.json
-
-...
+  - name: dockersock
+    host:
+      path: /run/user/1001/docker.sock
+  - name: signatures
+    host:
+      path: /srv/forms/pmpc/signatures.json
