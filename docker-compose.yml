@@ -10,24 +10,9 @@ services:
       options:
         max-size: "5m"
         max-file: "5"
-    environment:
-      - VIRTUAL_HOST=publiccode.eu,www.publiccode.eu
-      - VIRTUAL_PORT=8080
-      - LETSENCRYPT_HOST=publiccode.eu,www.publiccode.eu
-      - LETSENCRYPT_EMAIL=contact@fsfe.org
     ports:
       - "50:8080"
     labels:
       proxy.host: "publiccode.eu"
       proxy.host_alias: "www.publiccode.eu"
       proxy.port: "50"
-
-  # Connect the container which exposes the service to the 'bridge' network as
-  # this is where the reverse proxy is
-  connect-bridge:
-    image: docker:dind
-    volumes:
-      - /run/user/1001/docker.sock:/var/run/docker.sock
-    depends_on:
-      - pmpc
-    command: sh -c 'docker network connect bridge pmpc'
