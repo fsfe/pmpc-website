@@ -825,6 +825,15 @@
     "priority": "1",
     "url": "https://www.laquadrature.net"
   },
+  
+  {
+    "name": "Landkreis Marburg-Biedenkopf",
+    "img": "Mr-Bid.png",
+    "orgtype": "administration",
+    "priority": "1",
+    "url": "https://www.marburg-biedenkopf.de/"
+  },
+  
   {
     "name": "LibreITALIA",
     "img": "libreitalia.png",
@@ -916,6 +925,7 @@
     "priority": "0",
     "url": "https://www.mageia.org/en/"
   },
+  
   {
     "name": "mediale pfade",
     "img": "medialepfade.png",
