@@ -955,6 +955,13 @@
     "url": "https://neutrinet.be/"
   },
   {
+    "name": "NLUUG",
+    "img": "nluug.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.nluug.nl/"
+  },
+  {
     "name": "Obshtestvo",
     "img": "obshtestvo.png",
     "orgtype": "national_ngo",
