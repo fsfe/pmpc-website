@@ -48,3 +48,8 @@ volumes:
   - name: signatures
     host:
       path: /srv/forms/pmpc/signatures.json
+---
+kind: signature
+hmac: bc10383cc16d59bf0b4046b03cc6510ec978af4791bcfe9f7ec554e3e172fc35
+
+...
