@@ -10,6 +10,13 @@ steps:
     volumes:
       - name: signatures
         path: /tmp/signatures.json
+    when:
+      branch:
+        - master
+      event:
+        exclude:
+          # do not copy sigs in pull requests to speed up builds
+          - pull_request
 
   - name: hugo
     image: plugins/hugo
@@ -50,6 +57,6 @@ volumes:
       path: /srv/forms/pmpc/signatures.json
 ---
 kind: signature
-hmac: bc10383cc16d59bf0b4046b03cc6510ec978af4791bcfe9f7ec554e3e172fc35
+hmac: d58a928931a664eb701370b52e57115c7c28fdd82fe62b3251321209252188e4
 
 ...
