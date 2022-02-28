@@ -48,4 +48,4 @@ Se tiver questões sobre o uso dos seus dados, gostaria de pedir uma
 cópia de toda a informação que temos armazenada sobre si, ou gostaria
 de falar com o Encarregado de Proteção de Dados para qualquer questão,
 o nosso Encarregado de Proteção de Dados é o diretor executivo da FSFE,
-que poderá contactar através de [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+que poderá contactar através de [privacy@fsfe.org](mailto:privacy@fsfe.org).

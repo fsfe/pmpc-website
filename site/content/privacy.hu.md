@@ -29,4 +29,4 @@ Továbbá jogodban áll visszavonni hozzájárulásodat az adataid jelen nyilatk
 
 ## Kivel veheted fel a kapcsolatot
 
-Ha további kérdésid vannak az adataid felhasználásával kapcsolatban, szeretnél egy másolatot kapni a rólad tárolt információkból, vagy bármilyen okból beszélni szeretnél az Adatvédelmi Biztosunkkal, az Adatvédelmi Biztosunk az FSFE ügyvezető igazgatója, akit az [executive-director@fsfe.org](mailto:executive-director@fsfe.org) email címen tudsz elérni.
+Ha további kérdésid vannak az adataid felhasználásával kapcsolatban, szeretnél egy másolatot kapni a rólad tárolt információkból, vagy bármilyen okból beszélni szeretnél az Adatvédelmi Biztosunkkal, az Adatvédelmi Biztosunk az FSFE ügyvezető igazgatója, akit az [privacy@fsfe.org](mailto:privacy@fsfe.org) email címen tudsz elérni.

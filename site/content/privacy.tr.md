@@ -51,6 +51,6 @@ Verilerinizin kullanımına ilişkn sorularınız varsa, hakkınızda
 sakladığımız verilerin bir kopyasını istiyorsanız veya Veri Koruma
 Yetkili'mizle herhangi başka bir konuda konuşmak istiyorsanız
 görevlendirilmiş Veri Koruma Yetkilimiz
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org)
+[privacy@fsfe.org](mailto:privacy@fsfe.org)
 e-posta adresi aracılığıyla ulaşabileceğiniz FSFE'nin yönetici
 müdürüdür.

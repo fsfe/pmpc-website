@@ -51,4 +51,4 @@ Nel caso tu abbia domande sull'uso dei tuoi dati, o desiderassi
 richiedere una copia di tutte le informazioni che conserviamo sul tuo conto, o
 desiderassi contattare il nostro Responsabile per la protezione dei dati per altri
 motivi, il nostro Responsabile per la protezione dei dati è il
-direttore esecutivo di FSFE, che puoi contattare all'indirizzo [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+direttore esecutivo di FSFE, che puoi contattare all'indirizzo [privacy@fsfe.org](mailto:privacy@fsfe.org).

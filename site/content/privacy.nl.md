@@ -48,5 +48,5 @@ Als u vragen heeft over ons gebruik van uw data, graag een kopie van uw
 informatie ontvangt, of graag wilt spreken met onze functionaris voor
 gegevensbescherming voor iedere andere reden, dan kunt u contact opnemen met de
 FSFE's uitvoerend bestuurder op
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org). De uitvoerend
+[privacy@fsfe.org](mailto:privacy@fsfe.org). De uitvoerend
 bestuurder is tevens onze functionaris voor gegevensbescherming.

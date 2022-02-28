@@ -53,4 +53,4 @@ version: 1
 θες να μιλήσεις με τον υπεύθυνο μας για την Προστασία Δεδομένων για
 οποιοδήποτε άλλο λόγο, ο υπεύθυνος Προστασίας Δεδομένων είναι ο
 εκτελεστικός διευθυντής του FSFE, με τον οποίο μπορείς να επικοινωνήσεις
-στο [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+στο [privacy@fsfe.org](mailto:privacy@fsfe.org).

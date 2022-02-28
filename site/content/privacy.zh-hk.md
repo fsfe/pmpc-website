@@ -39,4 +39,4 @@ FSFE 的工作人員和實習生均能存取。此外 FSFE 的系統管理團隊
 
 如果你有任何關於我們使用你的資料的問題，或是想要一份所有我們儲存關於你
 的資料的複本，或是有任何原因想與我們的資料保護團隊負責人，也就是 FSFE
-的執行長聯繫，請寫信到[executive-director@fsfe.org](mailto:executive-director@fsfe.org)。
+的執行長聯繫，請寫信到[privacy@fsfe.org](mailto:privacy@fsfe.org)。

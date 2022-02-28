@@ -52,5 +52,5 @@ Si teniu qüestions sobre l'ús de les vostres dades, si voleu demanar una còpi
 de tota la vostra informació que tenim, o voleu parlar amb el nostre responsable
 de protecció de dades per qualsevol altre motiu, el nostre responsable de 
 protecció de dades és el nostre director executiu, podeu contactar amb
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+[privacy@fsfe.org](mailto:privacy@fsfe.org).
 

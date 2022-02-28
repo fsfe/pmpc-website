@@ -45,4 +45,4 @@ Om du har frågor om vår användning av dina uppgifter, vill ha en kopia
 av all information vi har sparat om dig, eller skulle vilja tala med
 vår dataskyddsfunktionär av någon annan anledning, är vår utsedda
 dataskyddsfunktionär vår verkställande direktör som du kan kontakta
-via [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+via [privacy@fsfe.org](mailto:privacy@fsfe.org).

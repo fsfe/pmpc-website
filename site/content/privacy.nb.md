@@ -54,4 +54,4 @@ be om en kopi av all informasjon vi har lagret på deg, eller av
 andre årsaker har lyst til å prate med vår tilsynsfører for 
 databaskyttelse så er vår tilsynsfører vår administrerende
 direktør for FSFE som du kan kontakte på 
-[executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+[privacy@fsfe.org](mailto:privacy@fsfe.org).
