@@ -609,6 +609,13 @@
     "url": "https://enn.lu/"
   },
   {
+    "name": "FSI Mathe/Physik/DS @ FAU",
+    "img": "FSI-MPDS-FAU.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://mp.fsi.fau.de"
+  },
+  {
     "name": "FUSS Project",
     "img": "fuss.png",
     "orgtype": "regional_ngo",
