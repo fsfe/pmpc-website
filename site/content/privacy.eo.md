@@ -52,4 +52,4 @@ Se vi havas demandojn pri nia uzo de viaj datumoj, ŝatus peti
 kopion de ĉiuj konservitaj informoj pri vi, aŭ ŝatus paroli kun
 nia oficisto de datum-protektado por ajna alia celo, nia
 komisiita oficisto de datum-protektado estas la plenuma
-direktoro de FSFE, kiun vi povas kontakti per [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+direktoro de FSFE, kiun vi povas kontakti per [privacy@fsfe.org](mailto:privacy@fsfe.org).

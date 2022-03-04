@@ -52,4 +52,4 @@ Hvis du har spørgsmål om vores brug af dine data, ønsker en kopi
 af al information vi har gemt om dig, eller ønsker at få en snak
 med vores direktør for databeskyttelse af andre grunde, er denne
 identisk med FSFE's direktør som du kan kontakte 
-på [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+på [privacy@fsfe.org](mailto:privacy@fsfe.org).

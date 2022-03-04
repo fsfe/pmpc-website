@@ -52,4 +52,4 @@ Si tienes alguna duda sobre como nosotros usamos tus datos puedes
 pedir una copia de toda la información que tenemos guardada de ti o
 para cualquier otra inquietud puedes hablar con nuestro encargado
 de protección de datos, nuestro encargado es el director ejecutivo de la FSFE y
-puedes contactarlo en [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+puedes contactarlo en [privacy@fsfe.org](mailto:privacy@fsfe.org).

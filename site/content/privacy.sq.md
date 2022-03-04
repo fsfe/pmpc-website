@@ -45,4 +45,4 @@ Nëse keni pyetje në lidhje me përdorimin e të të dhënave tuaja, nëse do t
 të kërkoni një kopje të të gjitha informacioneve që kemi ruajtur për ju, ose
 do të donit të bisedonit me Punonjësin për Mbrojtjen e të Dhënave për ndonjë tjetër
 qëllim, personi i caktuar për Mbrojtjen e të Dhënave në FSFE është drejtori ekzekutiv, 
-të cilin mund ta kontaktoni në [executive-director@fsfe.org](mailto:executive-director@fsfe.org).
+të cilin mund ta kontaktoni në [privacy@fsfe.org](mailto:privacy@fsfe.org).

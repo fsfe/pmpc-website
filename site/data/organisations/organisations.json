@@ -742,6 +742,13 @@
     "url": "https://www.idealiste.cz/"
   },
   {
+    "name": "Ingeniería Sin Fronteras",
+    "img": "ISF-logo.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.isf.es"
+  },
+  {
     "name": "Integreat",
     "img": "integreat.png",
     "orgtype": "regional_ngo",
