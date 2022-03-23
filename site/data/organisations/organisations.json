@@ -476,6 +476,13 @@
     "url": "https://exposefacts.org/"
   },
   {
+    "name": "Fachschaftsrat Physik/Meteorologie der JGU Mainz",
+    "img": "Fachschaft_Physik_Meteorologie.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://fachschaft.physik.uni-mainz.de/"
+  },
+  {
     "name": "FACIL",
     "img": "facil.png",
     "orgtype": "national_ngo",
