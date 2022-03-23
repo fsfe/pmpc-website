@@ -476,6 +476,13 @@
     "url": "https://exposefacts.org/"
   },
   {
+    "name": "Fachschaft Physik/Astronomie der rheinischen Uni Bonn",
+    "img": "FPA-UniBonn.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.fs-physik.uni-bonn.de/"
+  },
+  {
     "name": "Fachschaftsrat Physik/Meteorologie der JGU Mainz",
     "img": "Fachschaft_Physik_Meteorologie.png",
     "orgtype": "regional_ngo",
