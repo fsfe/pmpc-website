@@ -54,7 +54,7 @@ All files are written in the [Markdown
 syntax](https://en.wikipedia.org/wiki/Markdown) which is very easy to learn and
 much more comfortable to write and translate than HTML.
 
-Note that there is also a sub-directory called `openletter` which files should 
+Note that there is also a sub-directory called `openletter` which files should
 be translated as well!
 
 In all files you'll find a *header* which starts and ends with `---` (three
@@ -70,7 +70,7 @@ the quare brackets (TEXT), the link has to stay the same obviously.
 ### data/share/
 
 In `data/share/en/`, `data/share/it/` and so on there are tiny *.yaml* files
-for each share service we're offering (e.g. GNU Social or Diaspora). 
+for each share service we're offering (e.g. GNU Social or Diaspora).
 
 There are only a few strings to translate. `titleBefore` is the text in front
 of the service's name, `titleAfter` the one behind. You can fill both fields to
@@ -105,18 +105,16 @@ documentation](https://gohugo.io/content-management/multilingual/#translation-of
 
 ### static/video-subs/
 
-In this folder you can find the time-coded subtitles for the PMPC
-video. They exist in SRT and WebVTT format which slightly differ in
-their syntax. Unfortunately, we need both to support every web browser.
-Unlike the other files, you don't necessarily need to provide a
-translation of the subtitles in order to allow us to localise the
+In this folder you can find the time-coded subtitles for the PMPC video. They
+exist in the WebVTT format. Unlike the other files, you don't necessarily need
+to provide a translation of the subtitles in order to allow us to localise the
 website.
 
 ### config.toml
 
-To activate your new language, please add it to 
-[config.toml](https://git.fsfe.org/pmpc/website/src/branch/master/site/config.toml). 
-Please do not change any existing content here. Your entry could look 
+To activate your new language, please add it to
+[config.toml](https://git.fsfe.org/pmpc/website/src/branch/master/site/config.toml).
+Please do not change any existing content here. Your entry could look
 like this:
 
 ```
@@ -140,7 +138,7 @@ can help you if you have questions or lack permissions.
 
 For Git, there are three ways which are explained in the aforementioned
 build README section:
-1. Git Pull Requests from your repository forks 
+1. Git Pull Requests from your repository forks
 2. Git pushes to the central master branch (requires write access)
 3. Edit the files directly in the git.fsfe.org web interface (requires
    write access)
@@ -151,12 +149,12 @@ proofread by other speakers of your language.
 
 ## How to show missing translations?
 
-If a string in your language isn't translated, the default English 
-version will be used. To find out which parts are missing, you need 
+If a string in your language isn't translated, the default English
+version will be used. To find out which parts are missing, you need
 `hugo` installed on your computer.
 
-Please navigate to the `site/` subdirectory and execute `hugo 
---i18n-warnings | grep i18n`. This shows a list of all missing 
-translations of all languages. Please look out for your language code 
-in the third column. The fourth column shows the name of the string 
+Please navigate to the `site/` subdirectory and execute `hugo
+--i18n-warnings | grep i18n`. This shows a list of all missing
+translations of all languages. Please look out for your language code
+in the third column. The fourth column shows the name of the string
 which is missing in your i18n file.
