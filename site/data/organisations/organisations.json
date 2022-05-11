@@ -133,6 +133,13 @@
     "url": "https://ansol.org/"
   },
   {
+    "name": "Attac Norway",
+    "img": "Logo-Attac.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://attac.no/"
+  },
+  {
     "name": "Aula de Software Libre de la Universidad de Córdoba",
     "img": "aulasoftwarelibre.png",
     "orgtype": "regional_ngo",
