@@ -671,6 +671,13 @@
     "priority": "0",
     "url": "https://gfoss.eu/"
   },
+    {
+    "name": "GitNex",
+    "img": "GitNex-logo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://gitnex.com/"
+  },
   {
     "name": "GNOME",
     "img": "GNOME.png",
