@@ -84,6 +84,13 @@
     "url": "https://www.aquilenet.fr/"
   },
   {
+    "name": "ArduPilot Foundation",
+    "img": "ArduPilot.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://ardupilot.org/"
+  },
+  {
     "name": "ASL.Org - Associação Software Livre ",
     "img": "asl-org.png",
     "orgtype": "national_ngo",
