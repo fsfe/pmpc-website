@@ -9,5 +9,9 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^[a-z-]*/(.+) $1 [L,R=301]
 
+# Redirect /sharepic to sharepic generator
+#RewriteRule ^sharepic$ https://sharepic.fsfe.org/pmpc [R=301,L]
+RewriteRule ^([a-z-]*/)?sharepics?/? https://sharepic.fsfe.org/pmpc [R=301,L]
+
 # Redirect 404 errors to nice page
 ErrorDocument 404 /404.html
