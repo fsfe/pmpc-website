@@ -1,6 +1,6 @@
 /*
 * SPDX-FileCopyrightText: 2019 Free Software Foundation Europe e.V. <https://fsfe.org>
-* SPDX-License-Identifier: AGPL-3.0-or-later
+* SPDX-License-Identifier: CC0-1.0
 *
 * share-buttons: Share buttons for many social networks and services
 * Upstream: https://git.fsfe.org/FSFE/share-buttons
@@ -78,6 +78,21 @@
 .share-buttons .share-podcast {
   background-color: #3394ce;
   background-image: url("/img/service-icons/podcast_white.png");
+}
+
+.share-buttons .share-peertube {
+  background-color: #f2690d;
+  background-image: url("/img/service-icons/peertube_white.png");
+}
+
+.share-buttons .share-youtube {
+  background-color: #ff2020;
+  background-image: url("/img/service-icons/youtube_white.png");
+}
+
+.share-buttons .share-sharepic {
+  background-color: #c12ab7;
+  background-image: url("/img/service-icons/sharepic_white.png");
 }
 
 .share-buttons .share-support {
