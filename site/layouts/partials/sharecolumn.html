@@ -1,7 +1,7 @@
 {{ "<!-- SHARE COLUMN -->" | safeHTML }}
 <div class="sharecolumn">
 
-{{ $data := index .Site.Data.share .Site.Language.Lang }}
-{{ partial "functions/share_buttons.html" (dict "type" "side" "defaultSocialText" (i18n "spread_defaultSocialText") "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
+{{ $data := index .Site.Data.share }}
+{{ partial "functions/share_buttons.html" (dict "type" "side" "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
 
 </div>
