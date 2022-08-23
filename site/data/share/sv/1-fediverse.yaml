@@ -1,9 +1,0 @@
-titleBefore: Dela på
-titleAfter:
-# This "customText" shouldn't have more than 115 characters!
-customText: "Offentliga pengar, offentlig kod! Jag stöder @fsfe@mastodon.social's vädjan för mer #publiccode:"
-
-# Do not translate below here
-id: fediverse
-name: Fediverse
-userinput: true
