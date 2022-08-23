@@ -103,6 +103,18 @@ other= "Tanıtım malzemesi isteyin"
 other= "Arkadaş ve takipçilerinize Kamusal Kod çağrısını duyurun:"
 [spread_defaultSocialText]
 other= "Eğer bu kamunun parasıysa o zaman kod da kamusal olmalıdır. Daha fazla kamusal kodun Özgür Yazılım lisansı kapsamına alınması çağrısını destekliyorum:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Paylaşın"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe@mastodon.social'nun #kamusalkod #publiccode çağrısını destekliyorum:"
+[spread_twitter_customText]
+other= "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe@quitter.no'nun #kamusalkod #publiccode çağrısını destekliyorum:"
+[spread_support_text]
+other= "FSFE destekçisi olun!"
 
 # Legal Section
 [legal_by]

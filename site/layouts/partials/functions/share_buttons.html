@@ -2,28 +2,36 @@
   <input name="popup" id="no-share-popup-{{.type}}" type="radio" />
   <input name="ref" value="pmpc-{{.type}}" type="hidden" />
   <input name="url" value="{{ .url }}{{ .lang }}" type="hidden" />
-  <input id="sharetitle-{{.type}}" name="title" value="{{ .defaultSocialText }}" type="hidden" />
+  <input id="sharetitle-{{.type}}" name="title" value="{{ i18n "spread_defaultSocialText" }}" type="hidden" />
   <input class="n" name="website" placeholder="Please do not put anything here" />
-  
+
   {{ range .data }}
+    <!-- The text that shall be shared in a service, either custom or default -->
     {{- $sharetext := "" -}}
     {{- if isset . "customText" -}}
-      {{- $sharetext = .customText -}}
+      {{- $sharetext = i18n .customText -}}
     {{- else -}}
-      {{- $sharetext = $.defaultSocialText -}}
+      {{- $sharetext = i18n "spread_defaultSocialText" -}}
+    {{- end -}}
+    <!-- The name of the network. Mostly generic, sometimes translated -->
+    {{- $name := "" -}}
+    {{- if isset . "translatedName" -}}
+      {{- $name = i18n .name -}}
+    {{- else -}}
+      {{- $name = .name -}}
     {{- end -}}
 
     {{ if eq .userinput true -}}
-      <label class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" for="{{ .id }}-share-{{$.type}}">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</label>
+      <label class="button share-{{ .id }}" title="{{ if .titleBefore }}{{ i18n "spread_titleBefore" }}{{ end }} {{ $name }} {{ if .titleAfter }}{{ i18n "spread_titleAfter" }}{{ end }}" for="{{ .id }}-share-{{$.type}}">{{if eq $.type "side" }}&nbsp;{{else}}{{$name}}{{end}}</label>
         <input name="popup" id="{{ .id }}-share-{{$.type}}" type="radio" />
         <span class="popup {{ .id }}">
           <label for="no-share-popup-{{$.type}}"></label>
-          <input name="{{ .id }}pod" value="" placeholder="{{ .name }} URL ({{ .id }}.tld)" type="text" />
+          <input name="{{ .id }}pod" value="" placeholder="{{ $name }} URL ({{ .id }}.tld)" type="text" />
           <button type="submit" name="service" value="{{ .id }}" onclick="return changeTitle_{{$.type | safeJS }}('{{ $sharetext }}')">OK</button>
         </span>
     {{- end -}}
     {{- if ne .userinput true -}}
-      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ .titleBefore}} {{ .name }} {{ .titleAfter  }}" onclick="return changeTitle_{{$.type | safeJS}}('{{ $sharetext }}')">{{if eq $.type "side" }}&nbsp;{{else}}{{.name}}{{end}}</button>
+      <button type="submit" name="service" value="{{ .id }}" class="button share-{{ .id }}" title="{{ if .titleBefore }}{{ i18n "spread_titleBefore" }}{{ end }} {{ $name }} {{ if .titleAfter }}{{ i18n "spread_titleAfter" }}{{ end }}" onclick="return changeTitle_{{$.type | safeJS}}('{{ $sharetext }}')">{{if eq $.type "side" }}&nbsp;{{else}}{{$name}}{{end}}</button>
     {{- end }}
   {{ end }}
 </form>

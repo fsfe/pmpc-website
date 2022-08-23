@@ -103,6 +103,18 @@ other= "Szerezd be ingyenes reklámanyagainkat"
 other= "Szólj barátaidnak és ismerőseidnek:"
 [spread_defaultSocialText]
 other= "Ha közpénzből van, a forráskódja is közkincs kellene legyen. Támogatom ezt a felhívást, hogy több Szabad Szoftver licenccel rendelkező program legyen:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Oszd meg a"
+[spread_titleAfter]
+other= "oldalon"
+[spread_fediverse_customText]
+other= "Ha közpénzből van, legyen Szabad Szoftver! Támogatom @fsfe@mastodon.social #publiccode kampányát:"
+[spread_twitter_customText]
+other= "Ha közpénzből van, legyen Szabad Szoftver! Támogatom @fsfe #publiccode kampányát:"
+[spread_support_text]
+other= "Legyél Te is FSFE szponzor!"
 
 # Legal Section
 [legal_by]

@@ -113,6 +113,18 @@ other= "Obtenir du matériel de promotion"
 other= "Faire savoir à vos amis et followers à propos du code public:"
 [spread_defaultSocialText]
 other= "Si c’est de l’argent public, le code devrait être aussi public. Je suis pour plus de code public sous licence libre:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Partager sur"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Si c'est de l'argent public, le code doit être public aussi ! Je soutiens l'appel de @fsfe@mastodon.social's pour plus de #publiccode:"
+[spread_twitter_customText]
+other= "Si c'est de l'argent public, le code doit être public aussi ! Je soutiens l'appel de @fsfe pour plus de #publiccode:"
+[spread_support_text]
+other= "Devenez un soutien de la FSFE !"
 
 # Legal Section
 [legal_by]

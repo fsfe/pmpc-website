@@ -103,6 +103,18 @@ other= "Ζήτησε προωθητικό υλικό"
 other= "Μίλησε στους φίλους/ες και στις επαφές σου για τον Δημόσιο Κώδικα:"
 [spread_defaultSocialText]
 other= "Αν είναι δημόσιο χρήμα, θα έπρεπε να είναι δημόσιος κι ο κώδικας. Υποστηρίζω αυτό το κάλεσμα για περισσότερο δημόσιο κώδικα με μια άδεια Ελεύθερου Λογισμικού:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Μοίρασε στο"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το @fsfe@mastodon.social και το #publiccode:"
+[spread_twitter_customText]
+other= "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το κάλεσμα του @fsfe για #publiccode:"
+[spread_support_text]
+other= "Υποστήριξε το FSFE!"
 
 # Legal Section
 [legal_by]

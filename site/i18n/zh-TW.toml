@@ -103,6 +103,18 @@ other= "取得推廣素材"
 other= "告訴您的朋友與推友關於此活動："
 [spread_defaultSocialText]
 other= "使用納稅人的錢，就該做公開透明的資訊系統！我支持此活動，讓更多公家機關開發的軟體使用自由暨開源授權："
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "分享到"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @fsfe@mastodon.social 的呼籲！ #publiccode :"
+[spread_twitter_customText]
+other= "拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @fsfe 的呼籲！ #publiccode : "
+[spread_support_text]
+other= "支持歐洲自由軟體基金會！"
 
 # Legal Section
 [legal_by]

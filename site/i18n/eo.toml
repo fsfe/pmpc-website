@@ -103,6 +103,18 @@ other= "Akiru varbilojn"
 other= "Sciigu viajn amikojn kaj abonantojn pri publika kodo:"
 [spread_defaultSocialText]
 other= "Teme pri publika mono, temu pri publika kodo. Mi subtenas ĉi tiun vokon por pli da publika kodo sub liberaj permesiloj:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Publikigi en"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Teme pri publika mono, temu pri publika kodo! Mi vokas kun @fsfe@mastodon.social por pli da publika kodo! #publiccode:"
+[spread_twitter_customText]
+other= "Teme pri publika mono, temu pri publika kodo! Mi vokas kun @fsfe por pli da publika kodo! #publiccode:"
+[spread_support_text]
+other= "Fariĝu subtenanto de FSFE!"
 
 # Legal Section
 [legal_by]

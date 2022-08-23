@@ -1,0 +1,6 @@
+id: fediverse
+name: Fediverse
+titleBefore: true
+titleAfter: true
+userinput: true
+customText: spread_fediverse_customText

@@ -133,6 +133,18 @@ other= "Nabavite promotivne materijale"
 other= "Recite prijateljima i pratiteljima o javnom kôdu:"
 [spread_defaultSocialText]
 other= "Ako se radi o javnom novcu, tada i kôd treba biti javan. Podržavam ovaj poziv za više javnog kôda pod licencom slobodnog softvera:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Podijeli na mreži"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe@mastodon.social za javni kôd (#publiccode):"
+[spread_twitter_customText]
+other= "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe -ov poziv za javni kôd (#publiccode):"
+[spread_support_text]
+other= "Postanite podržavatelj FSFE-a!"
 
 # Legal Section
 [legal_by]

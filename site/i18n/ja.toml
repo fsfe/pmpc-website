@@ -133,6 +133,18 @@ other= "プロモーション素材を入手する"
 other= "友人やフォロワーに Public Code を伝えよう:"
 [spread_defaultSocialText]
 other= "もしそれが公的なお金によるものならば、公的なコードであるべきです。私はより公的なコードがフリーソフトウェアライセンスで公開されるよう、この声明を支持します。"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= " "
+[spread_titleAfter]
+other= "でシェア"
+[spread_fediverse_customText]
+other= "税金で作られたソフトはフリーソフトウェアとして公開すべき。@fsfe@mastodon.social の #publiccode の増加を求める声を支持します。"
+[spread_twitter_customText]
+other= "税金で作られたソフトはフリーソフトウェアとして公開すべき。@fsfe の #publiccode の増加を求める声を支持します。"
+[spread_support_text]
+other= "FSFE のサポーターになる！"
 
 # Legal Section
 [legal_by]

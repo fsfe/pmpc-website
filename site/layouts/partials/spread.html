@@ -8,11 +8,11 @@
               <a href="{{ .Site.Params.static.promoLink }}" class="btn btn-default btn-xl page-scroll wow tada">{{ i18n "spread_promoButtonText" }}</a>
               <hr class="light">
               <p class="text-faded">{{ i18n "spread_shareText" | markdownify }}</p>
-              
+
               <div class="share-buttons">
 
-              {{ $data := index .Site.Data.share .Site.Language.Lang }}
-              {{ partial "functions/share_buttons.html" (dict "type" "spread" "defaultSocialText" (i18n "spread_defaultSocialText") "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
+              {{ $data := index .Site.Data.share }}
+              {{ partial "functions/share_buttons.html" (dict "type" "spread" "url" .Site.Params.static.url "lang" ("/" | relLangURL) "data" $data) }}
               </div>
             </div>
         </div>

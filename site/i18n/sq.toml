@@ -117,6 +117,18 @@ other= "Merrni material promovues"
 other= "Tregoju miqve dhe ndjekësve tuaj rreth Kodit Publik:"
 [spread_defaultSocialText]
 other= "Nëse është para publike, duhet të jetë edhe kod publik. Unë e mbështes këtë thirrje për më shumë kod publik nën një licencë të Softuerit të Lirë:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Shpërndaje në"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes thirrjen e @fsfe@mastodon.social për më tepër #parapublikekodpublik:"
+[spread_twitter_customText]
+other= "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes nismën e @fsfe për më tepër #parapublikekodpublik:"
+[spread_support_text]
+other= "Bëhu një mbështetës i FSFE!"
 
 # Legal Section
 [legal_by]

@@ -103,6 +103,18 @@ other= "Skaff promomateriale"
 other= "Fortell dine venner og følgere om offentlig kode:"
 [spread_defaultSocialText]
 other= "Om det er offentlige penger, bør det også være offentlig kode. Jeg støtter oppropet for mer offentlig kode under en fri programvarelisens:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Del på"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Er det offentlige penger, bør det også være offentlig kode! Støtt @fsfe@mastodon.social oppropet for mer #offentligkode:"
+[spread_twitter_customText]
+other= "Er det offentlige penger, bør det også være offentlig kode! Støtt @fsfe oppropet for mer #offentligkode:"
+[spread_support_text]
+other= "Støtt FSFE!"
 
 # Legal Section
 [legal_by]

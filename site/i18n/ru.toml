@@ -117,6 +117,18 @@ other= "Заказать информационные материалы"
 other= "Расскажите своим друзьям и подписчикам о кампании:"
 [spread_defaultSocialText]
 other= "Если это бюджетные деньги, то это должен быть общедоступный код. Я поддерживаю призыв к использованию свободного программного обеспечения с открытым кодом!"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Поделиться"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe@mastodon.social поддержать #publiccode:"
+[spread_twitter_customText]
+other= "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe's поддержать #publiccode:"
+[spread_support_text]
+other= "Поддержите FSFE!"
 
 # Legal Section
 [legal_by]

@@ -133,6 +133,18 @@ other= "Infomaterial erhalten"
 other= "Erzähle deinen Freunden und Followern von Public Code:"
 [spread_defaultSocialText]
 other= "Öffentliches Geld? Öffentlicher Code! Ich unterstütze den Aufruf zu mehr öffentlichem Code unter einer Freie-Software-Lizenz:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Auf"
+[spread_titleAfter]
+other= "teilen"
+[spread_fediverse_customText]
+other= "Öffentliches Geld muss öffentlichen Code bedeuten! Ich unterstütze den Aufruf der @fsfe@mastodon.social für mehr #publiccode:"
+[spread_twitter_customText]
+other= "Öffentliches Geld muss öffentlichen Code bedeuten! Ich unterstütze den Aufruf der @fsfe für mehr #publiccode:"
+[spread_support_text]
+other= "Unterstütze die FSFE!"
 
 # Legal Section
 [legal_by]
