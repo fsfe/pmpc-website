@@ -67,17 +67,6 @@ should keep markup like `**`, `>`, `[fs]`, or `{{< fsdefinition >}}`. For
 hyperlinks like `[TEXT](http://link)`, please only translate the content inside
 the quare brackets (TEXT), the link has to stay the same obviously.
 
-### data/share/
-
-In `data/share/en/`, `data/share/it/` and so on there are tiny *.yaml* files
-for each share service we're offering (e.g. GNU Social or Diaspora).
-
-There are only a few strings to translate. `titleBefore` is the text in front
-of the service's name, `titleAfter` the one behind. You can fill both fields to
-translate it. In English, this may be *Share on XYZ*, in German it is *Auf XYZ
-teilen*. There's also `customText` sometimes where you can find instructions
-how to translate it.
-
 ### i18n/
 
 Here you can find one file for each language – e.g. `en.toml` for English,
