@@ -4,7 +4,6 @@
     <tr>
       <th>{{ i18n "subpage_signatures_tableName" }}</th>
       <th>{{ i18n "subpage_signatures_tableCountry" }}</th>
-      <th>{{ i18n "subpage_signatures_tableComment" }}</th>
     </tr>
   </thead>
   <tbody>
@@ -16,7 +15,6 @@
        <tr>
           <td>{{ .include_vars.name }}</td>
           <td>{{ (index (where $countries "genc2a" .include_vars.country) 0).name | default .include_vars.country}}</td> <!-- finds the two-letter code in countries.json (first match), and prints the full name -->
-          <td>{{ .include_vars.comment }}</td>
        </tr>
     {{ end }}
   </tbody>
