@@ -1011,6 +1011,13 @@
     "url": "https://mozilla.org"
   },
   {
+    "name": "MUELLNERS FOUNDATION",
+    "img": "MFlogo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.muellners.org/"
+  },
+  {
     "name": "Neutrinet",
     "img": "neutrinet.png",
     "orgtype": "national_ngo",
