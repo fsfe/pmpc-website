@@ -7,7 +7,9 @@ services:
   pmpc:
     container_name: pmpc
     build:
-      context: site
+      context: .
+      args:
+        - HUGO_DIR=/src/site
     image: pmpc
     restart: always
     logging:
