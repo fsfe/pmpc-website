@@ -1,8 +1,13 @@
+# SPDX-FileCopyrightText: Free Software Foundation Europe e.V.
+#
+# SPDX-License-Identifier: CC0-1.0
+
 version: "3"
 services:
   pmpc:
     container_name: pmpc
-    build: .
+    build:
+      context: site
     image: pmpc
     restart: always
     logging:
@@ -10,9 +15,10 @@ services:
       options:
         max-size: "5m"
         max-file: "5"
-    ports:
-      - "50:8080"
+    # Reverse proxy
     labels:
       proxy.host: "publiccode.eu"
       proxy.host_alias: "www.publiccode.eu"
-      proxy.port: "50"
+      proxy.port: "9260"
+    ports:
+      - "9260:8043"

@@ -18,19 +18,13 @@ steps:
           # do not copy sigs in pull requests to speed up builds
           - pull_request
 
-  - name: hugo
-    image: plugins/hugo
-    settings:
-      source: site
-      validate: true
-
   - name: deploy
-    image: docker/compose:1.29.2
+    image: docker:20
     environment:
       XDG_RUNTIME_DIR: "/run/user/1001"
       DOCKER_HOST: "unix:///run/user/1001/docker.sock"
     commands:
-      - docker-compose -p pmpc-website up --build -d
+      - docker compose -p pmpc-website up --build -d
     volumes:
       - name: dockersock
         path: /run/user/1001/docker.sock
