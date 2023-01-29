@@ -51,6 +51,6 @@ volumes:
       path: /srv/forms/pmpc/signatures.json
 ---
 kind: signature
-hmac: d58a928931a664eb701370b52e57115c7c28fdd82fe62b3251321209252188e4
+hmac: 7072ad806c76dee8ac77e916e2cd451de72a5d1739b4d32b7bb81610d63825d6
 
 ...
