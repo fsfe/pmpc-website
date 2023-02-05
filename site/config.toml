@@ -1,7 +1,8 @@
 baseurl = "https://publiccode.eu"
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 enableGitInfo = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 timeout = "30s"
