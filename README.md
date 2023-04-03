@@ -158,9 +158,8 @@ To trigger a build manually, use something like this:
 git commit --allow-empty -m 'Trigger build'
 ```
 
-## Maintainers
 
-[@max.mehl](https://git.fsfe.org/max.mehl)
+## Maintainers
 
 
 ## Licence
