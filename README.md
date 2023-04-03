@@ -161,6 +161,7 @@ git commit --allow-empty -m 'Trigger build'
 
 ## Maintainers
 
+[@tobiasd](https://git.fsfe.org/tobiasd)
 
 ## Licence
 
