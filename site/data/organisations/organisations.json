@@ -1032,6 +1032,13 @@
     "url": "https://www.nluug.nl/"
   },
   {
+    "name": "Norwegian Labour and Welfare Administration (NAV)",
+    "img": "NAV.png",
+    "orgtype": "administration",
+    "priority": "1",
+    "url": "https://nav.no/en"
+  },
+  {
     "name": "Obshtestvo",
     "img": "obshtestvo.png",
     "orgtype": "national_ngo",
