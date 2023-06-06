@@ -805,6 +805,13 @@
     "url": "https://www.isf.es"
   },
   {
+    "name": "Institute Rhea, Novo mesto",
+    "img": "Rhea-Institute.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://www.rhea.si"
+  },
+  {
     "name": "Integreat",
     "img": "integreat.png",
     "orgtype": "regional_ngo",
