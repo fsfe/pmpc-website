@@ -1025,6 +1025,13 @@
     "url": "https://www.muellners.org/"
   },
   {
+    "name": "Na-prostem",
+    "img": "na_prostem.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.na-prostem.si/about-project"
+ },
+ {
     "name": "Neutrinet",
     "img": "neutrinet.png",
     "orgtype": "national_ngo",
