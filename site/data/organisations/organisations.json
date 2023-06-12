@@ -805,6 +805,13 @@
     "url": "https://www.isf.es"
   },
   {
+    "name": "Institute for Electronic Participation",
+    "img": "INePA.png",
+    "orgtype": "national_ngo",
+    "priority": "0",
+    "url": "https://www.inepa.si/english/"
+  },
+  {
     "name": "Institute Rhea, Novo mesto",
     "img": "Rhea-Institute.png",
     "orgtype": "regional_ngo",
