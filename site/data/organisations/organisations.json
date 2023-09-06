@@ -533,7 +533,7 @@
   },
   {
     "name": "FAIR - Facility for Antiproton and Ion Research in Europe",
-    "img": "FAIR_logo.png",
+    "img": "fair_logo.png",
     "orgtype": "research_institutions",
     "priority": "0",
     "url": "https://fair-center.eu/"
@@ -750,7 +750,7 @@
   },
   {
     "name": "GSI Helmholtzzentrum für Schwerionenforschung",
-    "img": "GSI_logo.png",
+    "img": "gsi_logo.png",
     "orgtype": "research_institutions",
     "priority": "0",
     "url": "https://www.gsi.de/"
