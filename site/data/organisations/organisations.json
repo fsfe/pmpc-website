@@ -532,6 +532,13 @@
     "url": "https://www.faimaison.net/"
   },
   {
+    "name": "FAIR - Facility for Antiproton and Ion Research in Europe",
+    "img": "FAIR_logo.png",
+    "orgtype": "research_institutions",
+    "priority": "0",
+    "url": "https://fair-center.eu/"
+  },
+  {
     "name": "F-Droid",
     "img": "fdroid.png",
     "orgtype": "international_ngo",
@@ -740,6 +747,13 @@
     "orgtype": "regional_ngo",
     "priority": "0",
     "url": "https://gpul.org/"
+  },
+  {
+    "name": "GSI Helmholtzzentrum für Schwerionenforschung",
+    "img": "GSI_logo.png",
+    "orgtype": "research_institutions",
+    "priority": "0",
+    "url": "https://www.gsi.de/"
   },
   {
     "name": "gvSIG Association",
