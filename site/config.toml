@@ -124,6 +124,10 @@ timeout = "30s"
   languageCode  = "ru"
   languageName  = "Русский"
 
+[Languages.sl]
+  languageCode  = "sl"
+  languageName  = "slovenščina"
+
 [Languages.sq]
   languageCode  = "sq"
   languageName  = "Shqip"

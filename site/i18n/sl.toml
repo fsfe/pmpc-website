@@ -1,0 +1,191 @@
+# General strings
+[description]
+other= "Public Money, Public Code - Pobuda za izdajo programske opreme, financirane iz javnih sredstev, kot prosto programje (Free Software)"
+[fsdefinition]
+other= "Prosto programje lahko kdorkoli uporablja, preučuje, deli z drugimi in izboljšuje. Prav te pravice dodatno podkrepijo ostale temeljne svoboščine, kot so svoboda govora in tiska ter zasebnost."
+[javascript_warning]
+other = "<b>Obvestilo:</b> Nekatere funkcije spletne strani za delovanje potrebujejo javascript."
+
+# Navigation
+[navigation_links_start]
+other= "Začetek"
+[navigation_links_about]
+other= "O pobudi"
+[navigation_links_arguments]
+other= "Razlogi"
+[navigation_links_action]
+other= "Ukrepaj"
+[navigation_links_resources]
+other= "Dodatne vsebine"
+[navigation_links_spread]
+other= "Povej naprej"
+
+# Start banner
+[start_subtitle1]
+other= "Zakaj z javnimi sredstvi financirana programska oprema ni dostopna kot prosta programska oprema z odprtimi licencami?"
+[start_subtitle2]
+other= "Zavzemamo se za uveljavitev ustrezne zakonodaje, ki bo od javnega sektorja zahtevala, da se programska oprema, izdelana z javnimi sredstvi, objavi v skladu z [načeli prostega programja](https://fsfe.org/freesoftware). Prosto programje lahko kdorkoli uporablja, preučuje, deli z drugimi in izboljšuje, to pa pripomore k zagotavljanju temeljnih človekovih pravic, kot so svoboda govora in tiska ter zasebnost. Ko gre za javni denar, naj bo tudi koda javna."
+[start_subtitle3]
+other= "**Koda, ki jo financirajo državljani, mora biti na voljo za uporabo, preučevanje, deljenje in izboljšave!**"
+
+# About section
+[about_headline]
+other= "Zveni zapleteno, vendar je precej preprosto!"
+[about_buttonText]
+other= "Druge prednosti"
+
+# Arguments section
+[arguments_headline]
+other= "Razlogi za javno kodo"
+[arguments_followup]
+other= "Če se strinjaš, da bi morala biti javno financirana programska oprema javnosti tudi v celoti dostopna, nam pomagaj **prepričati naše politične predstavnike**."
+[arguments_buttonText]
+other= "Podpiši odprto pismo"
+[arguments_list_title_1]
+other= "Varčnost proračuna"
+[arguments_list_description_1]
+other= "Podobne programske opreme ni potrebno razvijati ponovno."
+[arguments_list_title_2]
+other= "Sodelovanje"
+[arguments_list_description_2]
+other= "Projekti lahko med seboj delijo znanje, izkušnje in stroške."
+[arguments_list_title_3]
+other= "Javna korist"
+[arguments_list_description_3]
+other= "Programi, ki jih javnost plača, naj javnosti tudi služijo."
+[arguments_list_title_4]
+other= "Spodbujanje inovacij"
+[arguments_list_description_4]
+other= "S transparentnimi postopki razvoja programov nam ni treba vedno znova odkrivati tople vode."
+
+# Action section
+[action_headline]
+other= "Razloži svojim političnim predstavnicam!"
+[action_intro]
+other= "Z našim [**odprtim pismom**](openletter/) zahtevamo:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "“Vpeljite zakonodajo, ki zahteva, da se z javnimi sredstvi financirana programska oprema izda kot prosta programska oprema z [ustrezno licenco za prosto in odprtokodno programje](https://fsfe.org/freesoftware).”"
+[action_description]
+other= "**$ORGS** organizacij in **$INDS** oseb je s podpisom [odprtega pisma](openletter/) pobudi že izkazalo svojo podporo. Tudi ti nam lahko pomagaš s svojim podpisom. Zbrane podpise bomo posredovali političnim predstavnikom širom Evrope, ki trenutno razpravljajo o mestu proste programske opreme v javni upravi."
+[action_box_text]
+other= "Že **$INDS PODPISOV** – podpiši odprto pismo tudi ti!"
+[action_form_name]
+other= "Ime (obvezno)"
+[action_form_email]
+other= "Naslov e-pošte (obvezno)"
+[action_form_country]
+other= "Država"
+[action_form_zip]
+other= "Poštna številka"
+[action_form_comment]
+other= "Komentar (največ 140 znakov)"
+[action_form_permPriv]
+other= "Strinjam se s [politiko zasebnosti](privacy/)"
+[action_form_permNews]
+other= "Želim prejemati novice o tej pobudi"
+[action_form_permPub]
+other= "Želim, da se moj podpis pokaže na [seznamu podpisov](openletter/all-signatures)"
+[action_form_submit]
+other= "Podpiši!"
+
+# Organisations section
+[organisations_headline]
+other= "Organizacije, ki nas podpirajo"
+[organisations_text]
+other= "Naslednje organizacije so [odprto pismo](openletter/) že podpisale. Če tudi tvoja organizacija želi sodelovati in podpira pobudo, [stopite v stik z nami](mailto:contact@fsfe.org)."
+[organisations_administration]
+other = "Uprave"
+[organisations_all]
+other = "Vse"
+[organisations_corporate]
+other = "Podjetja"
+[organisations_international_ngo]
+other = "Mednarodne NVO"
+[organisations_national_ngo]
+other = "Državne NVO"
+[organisations_regional_ngo]
+other = "Območne NVO"
+
+# Resources section
+[resources_list_title_1]
+other= "Zadnje novice"
+[resources_list_description_1]
+other= "Zadnje posodobitve glede te pobude in javne kode v Evropi."
+[resources_list_title_2]
+other= "Strokovna brošura"
+[resources_list_description_2]
+other= "Preberite letak, ki razloži prednosti prostega programja za javno upravo izpod peres kompetentnih strokovnjakinj."
+[resources_list_title_3]
+other= "Za medije"
+[resources_list_description_3]
+other= "Logotipi, strnjene informacije ter kolofon za članke."
+
+# Spread the word section
+[spread_headline]
+other= "Povej naprej!"
+[spread_promoText]
+other= "Naroči plakate in nalepke pri FSFE"
+[spread_promoButtonText]
+other= "Prenesi promocijsko gradivo"
+[spread_shareText]
+other= "Širi pomen prostega programja svojim prijateljem in sledilcem:"
+[spread_defaultSocialText]
+other= "Ko gre za javni denar, naj bo tudi koda javna. Podpiram pobudo, ki se zavzema za več javne kode izdane pod licencami proste programske opreme:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Deli na"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Ko gre za javni denar, naj bo tudi koda javna. Podpiram pobudo @fsfe@mastodon.social za več #publiccode:"
+[spread_twitter_customText]
+other= "Ko gre za javni denar, naj bo tudi koda javna. Podpiram pobudo @fsfe glede #publiccode:"
+[spread_support_text]
+other= "Finančno podpri FSFE!"
+
+# Legal Section
+[legal_by]
+other= "Pobuda Free Software Foundation Europe"
+[legal_imprint]
+other= "Kolofon"
+[legal_privacy]
+other= "Zasebnost"
+[legal_transparency]
+other= "Transparentnost"
+[legal_contribute1]
+other= "Ta spletna stran je prosto programje."
+[legal_contribute2]
+other= "Prispevki so doborodošli!"
+[translation_status]
+other="Informacije o prevodih"
+[legal_license]
+other= "Avtorsko delo je objavljeno pod dovoljenjem [Creative Commons BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Preberi to stran v drugem jeziku"
+
+# 404 Error Page
+[error_headline]
+other= "Napaka 404 - stran ni najdena"
+[error_description]
+other= "Stran, ki jo iščeš, ne obstaja."
+[error_button]
+other= "Nazaj na začetno stran"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Posamezniki, ki so podpisali odprto pismo"
+[subpage_signatures_description]
+other= "Spodaj je seznam posameznikov, ki so dovolili, da se njihovo ime objavi na seznamu podpisnikov. Bodi eden izmed njih!"
+[subpage_signatures_allSignatures]
+other= "Preglej [vse javne podpise](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Ime"
+[subpage_signatures_tableCountry]
+other= "Država"
+[subpage_signatures_tableComment]
+other= "Komentar"
