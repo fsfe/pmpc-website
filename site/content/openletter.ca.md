@@ -18,7 +18,7 @@ Aquí és on podeu ajudar! Signeu la carta oberta per a donar més pes al nostre
 
 > 
 > * Prohibeixen compartir i intercanviar codi finançat públicament. Això evita la cooperació entre les administracions públiques i dificulta encara més el seu desenvolupament.
-> * Dóna suport a monopolis dificultant la competència. Com a resultat, moltes administracions depenen d'un grapat d'empreses.
+> * Dona suport a monopolis dificultant la competència. Com a resultat, moltes administracions depenen d'un grapat d'empreses.
 > * Representen una amenaça per a la seguretat de la nostra infraestructura digital en prohibir l'accés al codi font. Això fa que tancar portes del darrere i solucionar forats de seguretat sigui extremadament difícil, si no del tot impossible.
 >
 > Ens cal programari que potenciï la compartició de bones idees i solucions. Ens agradaria ser capaços de millorar els serveis tecnològics per a la gent de tota Europa. Ens cal programari que garanteix la llibertat d'elecció, d'accés i de competència. Ens cal programari que ajudi les administracions públiques a recuperar el control total de la seva infraestructura digital, que els permet mantenir-se independents d'un grapat d'empreses. És per això que fem una crida als nostres representants a donar suport al programari lliure i de codi obert en les administracions públiques, perquè:
@@ -33,4 +33,4 @@ Aquí és on podeu ajudar! Signeu la carta oberta per a donar més pes al nostre
 > 
 > **"Implementar una legislació que exigeixi que el programari finançat amb fons públics i desenvolupat pel sector públic estigui disponible públicament sota una llicència de programari lliure i obert.."**
 
-[fs]: https://fsfe.org/freesoftware/ "El programari lliure dóna el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.."
+[fs]: https://fsfe.org/freesoftware/ "El programari lliure dona el dret a tothom a utilitzar, estudiar, compartir i millorar el programari. Aquest dret ajuda a recolzar altres llibertats fonamentals com la llibertat d'expressió, premsa o privadesa.."
