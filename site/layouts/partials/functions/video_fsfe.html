@@ -1,5 +1,5 @@
 {{ $langext := "" }}
-{{ if or (eq .Lang "da") (eq .Lang "de") (eq .Lang "fr") (eq .Lang "it") (eq .Lang "nl") (eq .Lang "pt") (eq .Lang "ru") (eq .Lang "es") (eq .Lang "sv") (eq .Lang "ja") }}
+{{ if or (eq .Lang "da") (eq .Lang "de") (eq .Lang "fr") (eq .Lang "it") (eq .Lang "nl") (eq .Lang "pt") (eq .Lang "ru") (eq .Lang "es") (eq .Lang "sv") (eq .Lang "ja") (eq .Lang "sl") }}
   {{ $langext = (printf "_%s" .Lang) }}
 {{ end }}
 <center>
@@ -25,6 +25,7 @@
     <track src="/video-subs/webvtt/pmpc_pt.vtt" kind="subtitles" srclang="pt" label="Português">
     <track src="/video-subs/webvtt/pmpc_ru.vtt" kind="subtitles" srclang="ru" label="Русский">
     <track src="/video-subs/webvtt/pmpc_sk.vtt" kind="subtitles" srclang="sk" label="Slovenský">
+    <track src="/video-subs/webvtt/pmpc_sl.vtt" kind="subtitles" srclang="sl" label="slovenščina">
     <track src="/video-subs/webvtt/pmpc_sq.vtt" kind="subtitles" srclang="sq" label="Shqip">
     <track src="/video-subs/webvtt/pmpc_sv.vtt" kind="subtitles" srclang="sv" label="Svenska">
     <track src="/video-subs/webvtt/pmpc_tr.vtt" kind="subtitles" srclang="tr" label="Türkçe">
