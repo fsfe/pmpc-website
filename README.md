@@ -16,7 +16,6 @@ The page is visible at [publiccode.eu](https://publiccode.eu).
 - [Maintainers](#maintainers)
 - [Licence](#licence)
 
-
 ## Contribute
 
 ### Prerequisites
