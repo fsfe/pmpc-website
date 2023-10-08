@@ -6,7 +6,7 @@ version: 2
 ---
 
 S spletno stranjo **publiccode.eu** upravlja
-[FSFEe.V.](https://fsfe.org/about/legal/imprint.html) V nadaljevanju uporabljana prva oseba množine se nanaša na FSFE.
+[FSFE e.V.](https://fsfe.org/about/legal/imprint.html) V nadaljevanju uporabljana prva oseba množine se nanaša na FSFE.
 
 ## Kaj hranimo in čemu
 
