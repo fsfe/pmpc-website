@@ -902,6 +902,13 @@
     "priority": "0",
     "url": "https://www.konglomerat.org/"
   },
+   {
+    "name": "Kompot",
+    "img": "kompot.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://kompot.si"
+  },
   {
     "name": "La Paillasse",
     "img": "lapaillasse.png",
