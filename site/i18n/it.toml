@@ -107,6 +107,8 @@ other = "ONG internazionali"
 other = "ONG nazionali"
 [organisations_regional_ngo]
 other = "ONG locali"
+[organisations_research_nstitutions]
+other = "Istituti di ricerca"
 
 # Resources section
 [resources_list_title_1]

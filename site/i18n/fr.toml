@@ -101,6 +101,9 @@ other = "ONGs internationales"
 other = "ONGs nationales"
 [organisations_regional_ngo]
 other = "ONGs régionales"
+[organisations_research_nstitutions]
+other = "Instituts de recherche"
+
 
 # Spread the word section
 [spread_headline]
