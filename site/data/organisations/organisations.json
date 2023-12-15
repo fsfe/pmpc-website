@@ -1480,6 +1480,13 @@
     "url": "https://www.torproject.org/"
   },
   {
+    "name": "The OpenLDAP Project",
+    "img": "openldap.png",
+    "orgtype": "international_ngo",
+    "priority": "1",
+    "url": "https://openldap.org"
+  },
+  {
     "name": "ThisHosting.Rocks",
     "img": "thishostingrocks.png",
     "orgtype": "international_ngo",
