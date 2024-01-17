@@ -721,6 +721,13 @@
     "url": "https://www.gimp.org/"
   },
   {
+    "name": "GNU Radio",
+    "img": "gnuradio_logo.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://www.gnuradio.org/"
+  },
+  {
     "name": "GNU Solidario",
     "img": "gnusolidario.png",
     "orgtype": "international_ngo",
