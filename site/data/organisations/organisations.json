@@ -1123,6 +1123,13 @@
     "url": "https://openfabnet.com/"
   },
   {
+    "name": "OPEN GENOVA APS",
+    "img": "opengenova_logo.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://associazione.opengenova.org/"
+  },
+  {
     "name": "Open Knowledge Belgium",
     "img": "okbe.png",
     "orgtype": "national_ngo",
