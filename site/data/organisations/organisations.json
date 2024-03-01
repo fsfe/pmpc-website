@@ -503,6 +503,13 @@
     "priority": "1",
     "url": "https://edri.org"
   },
+   {
+    "name": "eXO - Associació expansió de la Xarxa Oberta",
+    "img": "exo.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://eXO.cat"
+  },
   {
     "name": "ExposeFacts",
     "img": "exposefacts.png",
