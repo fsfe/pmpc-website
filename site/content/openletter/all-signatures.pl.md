@@ -5,7 +5,7 @@ layout: subpage
 version: 1
 ---
 
-To jest kompletna lista wszystkich ludzi, którzy podpisali list otwarty i zgodzili się na publiczne udostępnienie swoich danych. {{< count type="signatures" >}} ludzi wyraziło już swoje poparcie – czy jesteś jednym z nich?
+To kompletna lista wszystkich osób, które podpisało list otwarty i zgodziło się na publiczne udostępnienie swoich danych. Już {{< count type="signatures" >}} osób wyraziło swoje poparcie – czy jesteś jedną z nich?
 
 Lista jest aktualizowana co godzinę.
 

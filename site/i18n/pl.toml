@@ -1,6 +1,6 @@
 # General strings
 [description]
-other= "Publiczne Peniądze, Publiczny Kod – Kampania na rzecz publikowania oprogramowania finansowanego z środków publicznych jako wolnego oprogramowania."
+other= "Publiczne Pieniądze, Publiczny Kod – Kampania na rzecz udostępniania oprogramowania finansowanego z środków publicznych jako wolnego oprogramowania."
 [fsdefinition]
 other= "Wolne Oprogramowanie daje każdemu prawo do uruchamiania, analizowania, rozpowszechniania i udoskonalania oprogramowania. Te cztery prawa uzupełniają prawa podstawowe takie jak wolność słowa, prasy czy prawo do prywatności."
 [javascript_warning]
@@ -24,7 +24,7 @@ other= "Podziel się ze światem"
 [start_subtitle1]
 other= "Dlaczego oprogramowanie wytworzone z pieniędzy podatników nie jest wolne?"
 [start_subtitle2]
-other= "Chcemy zmian prawnych wymagających, aby oprogramowanie finansowane ze środków publicznych dla publicznego sektora było publicznie widoczne jako [Wolne i Otwarte Oprogramowanie](https://fsfe.org/freesoftware/ \"Wolne oprogramowanie daje wszystkim prawo do używania, czytania, rozpowszechniania i ulepszania oprogramowania. Te prawa pozwalają nam wspierać inne prawa podstawowe jak prawo do wolności wypowiedzi, wolności prasy czy prawo do prywatności.\"). Publiczne Peniądze, Publiczny Kod."
+other= "Chcemy zmian prawnych wymagających, aby oprogramowanie finansowane ze środków publicznych dla publicznego sektora było publicznie udostępniane jako [Wolne i Otwarte Oprogramowanie](https://fsfe.org/freesoftware/ \"Wolne Oprogramowanie daje każdemu prawo do uruchamiania, analizowania, rozpowszechniania i udoskonalania oprogramowania. Te cztery prawa uzupełniają prawa podstawowe takie jak wolność słowa, prasy czy prawo do prywatności.\"). Publiczne Pieniądze, Publiczny Kod."
 [start_subtitle3]
 other= "**Oprogramowanie opłacone przez społeczeństwo powinno być dostępne dla społeczeństwa!**"
 
@@ -66,11 +66,11 @@ other= "W naszym [**otwartym liście**](openletter/) domagamy się:"
 
 # In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
 [action_demand]
-other= "“Implementacji prawa wymagającego, aby publicznie finansowane oprogramowanie wytwarzane dla sektora publicznego było publicznie dostępne jako [Wolne i Otwarte Oprogramowanie](https://fsfe.org/freesoftware/ \"Wolne Oprogramowanie daje wszystkim prawo do używania, czytania, udostępniania i ulepszania oprogramowania. Te prawa pozwalają nam wspierać inne podstawowe prawa jak prawo do wolności wypowiedzi, wolności prasy czy prawo do prywatności.\") licencja”"
+other= "“Implementacji prawa wymagającego, aby publicznie finansowane oprogramowanie wytwarzane dla sektora publicznego było publicznie dostępne jako [Wolne i Otwarte Oprogramowanie](https://fsfe.org/freesoftware/ \"Wolne Oprogramowanie daje każdemu prawo do uruchamiania, analizowania, rozpowszechniania i udoskonalania oprogramowania. Te cztery prawa uzupełniają prawa podstawowe takie jak wolność słowa, prasy czy prawo do prywatności.\") licencja”"
 [action_description]
 other= "**$ORGS** organizacje i **$INDS** osoby, które już teraz wspierają to wezwanie do działania poprzez podpisanie naszego [listu otwartego](openletter/). Możesz pomóc nam w osiągnięciu sukcesu podpisując ten list. Wszystkie podpisy przekażemy do przedstawicieli w całej Europie, którzy zajmują się wolnym oprogramowaniem w administracji publicznej."
 [action_box_text]
-other= "Podpisane przez **$INDS SIGNATURES** – podpisz list otwarty już dziś!"
+other= "Zebraliśmy **$INDS PODPISÓW** – podpisz list otwarty już dziś!"
 [action_form_name]
 other= "Imię (wymagane)"
 [action_form_email]
@@ -112,11 +112,11 @@ other = "Regionalne NGOs"
 [resources_list_title_1]
 other= "Najnowsze wiadomości"
 [resources_list_description_1]
-other= "Najświeższe infromacje o tej kampanii i wolnym oprogramowaniu w Europie"
+other= "Najświeższe informacje o kampanii i wolnym oprogramowaniu w Europie"
 [resources_list_title_2]
 other= "Opinia eksperta"
 [resources_list_description_2]
-other= "Przeczytaj broszurę wyjaśniającą zalety Wolnego i Otwartego Oprogramowania w administracji publicznej, napisaną przez ekspertów w tej dziedzinie"
+other= "Przeczytaj naszą broszurę wyjaśniającą zalety Wolnego i Otwartego Oprogramowania opracowaną przez specjalistów z zakresu administracji publicznej"
 [resources_list_title_3]
 other= "Media i Prasa"
 [resources_list_description_3]
@@ -132,7 +132,7 @@ other= "Materiały promocyjne"
 [spread_shareText]
 other= "Opowiedz swoim znajomym o Publicznym Kodzie:"
 [spread_defaultSocialText]
-other= "Publiczne pieniądze, publiczny kod. Wspieram to inicjatywę na rzecz udostępnienia kodu jako Wolne i Otwarte oprogramowanie:"
+other= "Publiczne pieniądze, publiczny kod. Wspieram tę inicjatywę na rzecz udostępnienia kodu jako Wolne i Otwarte oprogramowanie:"
 # Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
 # This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
 [spread_titleBefore]
