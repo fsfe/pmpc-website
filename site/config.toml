@@ -147,3 +147,10 @@ timeout = "30s"
 [Languages.zh-HK]
   languageCode  = "zh-HK"
   languageName  = "繁體中文（香港）"
+
+# Ignore readmes in datadir
+[module]
+[[module.mounts]]
+  source = 'data'
+  target = 'data'
+  excludeFiles = ['**/*.md']

@@ -1,0 +1,220 @@
+{{ "<!-- MEPS -->" | safeHTML }}
+<section class="bg-primary" id="meps">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-11 col-lg-offset-1 text-center">
+                <h2 class="section-heading">{{ i18n "subpage_meps_headline" }}</h2>
+                <div class="filter-meps text-left">
+                    <form>
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <label for="country">{{ i18n "subpage_meps_country" }}</label>
+                                    </td>
+                                    <td>
+                                        <select id="country">
+                                            {{ $countries := slice "All"}}
+                                            {{ range $.Site.Data.budget.meps }}
+                                            {{ range .Constituencies }}
+                                            {{ $countries = ($countries | append .country) }}
+                                            {{ end }}
+                                            {{ end }}
+                                            {{ $countries = ($countries | uniq)}}
+                                            {{ range $countries }}
+                                            <option value="{{.}}">{{.}}</option>
+                                            {{ end }}
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="group">{{ i18n "subpage_meps_group" }}</label>
+                                    </td>
+                                    <td>
+                                        <select id="group">
+                                            {{ $groups := slice "All"}}
+                                            {{ range $.Site.Data.budget.meps }}
+                                            {{ range .Groups }}
+                                            {{ $groups = ($groups | append .Organization) }}
+                                            {{ end }}
+                                            {{ end }}
+                                            {{ $groups = ($groups | uniq)}}
+                                            {{ range $groups }}
+                                            <option value="{{.}}">{{.}}</option>
+                                            {{ end }}
+                                        </select>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label for="supportsFs">{{ i18n "subpage_meps_supportsfs" }}</label>
+                                    </td>
+                                    <td>
+                                        <select id="supportsFs">
+                                            {{ $states := slice "All" "Unknown"}}
+                                            {{ range $.Site.Data.budget.meps }}
+                                            {{ if .supportsFs }}
+                                            {{ $states = ($states | append .supportsFs) }}
+                                            {{ end }}
+                                            {{ end }}
+                                            {{ $states = ($states | uniq)}}
+                                            {{ range $states }}
+                                            <option value="{{.}}">{{.}}</option>
+                                            {{ end }}
+                                        </select>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <input id="filter-mep-btn"
+                               type="button"
+                               value='{{ i18n "subpage_meps_search" }}'
+                               onclick="filterMeps()" />
+                    </form>
+                </div>
+                <div id="meps">
+                    {{ range $.Site.Data.budget.meps }}
+                <div id="{{ .Name.full }}" class="mep personbox" {{ if .supportsFs }} supportsfs="{{ .supportsFs }}" {{ else }} supportsfs="Unknown" {{ end }} {{ range .Constituencies }} {{ if eq .end "9999-12-31T00:00:00" }} country="{{ .country }}" {{ end }} {{ end }} {{ range .Groups }} {{ if eq .role "Member" }} {{ if eq .end "9999-12-31T00:00:00" }} group="{{ .Organization }}" {{ end }} {{ end }} {{ end }}>
+                    <img src="/img/meps/{{ .UserID }}.jpg" alt="Image of MEP {{ .Name.full }}" />
+                    <div class="description">
+                        <!-- name, photo, group, constituencies (country), committees, social media (twitter, later is fb, so all you can get), adresses, mail, hompage -->
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <td>{{ i18n "subpage_meps_fullname" }}</td>
+                                    <td>{{ .Name.full }}</td>
+                                </tr>
+                                <tr>
+                                    <td>{{ i18n "subpage_meps_supportsfs" }}</td>
+                                    <td>
+                                        {{ if .supportsFs }}
+                                        {{ .supportsFs }}
+                                    {{ else }}
+                                        Unknown
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>{{ i18n "subpage_meps_supportsfs_source" }}</td>
+                                    <td>
+                                        {{ if .supportsFsSources }}
+                                        {{ range .supportsFsSources }}
+                                        <a href='{{.href}}'>{{ .text }},</a>
+                                        {{ end }}
+                                    {{ else }}
+                                        {{ i18n "subpage_meps_noinformation" }}
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>{{ i18n "subpage_meps_country" }}</td>
+                                    <td>
+                                        {{ range .Constituencies }}
+                                        {{ if eq .end "9999-12-31T00:00:00" }}
+                                        {{ .country }}
+                                        {{ end }}
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>{{ i18n "subpage_meps_group" }}</td>
+                                    <td>
+                                        {{ range .Groups }}
+                                        {{ if eq .role "Member" }}
+                                        {{ if eq .end "9999-12-31T00:00:00" }}
+                                        {{ .Organization }}
+                                        {{ end }}
+                                        {{ end }}
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>{{ i18n "subpage_meps_committees" }}</td>
+                                    <td>
+                                        {{ range .Committees }}
+                                        {{ if eq .role "Member" }}
+                                        {{ if eq .end "9999-12-31T00:00:00" }}
+                                        {{ .Organization }}
+                                        {{ end }}
+                                        {{ end }}
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                {{ if .Homepage }}
+                                <tr>
+                                    <td>Homepage</td>
+                                    <td>
+                                        {{ range .Homepage }}
+                                        <a href="{{.}}">{{.}}</a>
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                {{ end }}
+                                {{ with .Addresses }}
+                                <tr>
+                                    <td>Addresses</td>
+                                    <td>
+                                        <p>
+                                            {{ if .Brussels.Phone }}
+                                            <a href="tel:{{.Phone}}">Brussels Phone: {{.Brussels.Phone}}</a>
+                                            <br />
+                                            {{ end }}
+                                            {{ if .Strasbourg.Phone }}
+                                            <a href="tel:{{.Phone}}">Strasbourg Phone: {{.Strasbourg.Phone}}</a>
+                                            <br />
+                                            {{ end }}
+                                        </p>
+                                    </td>
+                                </tr>
+                                {{ end }}
+                                {{ if .Twitter }}
+                                <tr>
+                                    <td>Twitter</td>
+                                    <td>
+                                        {{ range .Twitter }}
+                                        <a href="{{.}}">{{.}}</a>
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                {{ end }}
+                                {{ if .Facebook }}
+                                <tr>
+                                    <td>Facebook</td>
+                                    <td>
+                                        {{ range .Facebook }}
+                                        <a href="{{.}}">{{.}}</a>
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                {{ end }}
+                                {{ if .Instagram }}
+                                <tr>
+                                    <td>Instagram</td>
+                                    <td>
+                                        {{ range .Instagram }}
+                                        <a href="{{.}}">{{.}}</a>
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                {{ end }}
+                                {{ if .Mail }}
+                                <tr>
+                                    <td>Mail</td>
+                                    <td>
+                                        {{ range .Mail }}
+                                        <a href="mailto:{{.}}">{{.}}</a>
+                                        {{ end }}
+                                    </td>
+                                </tr>
+                                {{ end }}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+</section>

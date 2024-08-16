@@ -2,8 +2,15 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-version: "3"
 services:
+  mep-image-fetcher:
+    container_name: mep-image-fetcher
+    build:
+      context: .
+      dockerfile: ./mep-image-fetcher/Dockerfile
+    image: mep-image-fetcher
+    volumes:
+      - pmpc-website-mep-pics:/mep-image-fetcher/meps
   pmpc:
     container_name: pmpc
     build:
@@ -24,3 +31,7 @@ services:
       proxy.port: "9260"
     ports:
       - "9260:8043"
+    volumes:
+      - pmpc-website-mep-pics:/srv/http/img/meps
+volumes:
+  pmpc-website-mep-pics:

@@ -19,6 +19,8 @@ other= "Take Action"
 other= "Resources"
 [navigation_links_spread]
 other= "Spread the Word"
+[navigation_links_budget]
+other= "Budget"
 
 # Start banner
 [start_subtitle1]
@@ -191,3 +193,22 @@ other= "Name"
 other= "Country"
 [subpage_signatures_tableComment]
 other= "Comment"
+
+[subpage_meps_headline]
+other= "Meps, and their support for Free Software"
+[subpage_meps_country]
+other="Country"
+[subpage_meps_group]
+other="Group"
+[subpage_meps_supportsfs]
+other="Supports Free Software?"
+[subpage_meps_supportsfs_source]
+other="Sources for supports Free Software?"
+[subpage_meps_noinformation]
+other="No information available"
+[subpage_meps_search]
+other="Filter"
+[subpage_meps_fullname]
+other="Name"
+[subpage_meps_committees]
+other="Committees"

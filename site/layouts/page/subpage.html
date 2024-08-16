@@ -21,6 +21,10 @@
           {{ partial "organisations.html" . }}
           {{ partial "sub-pages/sigtable.html" . }}
         {{ end }}
+
+        {{ if eq .Params.budget_meps true }}
+          {{ partial "sub-pages/budget_meps.html" . }}
+        {{ end }}
         
         {{ partial "language.html" . }}
         
