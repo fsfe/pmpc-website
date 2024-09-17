@@ -11,7 +11,7 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
-  {{- if eq $uptodate false }} <!-- if at least one translation failed -->
+  {{- if and (eq $uptodate false) (ne .File nil) }} <!-- if at least one translation failed -->
     <h3><a href="{{ .Permalink }}">{{ .File.Path }}</a></h3>
     <table class="transstatus">
       <thead><tr>
