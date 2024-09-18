@@ -6,9 +6,9 @@
         <p>{{ i18n "language_description" }}:</p>
         <p style="font-size:25px;"><i class="fa fa-globe" aria-hidden="true" style="font-size:1.5em;vertical-align:top;"></i></p>
         <ul>
-          <li>{{ .Site.Params.languageName }}</li>
+          <li>{{ .Site.Language }}</li>
           {{ range sort .Translations ".Lang" "asc" }}
-            <li><a href="{{ .RelPermalink }}">{{ .Site.Params.languageName }}</a></li>
+            <li><a href="{{ .RelPermalink }}">{{ or .Language.LanguageName .Language.Lang }}</a></li>
           {{end}}
         </ul>
       </div>
