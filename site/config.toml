@@ -55,95 +55,97 @@ timeout = "30s"
 
 # === TRANSLATIONS ===
 [Languages]
+  [Languages.ca]
+    languageCode  = "ca"
+    languageName  = "Català"
 
-[Languages.ca]
-  languageCode  = "ca"
-  languageName  = "Català"
+  [Languages.da]
+    languageCode  = "da"
+    languageName  = "Dansk"
 
-[Languages.da]
-  languageCode  = "da"
-  languageName  = "Dansk"
+  [Languages.de]
+    languageCode  = 'de'
+    languageDirection = 'ltr'
+    languageName  = 'Deutsch'
 
-[Languages.de]
-  languageCode  = "de"
-  languageName  = "Deutsch"
+  [Languages.el]
+    languageCode  = "el"
+    languageName  = "Ελληνικά"
 
-[Languages.el]
-  languageCode  = "el"
-  languageName  = "Ελληνικά"
+  [Languages.en]
+    languageCode = "en"
+    languageName = "English"
+    languageDirection = 'ltr'
+    weight = 1
 
-[Languages.en]
-  languageCode  = "en"
-  languageName  = "English"
+  [Languages.eo]
+    languageCode  = "eo"
+    languageName  = "Esperanto"
 
-[Languages.eo]
-  languageCode  = "eo"
-  languageName  = "Esperanto"
+  [Languages.es]
+    languageCode  = "es"
+    languageName  = "Español"
 
-[Languages.es]
-  languageCode  = "es"
-  languageName  = "Español"
-  
-[Languages.fr]
-  languageCode  = "fr"
-  languageName  = "Français"
+  [Languages.fr]
+    languageCode  = "fr"
+    languageName  = "Français"
 
-[Languages.hr]
-  languageCode  = "hr"
-  languageName  = "Hrvatski"
+  [Languages.hr]
+    languageCode  = "hr"
+    languageName  = "Hrvatski"
 
-[Languages.hu]
-  languageCode  = "hu"
-  languageName  = "Magyar"
+  [Languages.hu]
+    languageCode  = "hu"
+    languageName  = "Magyar"
 
-[Languages.it]
-  languageCode  = "it"
-  languageName  = "Italiano"
+  [Languages.it]
+    languageCode  = "it"
+    languageName  = "Italiano"
 
-[Languages.ja]
-  languageCode  = "ja"
-  languageName  = "日本語"
+  [Languages.ja]
+    languageCode  = "ja"
+    languageName  = "日本語"
 
-[Languages.nb]
-  languageCode  = "nb"
-  languageName  = "Norsk (bokmål)"
+  [Languages.nb]
+    languageCode  = "nb"
+    languageName  = "Norsk (bokmål)"
 
-[Languages.nl]
-  languageCode  = "nl"
-  languageName  = "Nederlands"
+  [Languages.nl]
+    languageCode  = "nl"
+    languageName  = "Nederlands"
 
-[Languages.pl]
-  languageCode  = "pl"
-  languageName  = "Polski"
+  [Languages.pl]
+    languageCode  = "pl"
+    languageName  = "Polski"
 
-[Languages.pt]
-  languageCode  = "pt"
-  languageName  = "Português"
+  [Languages.pt]
+    languageCode  = "pt"
+    languageName  = "Português"
 
-[Languages.ru]
-  languageCode  = "ru"
-  languageName  = "Русский"
+  [Languages.ru]
+    languageCode  = "ru"
+    languageName  = "Русский"
 
-[Languages.sl]
-  languageCode  = "sl"
-  languageName  = "slovenščina"
+  [Languages.sl]
+    languageCode  = "sl"
+    languageName  = "slovenščina"
 
-[Languages.sq]
-  languageCode  = "sq"
-  languageName  = "Shqip"
+  [Languages.sq]
+    languageCode  = "sq"
+    languageName  = "Shqip"
 
-[Languages.sv]
-  languageCode  = "sv"
-  languageName  = "Svenska"
+  [Languages.sv]
+    languageCode  = "sv"
+    languageName  = "Svenska"
 
-[Languages.tr]
-  languageCode  = "tr"
-  languageName  = "Türkçe"
+  [Languages.tr]
+    languageCode  = "tr"
+    languageName  = "Türkçe"
 
-[Languages.zh-TW]
-  languageCode  = "zh-TW"
-  languageName  = "正體中文（臺灣）"
+  [Languages.zh-TW]
+    languageCode  = "zh-TW"
+    languageName  = "正體中文（臺灣）"
 
-[Languages.zh-HK]
-  languageCode  = "zh-HK"
-  languageName  = "繁體中文（香港）"
+  [Languages.zh-HK]
+    languageCode  = "zh-HK"
+    languageName  = "繁體中文（香港）"
