@@ -13,7 +13,7 @@ Pobudo vodi **[Free Software Foundation Europe](https://fsfe.org) (FSFE)**, dobr
 
 ## Kontakt za medije
 
-Za novinarske poizvedbe se obrnite na našo skupino za odnose z javnostmi na naslovu [press@fsfe.org](mailto:press@fsfe.org). Za dodatne kontaktne informacije obiščite [stran s kontaktnimi podatki FSFE](https://fsfe.org/contact/).
+Za novinarske poizvedbe se obrnite na našo skupino za odnose z javnostmi na naslovu [press@fsfe.org](mailto:press@fsfe.org). Za dodatne kontaktne informacije obiščite [stran s kontaktnimi podatki FSFE](https://fsfe.org/about/contact).
 
 ## Celostna grafična podoba
 

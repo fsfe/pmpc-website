@@ -13,7 +13,7 @@ version: 1
 
 ## 傳媒聯絡
 
-如有傳媒相關查詢，請電郵到 [press@fsfe.org](mailto:press@fsfe.org) 聯絡我們的公關團隊。有關進一步聯絡資料，可到歐洲自由軟件基金會[聯絡頁面](https://fsfe.org/contact/)。
+如有傳媒相關查詢，請電郵到 [press@fsfe.org](mailto:press@fsfe.org) 聯絡我們的公關團隊。有關進一步聯絡資料，可到歐洲自由軟件基金會[聯絡頁面](https://fsfe.org/about/contact)。
 
 ## 媒體資料
 

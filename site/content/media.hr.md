@@ -13,7 +13,7 @@ Kampanju vodi **[Free Software Foundation Europe](https://fsfe.org) (FSFE)**. FS
 
 ## Kontakt za tisak
 
-Za tiskovne upite molimo Vas da se obratite našem PR-timu na [press@fsfe.org](mailto:press@fsfe.org). Za daljnje kontaktne informacije Vas molimo da posjetite FSFE-ovu opću [kontaktnu stranicu](https://fsfe.org/contact/).
+Za tiskovne upite molimo Vas da se obratite našem PR-timu na [press@fsfe.org](mailto:press@fsfe.org). Za daljnje kontaktne informacije Vas molimo da posjetite FSFE-ovu opću [kontaktnu stranicu](https://fsfe.org/about/contact).
 
 ## Medijski materijali
 

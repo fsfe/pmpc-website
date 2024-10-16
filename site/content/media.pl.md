@@ -16,7 +16,7 @@ Ta inicjatywa jest prowadzona przez **[Free Software Foundation Europe](https://
 ## Kontakt dla mediów
 
 Zgłoszenia prasowe prosimy kierować do działu PR na [press@fsfe.org](mailto:press@fsfe.org).
-Więcej informacji kontaktowych można znaleźć na [stronie kontaktowej](https://fsfe.org/contact/).
+Więcej informacji kontaktowych można znaleźć na [stronie kontaktowej](https://fsfe.org/about/contact).
 
 ## Materiały dla mediów
 
