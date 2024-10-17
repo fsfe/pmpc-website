@@ -13,7 +13,7 @@ Kampagnen er ledet af **[Free Software Foundation Europe](https://fsfe.org) (FSF
 
 ## Pressekontakt
 
-Hvis du har presse-relaterede forespørgsler så kontakt venligst vores PR-hold på [press@fsfe.org](mailto:press@fsfe.org). For yderligere kontaktinformation bedes du besøge FSFEs generelle  [kontaktside](https://fsfe.org/contact/).
+Hvis du har presse-relaterede forespørgsler så kontakt venligst vores PR-hold på [press@fsfe.org](mailto:press@fsfe.org). For yderligere kontaktinformation bedes du besøge FSFEs generelle  [kontaktside](https://fsfe.org/about/contact).
 
 ## Mediepakker
 

@@ -13,7 +13,7 @@ The campaign is lead by the **[Free Software Foundation Europe](https://fsfe.org
 
 ## Press Contact
 
-For press-related enquiries, please contact our PR team at [press@fsfe.org](mailto:press@fsfe.org). For further contact information, please head to the FSFE's general [contact page](https://fsfe.org/contact/).
+For press-related enquiries, please contact our PR team at [press@fsfe.org](mailto:press@fsfe.org). For further contact information, please head to the FSFE's general [contact page](https://fsfe.org/about/contact).
 
 ## Media Kits
 

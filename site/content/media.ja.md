@@ -13,7 +13,7 @@ The **Public Money? Public Code!**キャンペーンは、公的資金で運営�
 
 ## 報道関係者の方へ
 
-プレス関連のお問い合わせは、PRチーム [press@fsfe.org](mailto:press@fsfe.org) までご連絡ください。その他の連絡先については、FSFE の一般的な [コンタクトページ](https://fsfe.org/contact/) をご覧ください。
+プレス関連のお問い合わせは、PRチーム [press@fsfe.org](mailto:press@fsfe.org) までご連絡ください。その他の連絡先については、FSFE の一般的な [コンタクトページ](https://fsfe.org/about/contact) をご覧ください。
 
 ## メディアキット
 
