@@ -6,7 +6,7 @@ steps:
   - name: copy-sigs
     image: alpine:3
     commands:
-      - cp /tmp/signatures.json site/data/signatures/signatures.json
+      - cp /tmp/signatures.json site/assets/signatures/signatures.json
     volumes:
       - name: signatures
         path: /tmp/signatures.json
