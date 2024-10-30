@@ -4,7 +4,8 @@ theme = "hugo-creative-theme"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 enableGitInfo = true
-disableKinds = ["taxonomy"]
+#disableKinds = ["taxonomy"]
+disableKinds = ["taxonomy", "term"]
 timeout = "30s"
 
 # Static strings shared by all languages – these are not to be translated!
