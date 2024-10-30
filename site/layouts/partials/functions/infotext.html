@@ -1,9 +1,9 @@
 <div class="infotext {{ .class }}">
   <span>
     {{- if in (i18n "legal_by") "Free Software Foundation Europe" -}}
-      {{ replace (i18n "legal_by") "Free Software Foundation Europe" "<a href='https://fsfe.org' target='_blank' class='hiddenlink'><img src='/img/fsfe-logo-cut.png' alt='FSFE logo' /></a>" | safeHTML }}
+      {{ replace (i18n "legal_by") "Free Software Foundation Europe" (printf "<a href='https://fsfe.org' target='_blank' class='hiddenlink'><img src='%s' alt='FSFE logo' /></a>" ("img/fsfe-logo-cut.png" | absURL)) | safeHTML }}
     {{- else -}}
-      {{ i18n "legal_by" }} <a href='https://fsfe.org' target='_blank' class='hiddenlink'><img src='/img/fsfe-logo-cut.png' alt='FSFE logo' /></a>
+		{{ i18n "legal_by" }} <a href='https://fsfe.org' target='_blank' class='hiddenlink'><img src='{{ "img/fsfe-logo-cut.png" | absURL }}' alt='FSFE logo' /></a>
     {{- end -}}
   </span>
 </div>

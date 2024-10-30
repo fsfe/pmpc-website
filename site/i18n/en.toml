@@ -4,7 +4,7 @@ other= "Public Money, Public Code - A campaign for releasing publicly financed s
 [fsdefinition]
 other= "Free Software gives everybody the right to use, study, share and improve software. This right helps support other fundamental freedoms like freedom of speech, press and privacy."
 [javascript_warning]
-other = "<b>Warning:</b> Some interactive features will not work with JavaScript disabled."
+other= "<b>Warning:</b> Some interactive features will not work with JavaScript disabled."
 
 # Navigation
 [navigation_links_start]

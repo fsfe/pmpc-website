@@ -20,7 +20,7 @@
                     </tr>
                   </thead>
                   <tbody>
-                    {{ $json := getJSON "data/signatures/signatures.json" }}
+					{{ $json := resources.Get "signatures/signatures.json" | transform.Unmarshal }}
                     {{ $json := where $json "include_vars.permissionPub" "yes" }}
 
                     {{ range sort $json "timestamp" "desc" | first 10 }}

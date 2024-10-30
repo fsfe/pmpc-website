@@ -1,0 +1,193 @@
+# General strings
+[description]
+other= "Veřejné peníze, veřejný kód - Kampaň za publikaci veřejně financovaného softwaru jako svobodný software"
+[fsdefinition]
+other= "Svobodný software dává každému právo používat, studovat, sdílet a vylepšovat software. Toto právo pomáhá podporovat další základní svobody, jako je svoboda slova, tisku a soukromí."
+[javascript_warning]
+other = "<b>Varování:</b> Některé interaktivní funkce nebudou fungovat bez povoleného JavaScriptu."
+
+# Navigation
+[navigation_links_start]
+other= "Úvod"
+[navigation_links_about]
+other= "O kampani"
+[navigation_links_arguments]
+other= "Argumenty"
+[navigation_links_action]
+other= "Zapojte se"
+[navigation_links_resources]
+other= "Zdroje"
+[navigation_links_spread]
+other= "Šiřte povědomí"
+
+# Start banner
+[start_subtitle1]
+other= "Proč není software vytvořený za peníze daňových poplatníků vydáván jako svobodný software?"
+[start_subtitle2]
+other= "Chceme legislativu, která bude vyžadovat, aby veřejně financovaný software pro veřejný sektor byl veřejně dostupný jako [svobodný a otevřený software](https://fsfe.org/freesoftware/ \"Svobodný software dává každému právo používat, studovat, sdílet a vylepšovat software. Toto právo pomáhá podporovat další základní svobody, jako je svoboda slova, tisku a soukromí.\"). Pokud se jedná o veřejné peníze, měl by i kód být veřejný."
+[start_subtitle3]
+other= "**Kód za veřejné peníze by měl být veřejný!**"
+
+# About section
+[about_headline]
+other= "Zní to složitě? Ve skutečnosti není. Je to velmi jednoduché!"
+[about_buttonText]
+other= "Další výhody"
+
+# Arguments section
+[arguments_headline]
+other= "Argumenty pro veřejný kód"
+[arguments_followup]
+other= "Myslíte si, že by svobodný software měl být výchozí volbou pro software financovaný z veřejných zdrojů? **Přesvědčte své politiky!**"
+[arguments_buttonText]
+other= "Podepište otevřený dopis"
+[arguments_list_title_1]
+other= "Úspory na daních"
+[arguments_list_description_1]
+other= "Nebude nutné podobné aplikace pokaždé programovat od úplného začátku."
+[arguments_list_title_2]
+other= "Spolupráce"
+[arguments_list_description_2]
+other= "Velké projekty mohou sdílet odborné znalosti a náklady."
+[arguments_list_title_3]
+other= "Služby pro veřejnost"
+[arguments_list_description_3]
+other= "Aplikace placené veřejností by měly být dostupné všem."
+[arguments_list_title_4]
+other= "Podpora inovací"
+[arguments_list_description_4]
+other= "Díky transparentním procesům nebude nutné znovu vynalézat kolo."
+
+# Action section
+[action_headline]
+other= "Řekněte to svým politikům!"
+[action_intro]
+other= "V našem [**otevřeném dopise**](openletter/) požadujeme:"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "„Zavedení legislativy, která vyžaduje, aby byl veřejně financovaný software vyvinutý pro veřejný sektor veřejně dostupný jako [svobodný a otevřený software](https://fsfe.org/freesoftware/ \"Svobodný software dává každému právo ho používat, studovat, sdílet a vylepšovat. Toto právo pomůže podporovat další základní svobody, jako je svoboda slova, tisku a soukromí.\").“"
+[action_description]
+other= "**$ORGS** organizací a **$INDS** jednotlivců již tuto výzvu k akci podpořilo podpisem našeho [otevřeného dopisu](openletter/). Jeho podpisem nám můžete pomoci získat daleko větší vliv i Vy! Všechny podpisy předáme zástupcům po celé Evropě, kteří se zabývají svobodným softwarem ve veřejné správě."
+[action_box_text]
+other= "Již máme **$INDS PODPISŮ** – podepište otevřený dopis ještě dnes!"
+[action_form_name]
+other= "Jméno (povinné)"
+[action_form_email]
+other= "Email (povinný)"
+[action_form_country]
+other= "Země"
+[action_form_zip]
+other= "PSČ"
+[action_form_comment]
+other= "Váš komentář (max. 140 znaků)"
+[action_form_permPriv]
+other= "Přečetl/a jsem si [prohlášení o ochraně osobních údajů](privacy/) a souhlasím s ním."
+[action_form_permNews]
+other= "Chci být informován o dalšim vývoji této kampaně."
+[action_form_permPub]
+other= "Chci, aby se můj podpis zobrazil v [seznamu podpisů](openletter/all-signatures)."
+[action_form_submit]
+other= "Podepsat nyní!"
+
+# Organisations section
+[organisations_headline]
+other= "Podporující organizace"
+[organisations_text]
+other= "Následující organizace podporují náš [otevřený dopis](openletter/). Pokud má i Vaše organizace zájem se připojit k výzvě Public Code, prosíme, [kontaktujte nás](mailto:contact@fsfe.org)."
+[organisations_administration]
+other = "Správní orgány"
+[organisations_all]
+other = "Vše"
+[organisations_corporate]
+other = "Korporátní"
+[organisations_international_ngo]
+other = "Mezinárodní nevládní organizace"
+[organisations_national_ngo]
+other = "Národní nevládní organizace"
+[organisations_regional_ngo]
+other = "Regionální nevládní organizace"
+[organisations_research_nstitutions]
+other = "Výzkumné instituce"
+
+# Resources section
+[resources_list_title_1]
+other= "Aktuality"
+[resources_list_description_1]
+other= "Nejnovější informace o této kampani a svobodném softwaru v Evropě"
+[resources_list_title_2]
+other= "Odborná brožura"
+[resources_list_description_2]
+other= "Získejte nejnovější brožuru vysvětlující výhody svobodného softwaru pro veřejnou správu, kterou napsali odborníci v oboru"
+[resources_list_title_3]
+other= "Tisk a média"
+[resources_list_description_3]
+other= "Najděte loga, stručné informace a kontakty pro Vaše články"
+
+# Spread the word section
+[spread_headline]
+other= "Šiřte povědomí!"
+[spread_promoText]
+other= "Objednejte si nejnovější samolepky a letáky od FSFE"
+[spread_promoButtonText]
+other= "Stáhněte si promo materiál"
+[spread_shareText]
+other= "Řekněte svým přátelům a sledujícím o Public Code:"
+[spread_defaultSocialText]
+other= "Pokud se jedná o veřejné peníze, měl by být i kód veřejný. Podporuji tuto výzvu pro více veřejného kódu pod licencí svobodný software:"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Sdílet na"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "Pokud se jedná o veřejné peníze, měl by být i kód veřejný! Podporuji výzvu @fsfe@mastodon.social pro více #publiccode:"
+[spread_twitter_customText]
+other= "Pokud se jedná o veřejné peníze, měl by být i kód veřejný! Podporuji výzvu @fsfe pro více #publiccode:"
+[spread_support_text]
+other= "Podpoř FSFE!"
+
+# Legal Section
+[legal_by]
+other= "Kampaň Free Software Foundation Europe"
+[legal_imprint]
+other= "Imprint"
+[legal_privacy]
+other= "Soukromí"
+[legal_transparency]
+other= "Transparentnost"
+[legal_contribute1]
+other= "Kód této webové stránky je svobodný software."
+[legal_contribute2]
+other= "Přispěvatelé jsou vítáni!"
+[translation_status]
+other="Stav překladu"
+[legal_license]
+other= "Obsah je licencovaný pod [Creative Commons BY-SA 4.0 Licencí](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Přečtěte si tuto stránku v jiném jazyce"
+
+# 404 Error Page
+[error_headline]
+other= "Chyba 404 - Stránka nenalezena"
+[error_description]
+other= "Stránka, kterou hledáte, neexistuje."
+[error_button]
+other= "Zpět na úvodní stránku"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Jednotlivé podpisy otevřeného dopisu"
+[subpage_signatures_description]
+other= "Níže jsou uvedeny podpisy osob, které souhlasily se zveřejněním svých jmen. Staňte se jedním z nich!"
+[subpage_signatures_allSignatures]
+other= "Viz [všechny veřejné podpisy](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Jméno"
+[subpage_signatures_tableCountry]
+other= "Země"
+[subpage_signatures_tableComment]
+other= "Komentář"

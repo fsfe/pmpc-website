@@ -9,10 +9,10 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="hiddenlink" href="{{ "/" | relLangURL }}">
+            <a class="hiddenlink" href="{{ "" | absLangURL }}">
               <div class="logo">
                 <div id="image">
-                  <img src="/img/logo.svg" alt="Logo of the campaign" />
+									<img src="{{ "img/logo.svg" | absURL }}" alt="Logo of the campaign" />
                 </div>
                 <div id="text">
                   <div id="logo-blue">{{ .Site.Params.static.slogan_1 }}</div>
@@ -25,19 +25,19 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="{{ "/" | relLangURL }}">{{ i18n "navigation_links_start" }}</a>
+                        <a href="{{ "" | absLangURL }}">{{ i18n "navigation_links_start" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#about" | relLangURL }}">{{ i18n "navigation_links_about" }}</a>
+                        <a href="{{ "#about" | absLangURL }}">{{ i18n "navigation_links_about" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#arguments" | relLangURL }}">{{ i18n "navigation_links_arguments" }}</a>
+                        <a href="{{ "#arguments" | absLangURL }}">{{ i18n "navigation_links_arguments" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#action" | relLangURL }}">{{ i18n "navigation_links_action" }}</a>
+                        <a href="{{ "#action" | absLangURL }}">{{ i18n "navigation_links_action" }}</a>
                     </li>
                     <li>
-                        <a href="{{ "/#spread" | relLangURL }}">{{ i18n "navigation_links_spread" }}</a>
+                        <a href="{{ "#spread" | absLangURL }}">{{ i18n "navigation_links_spread" }}</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#language" title="Change Language"><i class="fa fa-globe" aria-hidden="true" style="font-size:1.5em;vertical-align:top;"></i> {{ .Site.Params.static.language }}</a>

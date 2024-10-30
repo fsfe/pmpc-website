@@ -4,7 +4,7 @@ theme = "hugo-creative-theme"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 enableGitInfo = true
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 timeout = "30s"
 
 # Static strings shared by all languages – these are not to be translated!
@@ -38,17 +38,17 @@ timeout = "30s"
 # Resources
 [[params.resources.list]]
   no      = 1
-  img     = "/img/resources/foi.jpg"
+  img     = "img/resources/foi.jpg"
   link    = "https://fsfe.org/tags/tagged-pmpc"
   target  = "_blank"
 [[params.resources.list]]
   no    = 2
-  img   = "/img/resources/brochure.jpg"
+  img   = "img/resources/brochure.jpg"
   link  = "https://fsfe.org/activities/publiccode/brochure"
   target  = "_blank"
 [[params.resources.list]]
   no    = 3
-  img   = "/img/resources/write.jpg"
+  img   = "img/resources/write.jpg"
   link  = "/media"
   target  = "_self"
 
@@ -58,6 +58,10 @@ timeout = "30s"
   [Languages.ca]
     languageCode  = "ca"
     languageName  = "Català"
+
+  [Languages.cs]
+    languageCode  = "cs"
+    languageName  = "Čeština"
 
   [Languages.da]
     languageCode  = "da"

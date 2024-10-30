@@ -1,2 +1,2 @@
-{{ $json := getJSON "data/organisations/organisations.json" }}
+{{ $json := resources.Get "organisations/organisations.json" | transform.Unmarshal }}
 {{- len $json -}}

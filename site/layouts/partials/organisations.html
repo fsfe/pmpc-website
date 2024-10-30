@@ -5,7 +5,7 @@
         <h2 class="section-heading">{{ i18n "organisations_headline" }}</h2>
         <hr />
         <!-- replace the URL defined in config.toml because this snipped is used in sub-pages too -->
-        <p>{{ replace (i18n "organisations_text") "openletter/" ("/openletter" | relLangURL)  | markdownify }}</p>
+        <p>{{ replace (i18n "organisations_text") "openletter/" ("openletter" | relLangURL)  | markdownify }}</p>
         <br />
         <div class="radio-filter-orgs">
             <label>
@@ -36,16 +36,16 @@
           <ul>
             <!-- Get all organizations and split them in two sets according
                  to their priorities -->
-            {{ $orgs := getJSON "data/organisations/organisations.json" }}
+			{{ $orgs := resources.Get "organisations/organisations.json" | transform.Unmarshal }}
             {{ range $int := shuffle (where $orgs "priority" "1") }}
               <li class="org" orgtype="{{ .orgtype }}" >
-                <a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a>
+								<a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url({{ "img/organisations/" | absURL }}{{ .img }})" target="_blank"></a>
               </li>
             {{ end }}
 
             {{ range $int := shuffle (where $orgs "priority" "0") }}
               <li class="org" orgtype="{{ .orgtype }}" >
-                <a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url(/img/organisations/{{ .img }})" target="_blank"></a>
+								<a href="{{ .url }}" class="hiddenlink" title="{{ .name }}" style="background-image: url({{ "img/organisations/" | absURL }}{{ .img }})" target="_blank"></a>
               </li>
                 {{ end }}
           </ul>

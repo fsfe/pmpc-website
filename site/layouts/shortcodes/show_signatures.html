@@ -7,9 +7,9 @@
     </tr>
   </thead>
   <tbody>
-    {{ $signatures := getJSON "data/signatures/signatures.json" }}
+    {{ $signatures := resources.Get "signatures/signatures.json" | transform.Unmarshal }}
     {{ $signatures := where $signatures "include_vars.permissionPub" "yes" }}
-    {{ $countries := getJSON "data/countries/countries.json" }}
+    {{ $countries := resources.Get "countries/countries.json" | transform.Unmarshal }}
 
     {{ range sort $signatures "timestamp" "desc" }}
        <tr>

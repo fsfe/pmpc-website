@@ -11,7 +11,7 @@
   <label class="sign-input form-cn">
     <select name="country">
       <option value="">{{ i18n "action_form_country" }}</option>
-      {{ $json := getJSON "data/countries/countries.json" }}
+	   {{ $json := resources.Get "countries/countries.json" | transform.Unmarshal }}
       {{ range sort $json "name" "asc" }}
         <option value="{{ .genc2a }}">{{ .name }}</option>
       {{ end }}
@@ -23,12 +23,12 @@
   <div class="form-pe">
     <div>
       <label class="form-pe" for="permissionPriv">
-        <input name="permissionPriv" id="permissionPriv" value="yes" type="checkbox" required /> {{ replace (i18n "action_form_permPriv") "privacy/" ("/privacy" | relLangURL) | markdownify }}
+        <input name="permissionPriv" id="permissionPriv" value="yes" type="checkbox" required /> {{ replace (i18n "action_form_permPriv") "privacy/" ("privacy" | absLangURL) | markdownify }}
       </label>
     </div>
     <div>
       <label class="form-pe" for="permissionPub">
-        <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" /> {{ replace (i18n "action_form_permPub") "openletter/all-signatures" ("/openletter/all-signatures" | relLangURL) | markdownify}}
+        <input name="permissionPub" id="permissionPub" value="yes" type="checkbox" /> {{ replace (i18n "action_form_permPub") "openletter/all-signatures" ("openletter/all-signatures" | relLangURL) | markdownify}}
       </label>
     </div>
     <div>

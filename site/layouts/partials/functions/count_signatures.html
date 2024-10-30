@@ -1,2 +1,2 @@
-{{ $json := getJSON "data/signatures/signatures.json" }}
+{{ $json := resources.Get "signatures/signatures.json" | transform.Unmarshal }}
 {{- len $json -}}
