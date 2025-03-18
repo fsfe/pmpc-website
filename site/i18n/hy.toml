@@ -1,0 +1,193 @@
+# General strings
+[description]
+other= "Հանրութեան փողով՝ Հանրային Կոդ — Հանրութեան կողմից ֆինանսաւորուած ծրագրակազմը՝ որպէս Ազատ Ծրագրակազմ հրապարակելու պահանջ"
+[fsdefinition]
+other= "Ազատ Ծրագրակազմը բոլորին տրամադրում է այն օգտագործելու, ուսումնասիրելու, տարածելու եւ փոփոխելու իրաւունք։ Այս իրաւունքն սատարում է հիմնային ազատութիւններին, ինչպիսին են խօսքի, մամուլի ազատութիւնը, գաղտնիութեան իրաւունքը։"
+[javascript_warning]
+other= "<b>Ուշադրութի՛ւն</b> Որոշ ինտերակտիւ հնարաւորութիւններ չեն աշխատի, երբ Ջաւա Սկրիպտն անջատուած է։"
+
+# Navigation
+[navigation_links_start]
+other= "Սկիզբ"
+[navigation_links_about]
+other= "Նախագծի մասին"
+[navigation_links_arguments]
+other= "Պատճառներ"
+[navigation_links_action]
+other= "Մասնակցի՛ր"
+[navigation_links_resources]
+other= "Նիւթեր"
+[navigation_links_spread]
+other= "Տարածի՛ր"
+
+# Start banner
+[start_subtitle1]
+other= "Ինչո՞ւ հարկատուների դրամով ստեղծուած ծրագրակազմը չի հրապարակւում որպէս Ազատ Ծրագրակազմ։"
+[start_subtitle2]
+other= "Մեզ պէտք է օրենսդրութիւն, որ պահանջում է՝ հանրութեան կողմից ֆինանսաւորուած ծրագրակազմը, որ նախագծուած է հանրային սեկտորի համար՝ հասանելի լինի [Ազատ եւ Բաց Ելատեքստով Ծրագրակազմի](https://fsfe.org/freesoftware/ \"Ազատ Ծրագրակազմը բոլորին տրամադրում է օգտագործելու, ուսումնասիրելու, տարածելու եւ փոփոխելու իրաւունք։ Այս իրաւունքն սատարում է հիմնային ազատութիւններին, ինչպիսին են խօսքի, մամուլի ազատութիւնը, գաղտնիութեան իրաւունքը։\") արտօնագրով։ Եթէ հանրային փող է՝ պիտի լինի նաեւ հանրային ելատեքստ։"
+[start_subtitle3]
+other= "**Կոդը, որի համար վճարել է ժողովուրդը, պէտք է հասանելի լինի ժողովրդին։**"
+
+# About section
+[about_headline]
+other= "Բա՞րդ է թւում։ Բնա՛ւ։ Շա՛տ պարզ է։"
+[about_buttonText]
+other= "Առաւելութիւններ"
+
+# Arguments section
+[arguments_headline]
+other= "Փաստարկներ՝ Հանրային Կոդի համար"
+[arguments_followup]
+other= "Համամի՞տ ես, որ Ազատ Ծրագրակազմը պիտի լինի լռելեայն՝ հանրութեան կողմից ֆինանսաւորուած ծրագրակազմի համար։ **Ե՛կ համոզենք քո քաղաքական ներկայացուցիչների՛ն։**"
+[arguments_buttonText]
+other= "Ստորագրի՛ր Բաց Նամակը"
+[arguments_list_title_1]
+other= "Հարկերի խնայում"
+[arguments_list_description_1]
+other= "Նման ծրագրերը ամէն անգամ չպիտի զրօյից գրուեն։"
+[arguments_list_title_2]
+other= "Համագործակցութիւն"
+[arguments_list_description_2]
+other= "Կարեւոր նախագծերը պէտք է կիսեն փորձ եւ ծախսեր։"
+[arguments_list_title_3]
+other= "Հանրութեանը ծառայելով"
+[arguments_list_description_3]
+other= "Ծրագրակազմը, որի համար վճարել է հանրութիւնը, պիտի հասանելի լինի բոլորին։"
+[arguments_list_title_4]
+other= "Խթանել նորարարութիւն"
+[arguments_list_description_4]
+other= "Թափանցիկ գործընթացների պարագայում, այլոք անիւը կրկին յօրինելու պարտադրուած չեն լինի։"
+
+# Action section
+[action_headline]
+other= "Դիմի՛ր քո ներկայացուցիչներին։"
+[action_intro]
+other= "Մեր [**բաց նամակով**](openletter/) պահանջում ենք՝"
+
+# In "demand", please use curly quotation marks for the demand. Otherwise the build might fail: https://en.wikipedia.org/wiki/Quotation_mark
+[action_demand]
+other= "«Օրենսդրօրէն պահանջել, որ հանրային միջոցներով հանրային հատուածի համար ստեղծուած ծրագրային ապահովումը հասանելի լինի [Ազատ և Բաց Ծրագրային Ապահովման](https://fsfe.org/freesoftware/ \"Ազատ Ծրագրակազմը բոլորին տրամադրում է այն օգտագործելու, ուսումնասիրելու, տարածելու եւ փոփոխելու իրաւունք։ Այս իրաւունքն սատարում է հիմնային ազատութիւններին, ինչպիսին են խօսքի, մամուլի ազատութիւնը, գաղտնիութեան իրաւունքը։\") արտօնագրով։»"
+[action_description]
+other= "**$ORGS** կազմակերպութիւններ եւ **$INDS** անհատներ արդէն աջակցում են այս գործողութեան կոչին, ստորագրելով մեր [բաց նամակը](openletter/)։ Դու կարող ես նաեւ ինքդ ստորագրելով, մեզ օգնել, հասնելու ավելի մեծ ազդեցութեան։ Մենք բոլոր ստորագրութիւնները կյանձնենք ողջ Եւրոպայի ներկայացուցիչներին, ովքեր հանրային կառավարման ոլորտում բանավիճում են յօգուտ ազատ ծրագրակազմի։"
+[action_box_text]
+other= "Արդէն **$INDS ՍՏՈՐԱԳՐՈՒԹԻՒՆՆԵՐ** – ստորագրի՛ր բաց նամակը հիմա։"
+[action_form_name]
+other= "Անուն (պարտադիր)"
+[action_form_email]
+other= "Էլ․ փոստ (պարտադիր)"
+[action_form_country]
+other= "Երկիր"
+[action_form_zip]
+other= "Փոստային Ինդէքս"
+[action_form_comment]
+other= "Ձեր մեկնաբանութիւնը (առաւ․ 140 նիշ)"
+[action_form_permPriv]
+other= "Ընթերցել եմ եւ ընդունել [գաղտնիութեան համաձայնագիրը](privacy/)"
+[action_form_permNews]
+other= "Ուզում եմ տեղեկացուած լինել ապագայ արշաւների մասին"
+[action_form_permPub]
+other= "Համաձայն եմ ստորագրութիւնս հրապարակուի [ստորագրողների ցանկում](openletter/all-signatures)"
+[action_form_submit]
+other= "Ստորագրի՛ր"
+
+# Organisations section
+[organisations_headline]
+other= "Աջակցող կազմակերպութիւններ"
+[organisations_text]
+other= "Հետեւեալ կազմակերպութիւնները աջակցում են մեր [բաց նամակին](openletter/)։ Եթե ձեր կազմակերպութիւնը հետաքրքրութիւն ունի միանալու Հանրային Կոդի կոչին, խնդրում ենք [մեզ հետ կապվել](mailto:contact@fsfe.org)։"
+[organisations_administration]
+other = "Կառավարիչներ"
+[organisations_all]
+other = "Բոլորը"
+[organisations_corporate]
+other = "Կորպորատիւ"
+[organisations_international_ngo]
+other = "Միջազգային ՀԿ֊ներ"
+[organisations_national_ngo]
+other = "Ազգային ՀԿ֊ներ"
+[organisations_regional_ngo]
+other = "Տարածաշրջանային ՀԿ֊ներ"
+[organisations_research_nstitutions]
+other = "Հետազօտական հաստատութիւններ"
+
+# Resources section
+[resources_list_title_1]
+other= "Նորութիւններ"
+[resources_list_description_1]
+other= "Եւրոպայում՝ ազատ ծրագրակազմի, եւ սոյն արշաւի մասին վերջին տեղեկութիւններ"
+[resources_list_title_2]
+other= "Մասնագիտական Ձեռնարկ"
+[resources_list_description_2]
+other= "Get the latest brochure explaining the benefits of Free Software for public administration, written by experts in the field"
+[resources_list_title_3]
+other= "Մամուլ եւ մեդիա"
+[resources_list_description_3]
+other= "Գտիր լոգոներ, ամփոփ տեղեկատւութիւն, եւ կոնտակտներ՝ ձեր յօդուածների համար։"
+
+# Spread the word section
+[spread_headline]
+other= "Տարածի՛ր"
+[spread_promoText]
+other= "Պատուիրի՛ր սթիքերներ եւ ֆլայերներ FSFE֊ից։"
+[spread_promoButtonText]
+other= "Ստացիր պրոմօ նիւթեր"
+[spread_shareText]
+other= "Պատմիր ընկերներիդ եւ հետեւողներիդ Հանրային Ելատեքստի մասին՝"
+[spread_defaultSocialText]
+other= "Եթէ սա հանրութեան փողով է՝ ապա պիտի նաեւ լինի հանրային ելատեքստ։ Ես սատարում եմ այս արշաւին՝ աւելի շատ հանրային կոդ Ազատ Ծրագրակազմի արտօնագրով՝"
+# Example for titleBefore and titleAfter: [titleBefore] <socialmedia> [titleAfter], e.g. "Share on Mastodon" or "Auf Mastodon teilen"
+# This has to be adopted for your language. If you don't need it in your language, make it one whitespace (" ")
+[spread_titleBefore]
+other= "Տարածիր"
+[spread_titleAfter]
+other= " "
+[spread_fediverse_customText]
+other= "If it is public money, it should be public code as well! I support @fsfe@mastodon.social's call for more #publiccode:"
+[spread_twitter_customText]
+other= "If it is public money, it should be public code as well! I support @fsfe's call for more #publiccode:"
+[spread_support_text]
+other= "Դարձի՛ր FSFE աջակից"
+
+# Legal Section
+[legal_by]
+other= "Free Software Foundation Europe֊ի արշաւ"
+[legal_imprint]
+other= "Imprint"
+[legal_privacy]
+other= "Գաղտնիութիւն"
+[legal_transparency]
+other= "Թափանցիկութիւն"
+[legal_contribute1]
+other= "Այս կայքի ելատեքստն Ազատ Ծրագրակազմ է։"
+[legal_contribute2]
+other= "Աւելացրո՛ւ թարգմանութիւն։"
+[translation_status]
+other="Թարգմանութիւնների ընթացիկ վիճակը"
+[legal_license]
+other= "Սոյն գործը տարածւում է [Creative Commons BY-SA 4.0 արտօնագրով](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+# Language selection
+[language_description]
+other= "Կարդա՛ այլ լեզուով"
+
+# 404 Error Page
+[error_headline]
+other= "Սխալ 404 - էջը գտնուած չէ։"
+[error_description]
+other= "Էջը, որին դիմել էք, գոյութիւն չունի։"
+[error_button]
+other= "Վերադառնալ հիմնական էջին"
+
+# Specific sub-pages
+[subpage_signatures_headline]
+other= "Բաց Նամակի Անհատական Ստորագրութիւններ"
+[subpage_signatures_description]
+other= "Ստորեւ այն մարդկանց ստորագրութիւններն են, ովքեր համաձայնել են որ դրանք լինեն հանրային։ Եղե՛ք յաջորդը։"
+[subpage_signatures_allSignatures]
+other= "Տեսնել [բոլոր հանրային ստորագրութիւնները](all-signatures/)."
+[subpage_signatures_tableName]
+other= "Անուն"
+[subpage_signatures_tableCountry]
+other= "Երկիր"
+[subpage_signatures_tableComment]
+other= "Մեկնաբանութիւն"

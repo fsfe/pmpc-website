@@ -99,6 +99,10 @@ timeout = "30s"
     languageCode  = "hr"
     languageName  = "Hrvatski"
 
+  [Languages.hy]
+    languageCode  = "hy"
+    languageName  = "Հայերէն"
+
   [Languages.hu]
     languageCode  = "hu"
     languageName  = "Magyar"
