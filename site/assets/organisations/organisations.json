@@ -812,6 +812,13 @@
     "url": "https://hackyourphd.org/"
   },
   {
+    "name": "Hacklab Cormano",
+    "img": "hacklab-cormano.svg",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://hacklabcormano.it/"
+  },
+  {
     "name": "HardenedLinux",
     "img": "hardenedlinux.png",
     "orgtype": "international_ngo",
