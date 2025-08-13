@@ -1291,6 +1291,13 @@
     "url": "https://www.peercoin.net/foundation"
   },
   {
+    "name": "Phosh.mobi e.V.",
+    "img": "phosh-mobi-ev.svg",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://ev.phosh.mobi"
+  },
+  {
     "name": "Pica Pica HackLab",
     "img": "picahacklab.png",
     "orgtype": "regional_ngo",
