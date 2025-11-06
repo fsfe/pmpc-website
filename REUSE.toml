@@ -1,0 +1,57 @@
+# SPDX-FileCopyrightText: 2017 Free Software Foundation Europe <https://fsfe.org>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+version = 1
+
+# Theme
+[[annotations]]
+path = "site/themes/hugo-creative-theme/**"
+SPDX-License-Identifier = "Apache-2.0"
+SPDX-FileCopyrightText = "2015 digitalcraftsman <https://github.com/digitalcraftsman/hugo-creative-theme>"
+
+# Rest of the website
+[[annotations]]
+path = "site/archetypes/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/assets/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/config/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/content/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/i18n/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/layouts/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/public/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/static/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
+
+[[annotations]]
+path = "site/data/**"
+SPDX-License-Identifier = "GPL-3.0-or-later"
+SPDX-FileCopyrightText = "2017 Free Software Foundation Europe <https://fsfe.org>"
