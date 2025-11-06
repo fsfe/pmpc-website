@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2017 Free Software Foundation Europe e.V. <https://fsfe.org>
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # How to translate publiccode.eu
 
 Translating the publiccode.eu website isn't really hard but may be a bit

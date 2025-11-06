@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2017 Free Software Foundation Europe e.V. <https://fsfe.org>
+
+SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # Public Money Public Code – Source of publiccode.eu
 
 [![Build Status](https://drone.fsfe.org/api/badges/pmpc/website/status.svg)](https://drone.fsfe.org/pmpc/website)
