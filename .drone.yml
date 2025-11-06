@@ -1,4 +1,8 @@
 ---
+# SPDX-FileCopyrightText: 2017 Free Software Foundation Europe e.V. <https://fsfe.org>
+# 
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 kind: pipeline
 name: default
 
@@ -51,6 +55,6 @@ volumes:
       path: /srv/forms/pmpc/signatures.json
 ---
 kind: signature
-hmac: 19a6f1dd012f34190db2a53207dc5311e87eee4467a5efd5c23149cb19ffff00
+hmac: 459b9bf35c6d37739f245e9fc2af354e5efcbc1bb0bdbff4c1c7b38c89ca3c6f
 
 ...

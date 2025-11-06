@@ -1,2 +1,4 @@
 site/.hugo_build.lock
 resources/
+
+.drone_token.txt
