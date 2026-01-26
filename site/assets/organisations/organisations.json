@@ -1445,6 +1445,13 @@
     "url": "http://spi-inc.org/"
   },
   {
+    "name": "Software Libero Liguria",
+    "img": "software-libero-liguria.png",
+    "orgtype": "regional_ngo",
+    "priority": "0",
+    "url": "https://softwareliberoliguria.org"
+  },
+  {
     "name": "Software Liberty Association Taiwan",
     "img": "slat.png",
     "orgtype": "national_ngo",
