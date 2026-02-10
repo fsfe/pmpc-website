@@ -910,6 +910,13 @@
     "url": "http://www.jef-rlp.de"
   },
   {
+    "name": "Pattern Institute",
+    "img": "pattern-institute.svg",
+    "orgtype": "research_institutions",
+    "priority": "1",
+    "url": "https://www.pattern.institute/"
+  },
+  {
     "name": "Parliament of Asturias",
     "img": "jgpa.png",
     "orgtype": "administration",
