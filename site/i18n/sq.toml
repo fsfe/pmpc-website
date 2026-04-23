@@ -125,8 +125,8 @@ other= "Shpërndaje në"
 other= " "
 [spread_fediverse_customText]
 other= "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes thirrjen e @fsfe@mastodon.social për më tepër #parapublikekodpublik:"
-[spread_twitter_customText]
-other= "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes nismën e @fsfe për më tepër #parapublikekodpublik:"
+[spread_bluesky_customText]
+other= "Nëse është para publike, duhet të jetë dhe kod publik gjithashtu! Unë mbështes thirrjen e @fsfe.org për më tepër #parapublikekodpublik:"
 [spread_support_text]
 other= "Bëhu një mbështetës i FSFE!"
 

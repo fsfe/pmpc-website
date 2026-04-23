@@ -143,8 +143,8 @@ other= "Տարածիր"
 other= " "
 [spread_fediverse_customText]
 other= "If it is public money, it should be public code as well! I support @fsfe@mastodon.social's call for more #publiccode:"
-[spread_twitter_customText]
-other= "If it is public money, it should be public code as well! I support @fsfe's call for more #publiccode:"
+[spread_bluesky_customText]
+other= "If it is public money, it should be public code as well! I support @fsfe.org's call for more #publiccode:"
 [spread_support_text]
 other= "Դարձի՛ր FSFE աջակից"
 

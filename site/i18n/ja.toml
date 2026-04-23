@@ -141,8 +141,8 @@ other= " "
 other= "でシェア"
 [spread_fediverse_customText]
 other= "税金で作られたソフトはフリーソフトウェアとして公開すべき。@fsfe@mastodon.social の #publiccode の増加を求める声を支持します。"
-[spread_twitter_customText]
-other= "税金で作られたソフトはフリーソフトウェアとして公開すべき。@fsfe の #publiccode の増加を求める声を支持します。"
+[spread_bluesky_customText]
+other= "税金で作られたソフトはフリーソフトウェアとして公開すべき。@fsfe.org の #publiccode の増加を求める声を支持します。"
 [spread_support_text]
 other= "FSFE のサポーターになる！"
 

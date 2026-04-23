@@ -141,8 +141,8 @@ other= "Deli na"
 other= " "
 [spread_fediverse_customText]
 other= "Ko gre za javni denar, naj bo tudi koda javna. Podpiram pobudo @fsfe@mastodon.social za več #publiccode:"
-[spread_twitter_customText]
-other= "Ko gre za javni denar, naj bo tudi koda javna. Podpiram pobudo @fsfe glede #publiccode:"
+[spread_bluesky_customText]
+other= "Ko gre za javni denar, naj bo tudi koda javna. Podpiram pobudo @fsfe.org za več #publiccode:"
 [spread_support_text]
 other= "Finančno podpri FSFE!"
 

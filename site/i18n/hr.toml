@@ -141,8 +141,8 @@ other= "Podijeli na mreži"
 other= " "
 [spread_fediverse_customText]
 other= "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe@mastodon.social za javni kôd (#publiccode):"
-[spread_twitter_customText]
-other= "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe -ov poziv za javni kôd (#publiccode):"
+[spread_bluesky_customText]
+other= "Ako se radi o javnom novcu, tada i kôd treba biti javan! Podržavam @fsfe.org za javni kôd (#publiccode):"
 [spread_support_text]
 other= "Postanite podržavatelj FSFE-a!"
 

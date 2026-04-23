@@ -111,8 +111,8 @@ other= "Partilhar em"
 other= " "
 [spread_fediverse_customText]
 other= "Se se trata de dinheiro público, deve ser código público também! Eu apoio mais #publiccode da @fsfe@mastodon.social:"
-[spread_twitter_customText]
-other= "Se se trata de dinheiro público, deve ser código público também! Eu apoio mais #publiccode @fsfe:"
+[spread_bluesky_customText]
+other= "Se se trata de dinheiro público, deve ser código público também! Eu apoio mais #publiccode da @fsfe.org:"
 [spread_support_text]
 other= "Torne-se um apoiante da FSFE!"
 
