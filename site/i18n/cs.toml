@@ -143,8 +143,8 @@ other= "Sdílet na"
 other= " "
 [spread_fediverse_customText]
 other= "Pokud se jedná o veřejné peníze, měl by být i kód veřejný! Podporuji výzvu @fsfe@mastodon.social pro více #publiccode:"
-[spread_twitter_customText]
-other= "Pokud se jedná o veřejné peníze, měl by být i kód veřejný! Podporuji výzvu @fsfe pro více #publiccode:"
+[spread_bluesky_customText]
+other= "Pokud se jedná o veřejné peníze, měl by být i kód veřejný! Podporuji výzvu @fsfe.org pro více #publiccode:"
 [spread_support_text]
 other= "Podpoř FSFE!"
 

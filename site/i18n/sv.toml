@@ -111,8 +111,8 @@ other= "Dela på"
 other= " "
 [spread_fediverse_customText]
 other= "Offentliga pengar, offentlig kod! Jag stöder @fsfe@mastodon.social's vädjan för mer #publiccode:"
-[spread_twitter_customText]
-other= "Offentliga pengar, offentlig kod! Jag stöder @fsfe's vädjan för mer #publiccode:"
+[spread_bluesky_customText]
+other= "Offentliga pengar, offentlig kod! Jag stöder @fsfe.org's vädjan för mer #publiccode:"
 [spread_support_text]
 other= "Bli en FSFE-medlem!"
 

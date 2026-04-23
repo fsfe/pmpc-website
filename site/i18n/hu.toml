@@ -111,8 +111,8 @@ other= "Oszd meg a"
 other= "oldalon"
 [spread_fediverse_customText]
 other= "Ha közpénzből van, legyen Szabad Szoftver! Támogatom @fsfe@mastodon.social #publiccode kampányát:"
-[spread_twitter_customText]
-other= "Ha közpénzből van, legyen Szabad Szoftver! Támogatom @fsfe #publiccode kampányát:"
+[spread_bluesky_customText]
+other= "Ha közpénzből van, legyen Szabad Szoftver! Támogatom @fsfe.org #publiccode kampányát:"
 [spread_support_text]
 other= "Legyél Te is FSFE szponzor!"
 

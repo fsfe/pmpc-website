@@ -111,8 +111,8 @@ other= "Publikigi en"
 other= " "
 [spread_fediverse_customText]
 other= "Teme pri publika mono, temu pri publika kodo! Mi vokas kun @fsfe@mastodon.social por pli da publika kodo! #publiccode:"
-[spread_twitter_customText]
-other= "Teme pri publika mono, temu pri publika kodo! Mi vokas kun @fsfe por pli da publika kodo! #publiccode:"
+[spread_bluesky_customText]
+other= "Teme pri publika mono, temu pri publika kodo! Mi vokas kun @fsfe.org por pli da publika kodo! #publiccode:"
 [spread_support_text]
 other= "Fariĝu subtenanto de FSFE!"
 

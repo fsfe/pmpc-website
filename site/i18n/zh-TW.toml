@@ -111,8 +111,8 @@ other= "分享到"
 other= " "
 [spread_fediverse_customText]
 other= "拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @fsfe@mastodon.social 的呼籲！ #publiccode :"
-[spread_twitter_customText]
-other= "拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @fsfe 的呼籲！ #publiccode : "
+[spread_bluesky_customText]
+other= "拿人民的納稅錢？就該做公開透明的資訊系統！我支持 @fsfe.org 的呼籲！ #publiccode :"
 [spread_support_text]
 other= "支持歐洲自由軟體基金會！"
 

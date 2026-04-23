@@ -143,8 +143,8 @@ other= "Condividi su"
 other= " "
 [spread_fediverse_customText]
 other= "Se è denaro pubblico, allora dovrebbe essere pubblico anche il codice sorgente! Supporto la chiamata di @fsfe@mastodon.social per più #publiccode:"
-[spread_twitter_customText]
-other= "Se è denaro pubblico, dovrebbe essere pubblico anche il codice sorgente! Supporto la chiamata della @fsfe per più #publiccode:"
+[spread_bluesky_customText]
+other= "Se è denaro pubblico, allora dovrebbe essere pubblico anche il codice sorgente! Supporto la chiamata di @fsfe.org per più #publiccode:"
 [spread_support_text]
 other= "Diventa un sostenitore di FSFE!"
 

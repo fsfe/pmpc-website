@@ -125,8 +125,8 @@ other= "Поделиться"
 other= " "
 [spread_fediverse_customText]
 other= "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe@mastodon.social поддержать #publiccode:"
-[spread_twitter_customText]
-other= "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe's поддержать #publiccode:"
+[spread_bluesky_customText]
+other= "Если это бюджетные деньги, то это должен быть открытый код! Я присоединяюсь к призыву @fsfe.org поддержать #publiccode:"
 [spread_support_text]
 other= "Поддержите FSFE!"
 

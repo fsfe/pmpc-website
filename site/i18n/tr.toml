@@ -111,8 +111,8 @@ other= "Paylaşın"
 other= " "
 [spread_fediverse_customText]
 other= "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe@mastodon.social'nun #kamusalkod #publiccode çağrısını destekliyorum:"
-[spread_twitter_customText]
-other= "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe@quitter.no'nun #kamusalkod #publiccode çağrısını destekliyorum:"
+[spread_bluesky_customText]
+other= "Kamusal paraysa, kod da kamusal olmalıdır! @fsfe.org'nun #kamusalkod #publiccode çağrısını destekliyorum:"
 [spread_support_text]
 other= "FSFE destekçisi olun!"
 

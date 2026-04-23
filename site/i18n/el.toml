@@ -111,8 +111,8 @@ other= "Μοίρασε στο"
 other= " "
 [spread_fediverse_customText]
 other= "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το @fsfe@mastodon.social και το #publiccode:"
-[spread_twitter_customText]
-other= "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το κάλεσμα του @fsfe για #publiccode:"
+[spread_bluesky_customText]
+other= "Αν είναι δημόσιο χρήμα, θα πρέπει να είναι δημόσιος κι ο κώδικας! Στηρίζω το @fsfe.org και το #publiccode:"
 [spread_support_text]
 other= "Υποστήριξε το FSFE!"
 
