@@ -329,6 +329,13 @@
     "url": "https://d-64.org/"
   },
   {
+    "name": "Decidim Free Software Association",
+    "img": "decidim.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://decidim.org/"
+  },
+  {
     "name": "Debian",
     "img": "debian.png",
     "orgtype": "international_ngo",
