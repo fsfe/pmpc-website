@@ -3,6 +3,8 @@
 other= "Public Money, Public Code - En kampagne for frigivelse af offentligt finansieret software som fri software"
 [fsdefinition]
 other= "Fri software giver enhver ret til at bruge, studere, dele og forbedre softwaren. Denne rettighed understøtter andre fundamentale friheder såsom ytringsfrihed, pressefrihed og retten til privatliv."
+[javascript_warning]
+other= "<b>Advarsel:</b> Nogle interaktive funktionaliteter virker ikke med JavaScript deaktiveret"
 
 # Navigation
 [navigation_links_start]
@@ -13,6 +15,8 @@ other= "Om"
 other= "Argumenter"
 [navigation_links_action]
 other= "Skriv under"
+[navigation_links_resources]
+other= "Ressourcer"
 [navigation_links_spread]
 other= "Spred ordet"
 
@@ -91,6 +95,34 @@ other= "Underskriv!"
 other= "Støttende organisationer"
 [organisations_text]
 other= "De følgende organisationer støtter vores [åbne brev](openletter/). Hvis din organisation også er interesseret i at slutte sig til opråbet for offentlig kode, så [kontakt os](mailto:contact@fsfe.org) endelig."
+[organisations_administration]
+other = "Administrationer"
+[organisations_all]
+other = "Alle"
+[organisations_corporate]
+other = "Erhverv"
+[organisations_international_ngo]
+other = "Internationale NGOer"
+[organisations_national_ngo]
+other = "Nationale NGOer"
+[organisations_regional_ngo]
+other = "Regionale NGOer"
+[organisations_research_nstitutions]
+other = "Forskningsinstitutioner"
+
+# Resources section
+[resources_list_title_1]
+other= "Seneste nyheder"
+[resources_list_description_1]
+other= "Seneste nyt om denne kampagne og offentlig kode i Europa"
+[resources_list_title_2]
+other= "Ekspertbrochure"
+[resources_list_description_2]
+other= "Få den seneste brochure der forklarer fordelene ved fri software i den offentlige administration, skrevet af eksperter på området"
+[resources_list_title_3]
+other= "Presse og medier"
+[resources_list_description_3]
+other= "Find loger, sammenskrivninger og kontakter til dine artikler"
 
 # Spread the word section
 [spread_headline]
@@ -129,6 +161,8 @@ other= "Gennemsigtighed"
 other= "Denne hjemmesides kode er fri software."
 [legal_contribute2]
 other= "Du er velkommen til at bidrage!"
+[translation_status]
+other="Statusside for oversættelse"
 [legal_license]
 other= "Dette værk er licenseret under en [Creative Commons BY-SA 4.0 licens](http://creativecommons.org/licenses/by-sa/4.0/deed.da)."
 
