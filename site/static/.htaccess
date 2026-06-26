@@ -7,7 +7,7 @@ RewriteRule ^zh_tw/?(.*)$ /zh-tw/$1 [L,R=301]
 # redirect all requests to non-existing translations to EN
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^[a-z-]*/(.+) $1 [L,R=301]
+RewriteRule ^[a-z-]*/(.+) $1 [L,R=302]
 
 # Redirect /sharepic to sharepic generator
 #RewriteRule ^sharepic$ https://sharepic.fsfe.org/pmpc [R=301,L]
