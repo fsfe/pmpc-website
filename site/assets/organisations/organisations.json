@@ -1557,6 +1557,13 @@
     "url": "https://thishosting.rocks/"
   },
   {
+    "name": "Trifecta Tech Foundation",
+    "img": "trifecta.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://trifectatech.org/"
+  },
+  {
     "name": "TYPO3 Association",
     "img": "typo3.png",
     "orgtype": "international_ngo",
