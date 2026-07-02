@@ -2,14 +2,15 @@
 # 
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-baseurl = "https://publiccode.eu"
+baseurl = ""
 title = "Public Money, Public Code"
 theme = "hugo-creative-theme"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
 enableGitInfo = true
-#disableKinds = ["taxonomy"]
-disableKinds = ["taxonomy", "term"]
+disableKinds = ["taxonomy"]
+#disableKinds = ["taxonomy", "term"]
 timeout = "30s"
 
 # Static strings shared by all languages – these are not to be translated!
