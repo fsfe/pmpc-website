@@ -91,6 +91,13 @@
     "url": "https://www.aquilenet.fr/"
   },
   {
+	 "name": "ARDC",
+	 "img": "ardc.png",
+	 "orgtype": "international_ngo",
+	 "priority": "0",
+	 "url": "https://www.ardc.net/"
+ },
+  {
     "name": "ArduPilot Foundation",
     "img": "ArduPilot.png",
     "orgtype": "international_ngo",
