@@ -1312,6 +1312,13 @@
     "url": "https://www.peercoin.net/foundation"
   },
   {
+    "name": "petites singularités",
+    "img": "petites-singularites.png",
+    "orgtype": "international_ngo",
+    "priority": "0",
+    "url": "https://asbl.zoethical.org/"
+  },
+  {
     "name": "Phosh.mobi e.V.",
     "img": "phosh-mobi-ev.png",
     "orgtype": "international_ngo",
