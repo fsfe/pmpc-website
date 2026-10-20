@@ -1,24 +1,28 @@
-<form action="https://forms.fsfe.org/email" method="post">
+<form action="https://forms.fsfe.org/email" method="post" aria-labelledby="action-heading">
   <input name="appid" type="hidden" value="pmpc-sign" />
   <input name="lang" type="hidden" value="{{ substr .Lang 0 2 }}" />
   <label class="sign-input form-na">
-    <input name="name" placeholder="{{ i18n "action_form_name" }}" type="text" required />
+    <span class="sr-only">{{ i18n "action_form_name" }}</span>
+    <input name="name" placeholder="{{ i18n "action_form_name" }}" type="text" autocomplete="name" required />
   </label>
   <label class="sign-input form-em">
-    <input name="confirm" placeholder="{{ i18n "action_form_email" }}" type="email" required />
+    <span class="sr-only">{{ i18n "action_form_email" }}</span>
+    <input name="confirm" placeholder="{{ i18n "action_form_email" }}" type="email" autocomplete="email" required />
   </label>
   <br />
   <label class="sign-input form-cn">
-    <select name="country">
+    <span class="sr-only">{{ i18n "action_form_country" }}</span>
+    <select name="country" autocomplete="country">
       <option value="">{{ i18n "action_form_country" }}</option>
-	   {{ $json := resources.Get "countries/countries.json" | transform.Unmarshal }}
+      {{ $json := resources.Get "countries/countries.json" | transform.Unmarshal }}
       {{ range sort $json "name" "asc" }}
         <option value="{{ .genc2a }}">{{ .name }}</option>
       {{ end }}
     </select>
   </label>
   <label class="sign-input form-zp">
-    <input name="zip" placeholder="{{ i18n "action_form_zip" }}" type="text" maxlength="16" />
+    <span class="sr-only">{{ i18n "action_form_zip" }}</span>
+    <input name="zip" placeholder="{{ i18n "action_form_zip" }}" type="text" maxlength="16" autocomplete="postal-code" />
   </label>
   <div class="form-pe">
     <div>
