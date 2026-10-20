@@ -5,13 +5,11 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top">
+
+        {{ partial "nav.html" . }}
         
-    {{ partial "nav.html" . }}
-        
-        <header>
 		{{ partial "start.html" . }}
-        </header>
-        
+
 		<main>
         {{ partial "about.html" . }}
 
@@ -24,18 +22,17 @@
         {{ partial "resources.html" . }}
 
         {{ partial "spread.html" . }}
-
-        {{ partial "language.html" . }}				
 		</main>
 		
 		<footer>
-        {{ partial "legal.html" . }}	
-		</footer>
+        {{ partial "language.html" . }}
+
+        {{ partial "legal.html" . }}
+        </footer>
         
-        {{ partial "sharecolumn.html" . }}        
+        {{ partial "sharecolumn.html" . }}     
         {{ partial "action-box.html" . }}
 
         {{ partial "js.html" . }}
-        
     </body>
 </html>
