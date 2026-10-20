@@ -63,7 +63,7 @@ blockquote p {
 /* LANGUAGE SECTION */
 #language {
     color: #fff;
-    background-color: #333;
+    background-color: #222;
     padding: 20px;
 }
 #language p {
@@ -393,13 +393,14 @@ table.transstatus tr:hover {
   right: 0;
 }
 a {
-  border-bottom: 1px dotted rgba(255,255,255,0.5);
+  border-bottom: 2px dotted rgba(255,255,255);
 }
 a:hover {
-  border-bottom: 1px dotted rgba(255,255,255,1);
+  border-bottom: 2px solid rgba(255,255,255);
 }
-#action a, #legal a, #page a { color: #CCC; }
-#action a:hover, #legal a:hover, #page a:hover { color: #EEE; }
+
+#action a, #legal a, #page a { color: #fff; }
+#action a:hover, #legal a:hover, #page a:hover { color: #CCC; }
 #organisations a { border-bottom: 1px dotted rgba(0,109,158,0.5); }
 #organisations a:hover { border-bottom: 1px dotted rgba(0,109,158,1); }
 .btn { border: 0 !important; }
