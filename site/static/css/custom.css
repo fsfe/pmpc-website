@@ -121,11 +121,13 @@ blockquote p {
   transform: scale(0.8);
   opacity: 1;
   transition: opacity .5s, transform .5s, background-color .5s, filter .5s;
+  border-bottom: none;
 }
 #organisations ul li a:hover {
   opacity: 1;
   transform: scale(0.9);
   z-index: 5;
+  border-bottom: none;
 }
 #organisations ul li a img {
   position: absolute;
@@ -411,8 +413,10 @@ a:hover {
 
 #action a, #legal a, #page a { color: #fff; }
 #action a:hover, #legal a:hover, #page a:hover { color: #CCC; }
-#organisations a { border-bottom: 1px dotted rgba(0,109,158,0.5); }
-#organisations a:hover { border-bottom: 1px dotted rgba(0,109,158,1); }
+#organisations a { color: #006798; border-bottom: 2px dotted #006798; }
+#organisations a:hover { border-bottom: 2px solid #006798; }
+/* #org a { border-bottom: none; }
+#org a:hover { border-bottom: none; } */
 .btn { border: 0 !important; }
 .btn:hover { border: 0 !important; }
 .hiddenlink { border: 0 !important;}
