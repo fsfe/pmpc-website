@@ -64,7 +64,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #2093C4;
+    background-color: #006798;
 }
 
 .bg-dark {
@@ -491,9 +491,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #2093C4;
+    border-color: #006d9e4;
     color: #fff;
-    background-color: #2093C4;
+    background-color: #006d9e;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -505,9 +505,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #006798;
+    border-color: #2093C4;
     color: #fff;
-    background-color: #006d9e;
+    background-color: #2093C4;
 }
 
 .btn-primary:active,

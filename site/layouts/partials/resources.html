@@ -5,22 +5,26 @@
       <h2 class="hidden">{{ i18n "navigation_links_resources" }}</h2>
         <div class="row no-gutter">
             {{ range .Site.Params.resources.list }}
-                <div class="col-lg-4 col-sm-6">
-                    <a href="{{ replaceRE "^/(.*)" ("$1" | relLangURL) .link }}" target="{{ .target }}" class="resources-box resources-link">
-                        <img src="{{ .img | absURL }}" class="img-responsive" alt="" />
-                        <div class="resources-box-caption">
-                            <div class="resources-box-caption-content">
-                                <div class="resource-name">
-                                    {{ i18n (delimit (slice "resources_list_title_" .no) "") }}
-                                </div>
-                                <div class="resource-description">
-                                    {{ i18n (delimit (slice "resources_list_description_" .no) "") }}
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            {{ end }}
+				<div class="col-lg-4 col-sm-6">
+					<a href="{{ replaceRE "^/(.*)" ("$1" | relLangURL) .link }}"
+					   {{ with .target }}target="{{ . }}"{{ end }}
+					   {{ if eq .target "_blank" }}rel="noopener"{{ end }}
+					   class="resources-box resources-link">
+						<img src="{{ .img | absURL }}" class="img-responsive" alt="" />
+						<div class="resources-box-caption">
+							<div class="resources-box-caption-content">
+								<div class="resource-name">
+									{{ i18n (delimit (slice "resources_list_title_" .no) "") }}
+									{{ if eq .target "_blank" }}<span class="sr-only">({{ i18n "opens_new_tab" }})</span>{{ end }}
+								</div>
+								<div class="resource-description">
+									{{ i18n (delimit (slice "resources_list_description_" .no) "") }}
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+			{{ end }}
         </div>
     </div>
 </section>
