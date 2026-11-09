@@ -15,11 +15,3 @@ Kampagnen er ledet af **[Free Software Foundation Europe](https://fsfe.org) (FSF
 
 Hvis du har presse-relaterede forespørgsler så kontakt venligst vores PR-hold på [press@fsfe.org](mailto:press@fsfe.org). For yderligere kontaktinformation bedes du besøge FSFEs generelle  [kontaktside](https://fsfe.org/about/contact).
 
-## Mediepakker
-
-Ønsker du at sætte fokus på Public Money, Public Code? Fantastisk! 
-Gør endelig brug af vores officielle grafikker til at smykke din artikel med. Alle filer er licenseret under CC BY-SA 4.0. Hvis du skal bruge yderligere materialer eller har brug for en anden licens så kontakt os venligst.
-
-Download hele [mediepakken](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip), eller vælg fra vores udvalg herunder.
-
-{{< gallery dir="/img/media/" />}}

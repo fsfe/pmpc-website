@@ -15,10 +15,3 @@ The campaign is lead by the **[Free Software Foundation Europe](https://fsfe.org
 
 For press-related enquiries, please contact our PR team at [press@fsfe.org](mailto:press@fsfe.org). For further contact information, please head to the FSFE's general [contact page](https://fsfe.org/about/contact).
 
-## Media Kits
-
-You would like to feature Public Money, Public Code? Wonderful! Make sure to use some of our official graphics to enrich your article. All files are licenced under CC BY-SA 4.0. If you need further material or require another licence, please get in touch with us.
-
-Download the [full media kit](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip), or pick from our selection below.
-
-{{< gallery dir="/img/media/" />}}

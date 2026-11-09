@@ -15,10 +15,3 @@ Kampanju vodi **[Free Software Foundation Europe](https://fsfe.org) (FSFE)**. FS
 
 Za tiskovne upite molimo Vas da se obratite našem PR-timu na [press@fsfe.org](mailto:press@fsfe.org). Za daljnje kontaktne informacije Vas molimo da posjetite FSFE-ovu opću [kontaktnu stranicu](https://fsfe.org/about/contact).
 
-## Medijski materijali
-
-Želite li izvijestiti o Javnom novcu, javnom kôdu? Divno! Molimo Vas da obogatite Vaš članak našom službenom grafikom. Sve datoteke su dostupne pod licencom CC BY-SA 4.0. Ukoliko trebate dodatne materijale ili Vam je potrebna druga licenca, molimo Vas da nam se obratite.
-
-Preuzmite [sve medijske materijale](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip) ili niže odaberite određeni materijal.
-
-{{< gallery dir="/img/media/" />}}

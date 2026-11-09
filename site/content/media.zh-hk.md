@@ -15,10 +15,3 @@ version: 1
 
 如有傳媒相關查詢，請電郵到 [press@fsfe.org](mailto:press@fsfe.org) 聯絡我們的公關團隊。有關進一步聯絡資料，可到歐洲自由軟件基金會[聯絡頁面](https://fsfe.org/about/contact)。
 
-## 媒體資料
-
-你想報導「公共財富，公共程式碼」活動（Public Money, Public Code）？太好了！請確保使用我們官方圖像來豐富你的文章。所有檔案以共享創意 CC BY-SA 4.0 授權提供。如果你需要進一步素材或其他授權，請與我們聯絡。
-
-下載[整套媒體資料](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip)，或選用以下我們精選素材。
-
-{{< gallery dir="/img/media/" />}}

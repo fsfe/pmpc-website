@@ -15,10 +15,3 @@ Kampaň vede **[Free Software Foundation Europe](https://fsfe.org) (FSFE)**. FSF
 
 V případě dotazů týkajících se tisku kontaktujte náš PR tým na adrese [press@fsfe.org](mailto:press@fsfe.org). Další kontaktní informace naleznete na obecné stránce FSFE [kontakt](https://fsfe.org/contact/).
 
-## Sady pro média
-
-Chcete zveřejnit článek Public Money, Public Code? Skvělé! Nezapomeňte použít některou z našich oficiálních grafik, abyste obohatili svůj článek. Všechny soubory jsou licencovány pod licencí CC BY-SA 4.0. Pokud byste potřebovali další materiály nebo jiné licencování, prosím, kontaktujte nás.
-
-Stáhněte si [celou sadu pro média](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip), nebo si vyberte z galerie níže.
-
-{{< gallery dir="/img/media/" />}}
