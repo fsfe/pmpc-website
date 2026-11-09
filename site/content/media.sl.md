@@ -15,10 +15,3 @@ Pobudo vodi **[Free Software Foundation Europe](https://fsfe.org) (FSFE)**, dobr
 
 Za novinarske poizvedbe se obrnite na našo skupino za odnose z javnostmi na naslovu [press@fsfe.org](mailto:press@fsfe.org). Za dodatne kontaktne informacije obiščite [stran s kontaktnimi podatki FSFE](https://fsfe.org/about/contact).
 
-## Celostna grafična podoba
-
-Želite **Public Money, Public Code** uporabiti v publikaciji oziroma članku? Odlično! Vključite katere izmed naših uradnih grafičnih podob za obogatitev vaše vsebine. Vse datoteke so objavljene pod licenco CC BY-SA 4.0. Če potrebujete dodatno gradivo ali dovoljenje za uporabo, stopite v stik z nami.
-
-Prenesite [celostno grafično podobo](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip) ali pa uporabite posamezne datoteke spodaj.
-
-{{< gallery dir="/img/media/" />}}

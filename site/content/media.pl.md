@@ -18,12 +18,3 @@ Ta inicjatywa jest prowadzona przez **[Free Software Foundation Europe](https://
 Zgłoszenia prasowe prosimy kierować do działu PR na [press@fsfe.org](mailto:press@fsfe.org).
 Więcej informacji kontaktowych można znaleźć na [stronie kontaktowej](https://fsfe.org/about/contact).
 
-## Materiały dla mediów
-
-Chcesz wesprzeć inicjatywę Publiczne Pieniądze, Publiczny Kod? Wspaniale! Możesz skorzystać z oficjalnych grafik, aby wzbogacić swój artykuł.
-Wszystkie pliki są dostępne na licencji CC BY-SA 4.0.
-Jeśli potrzebujesz więcej materiałów lub innej licencji skontatkuj się z nami.
-
-Pobierz [media kit](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip) lub wybierz z galerii poniżej.
-
-{{< gallery dir="/img/media/" />}}

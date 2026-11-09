@@ -15,10 +15,3 @@ The **Public Money? Public Code!**キャンペーンは、公的資金で運営�
 
 プレス関連のお問い合わせは、PRチーム [press@fsfe.org](mailto:press@fsfe.org) までご連絡ください。その他の連絡先については、FSFE の一般的な [コンタクトページ](https://fsfe.org/about/contact) をご覧ください。
 
-## メディアキット
-
-Public Money, Public Code に興味を持っていただきありがとうございます。記事の内容を充実させるために、ぜひ私たちの公式グラフィックをお使いください。すべてのファイルは、CC BY-SA 4.0でライセンスされています。その他の素材が必要な場合や、別のライセンスが必要な場合は、ご連絡ください。
-
-[メディアキット完全版](https://download.fsfe.org/campaigns/pmpc/pmpc_media_kit.zip)をダウンロードするか、以下のセクションから選択してください。
-
-{{< gallery dir="/img/media/" />}}
