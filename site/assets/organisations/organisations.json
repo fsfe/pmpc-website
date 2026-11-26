@@ -1130,6 +1130,13 @@
     "url": "https://www.nluug.nl/"
   },
   {
+    "name": "Norwegian Consumer Council (Forbrukerrådet)",
+    "img": "forbrukerradet.png",
+    "orgtype": "administration",
+    "priority": "1",
+    "url": "https://www.forbrukerradet.no/"
+  },
+  {
     "name": "Norwegian Labour and Welfare Administration (NAV)",
     "img": "NAV.png",
     "orgtype": "administration",
